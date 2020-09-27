@@ -23,6 +23,7 @@ NSW Health Departments
 
 ## Techniques that will be using for this project:
 API calls to retrive venue details (coordinations, historical information)
+Geocoding to convert addresses into coordinates
 Web scraping
 Database to store the retrive data
 Leaflet to map out the findings
