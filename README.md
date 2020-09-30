@@ -16,12 +16,15 @@ Therefore, in this project, I would like to find out:
 
 ## Methods:
 1. Mapping : In order to map out the venues in Sydney, it would require the geographical information of each venue, coordinates for best convinience in this project.
+            
             - I would like to use web scrapping to gather a list of live music venues in Sydney with venue name and address
               source: https://www.eventfinda.com.au/venues/sydney/live-music, Google API
         
             - After the names and address are retrived, I then will use GeoCoding to get the coordinates by using leaflet GeoCoding library
   
-            - 
+            - finally use leaflet to map out the venues on mapbox
+            
+            - it would be better if I can show veneues over a certain time period, I need to find an interactive element to scroll the years/data
   
 
 
