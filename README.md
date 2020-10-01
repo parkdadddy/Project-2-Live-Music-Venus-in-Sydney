@@ -1,10 +1,14 @@
 # Project-2-Live-Music-Venus-in-Sydney
 Last year, I finished my honours thesis on Live Music Ecology in the context of urban planning and cultural production. So in this project, I would like to consider it as an extenstion to my thesis . In particular, I would like to see how the skills that have been developed since project 1 can improve my approach to my initial research.
 
-## Mini Thesis Context:
+## Mini Context:
 The lockout laws which were introduced by the NSW Government have devastating effects on the live music ecology in Sydney, more than hundreds of the live performance venues have closed down. And besides the direct influences from policies and government commiments, live music ecology is also indirectly and directly affected by gentrification and the intensifying requirements on building upgrades.
 
-The core argument to introduce the lockouts laws is to reduce alcohol related harm, assumingly, more alcohol consumption will lead to more alcohol relate harms, and so are the number of alcohol licensed venues and selling premises.
+The core argument to introduce the lockouts laws is to reduce alcohol related harm, alcohol-related harm increases when the price of alcohol is lowered and when the density of licensed premises increases. There is an established literature on both matters, principally authored by social epidemiologists and economists, so one of the way to reduce the harm is to disperse venues and premises that sell alcohol, and to reduce the density.
+
+And yet, to estabilish a thriving live music scene, clustering the venues together is critical, as it will create a destination, and strength the network which replies on the proxmity of the venues.
+
+So is it to dispers or cluster?
 
 Therefore, in this project, I would like to find out:
   
