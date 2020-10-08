@@ -1,0 +1,181 @@
+,name,vicinity,Latitude,Longitude,name,rating,types,business_status
+0,Duxton Hotel Perth,"1 Saint Georges Terrace, Perth",-31.957937199999996,115.86470790000001,Duxton Hotel Perth,4.3,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+1,My Place Bar & Restaurant,"70 Pier Street, Perth",-31.95445,115.86288,My Place Bar & Restaurant,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+2,The Melbourne Hotel,"33 Milligan Street, Perth",-31.951561699999996,115.85134129999999,The Melbourne Hotel,4.3,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+3,Sentinel Bar & Grill,"111 Saint Georges Terrace, Perth",-31.954837,115.85622020000001,Sentinel Bar & Grill,4.3,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",
+4,The Murray Hotel,"718 Murray Street, West Perth",-31.946134999999998,115.839425,The Murray Hotel,3.9,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+5,The George,"216 Saint Georges Terrace, Perth",-31.95316669999999,115.85255559999999,The George,4.0,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",
+6,Andaluz Bar & Tapas,"21 Howard Street, Perth",-31.955498,115.85721699999999,Andaluz Bar & Tapas,4.4,"[""bar"",""meal_takeaway"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+7,The Garden,"742 Newcastle Street, Leederville",-31.937309000000003,115.8419,The Garden,4.1,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+8,The Royal on the Waterfront,"60 Royal Street, East Perth",-31.952669799999992,115.8779147,The Royal on the Waterfront,4.1,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+9,Gramercy Bar And Kitchen,"Central Park, 10/777 Hay Street, Perth",-31.9534211,115.8561186,Gramercy Bar And Kitchen,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+10,The Stables,"888 Hay Street, Perth",-31.9521999,115.85312649999999,The Stables,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+11,Black Tom's,"27 Ord Street, West Perth",-31.95073,115.840726,Black Tom's,4.0,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",
+12,The Old Swan Barracks Backpacker Hostel Perth,"2-8 Francis Street, Perth",-31.94889169999999,115.86225559999998,The Old Swan Barracks Backpacker Hostel Perth,3.5,"[""lodging"",""bar"",""point_of_interest"",""establishment""]",
+13,Brass Monkey Hotel,"James Street, Northbridge",-31.948818,115.859226,Brass Monkey Hotel,3.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+14,Universal Bar,"221 William Street, Perth",-31.948611100000004,115.85944440000002,Universal Bar,4.0,"[""bar"",""point_of_interest"",""establishment""]",
+15,Friends Restaurant,"Cloisters, 200 Saint Georges Terrace, Perth",-31.953193100000004,115.85318659999999,Friends Restaurant,4.7,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+16,The Court,"50 Beaufort Street, Perth",-31.9502778,115.8625,The Court,4.0,"[""night_club"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+17,The Brisbane Hotel,"292 Beaufort Street, Perth",-31.9439841,115.8662925,The Brisbane Hotel,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+18,The Lucky Shag,"Ferry Route Barrack St Jetty, Riverside Drive, Perth",-31.959613899999997,115.85886440000002,The Lucky Shag,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+19,Tiger Lil's,"437 Murray Street, Perth",-31.951064399999996,115.85280690000002,Tiger Lil's,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+20,The Grosvenor Hotel,"339 Hay Street, Perth",-31.9575,115.86833329999999,The Grosvenor Hotel,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+21,The Queens,"520 Beaufort Street, Highgate",-31.9381962,115.8699798,The Queens,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+22,The Vic,"226 Hay Street, Subiaco",-31.946987100000005,115.83082579999999,The Vic,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+23,Arirang Korean BBQ Restaurant,"91-93 Barrack Street, Perth",-31.9537989,115.86057269999999,Arirang Korean BBQ Restaurant,3.9,"[""grocery_or_supermarket"",""meal_takeaway"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",
+24,Geisha Bar,"135A James Street, Northbridge",-31.948176500000002,115.8571473,Geisha Bar,4.2,"[""bar"",""night_club"",""point_of_interest"",""establishment""]",
+25,Hit Studio Karaoke,"64 Francis Street, Northbridge",-31.9473669,115.85880379999999,Hit Studio Karaoke,3.7,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",
+26,Belgian Beer Cafe,"Cnr King St &, Murray Street, Perth",-31.951931400000003,115.8553336,Belgian Beer Cafe,4.2,"[""cafe"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",
+27,Duende,"662 Newcastle Street, Leederville",-31.937572399999997,115.8424114,Duende,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+28,Lalla Rookh,"77 Saint Georges Terrace, Perth",-31.9555,115.8583336,Lalla Rookh,4.1,"[""bar"",""liquor_store"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",
+29,Crema Cafe,"1204 Hay Street, West Perth",-31.94867899999999,115.84260800000001,Crema Cafe,4.2,"[""cafe"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",
+30,The Moon,"Shop 2/323 William Street, Northbridge",-31.945978000000004,115.8611007,The Moon,4.5,"[""cafe"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+31,Hula Bula Bar,"12 Victoria Avenue, Perth",-31.956941600000004,115.8658981,Hula Bula Bar,4.4,"[""bar"",""point_of_interest"",""establishment""]",
+32,Subiaco Hotel,"465 Hay Street, Subiaco",-31.947233100000002,115.8241936,Subiaco Hotel,3.8,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+33,Paramount Nightclub,"163 James Street, Northbridge",-31.947774100000004,115.8559873,Paramount Nightclub,2.6,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",
+34,Metro Bar and Bistro,"33 Mounts Bay Road, Perth",-31.95541690000001,115.8524094,Metro Bar and Bistro,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+35,Outback Jacks Northbridge - Australian Steak House,"124 James Street, Northbridge",-31.9481267,115.85757050000001,Outback Jacks Northbridge - Australian Steak House,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+36,Fibber McGee's,"711 Newcastle Street, Leederville",-31.9376411,115.8417358,Fibber McGee's,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+37,The Aberdeen Hotel,"90 Aberdeen Street, Northbridge",-31.9464442,115.85933899999999,The Aberdeen Hotel,3.8,"[""bar"",""point_of_interest"",""establishment""]",
+38,Ezra Pound,"189 William Street, Northbridge",-31.9492537,115.8590467,Ezra Pound,4.5,"[""bar"",""point_of_interest"",""establishment""]",
+39,Perth's Famous Wine Cruise,"3 Barrack Street, Perth",-31.95657280000001,115.8590564,Perth's Famous Wine Cruise,4.7,"[""bar"",""point_of_interest"",""establishment""]",
+40,Mayfair Lane Pub & Dining Room,"72 Outram Street, West Perth",-31.9474455,115.8403318,Mayfair Lane Pub & Dining Room,4.3,"[""meal_takeaway"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+41,The Bird,"181 William Street, Northbridge",-31.9496292,115.8587993,The Bird,4.6,"[""bar"",""point_of_interest"",""establishment""]",
+42,Bivouac Canteen & Bar,"198 William Street, Perth",-31.949429,115.859307,Bivouac Canteen & Bar,4.7,"[""restaurant"",""meal_takeaway"",""bar"",""food"",""point_of_interest"",""establishment""]",
+43,Hyde Park Hotel,"331 Bulwer Street, West Perth",-31.938193,115.85704270000001,Hyde Park Hotel,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+44,The Ellington Jazz Club,"191 Beaufort Street, Perth",-31.9466589,115.86428909999998,The Ellington Jazz Club,4.6,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",
+45,Rosemount Hotel,"459 Fitzgerald Street, North Perth",-31.9308913,115.8590028,Rosemount Hotel,4.3,"[""bar"",""point_of_interest"",""establishment""]",
+46,Bistro Felix,"118-120 Rokeby Road, Subiaco",-31.94833299999999,115.824272,Bistro Felix,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+47,Oxford Hotel,"368 Oxford Street, Leederville",-31.925423,115.841573,Oxford Hotel,4.3,"[""bar"",""point_of_interest"",""establishment""]",
+48,Mustang Bar,"46 Lake Street, Northbridge",-31.947313300000005,115.8572922,Mustang Bar,4.1,"[""bar"",""point_of_interest"",""establishment""]",
+49,The Cabin Small Bar,"Upstairs, 174 Scarborough Beach Road, Mount Hawthorn",-31.920784600000008,115.8379483,The Cabin Small Bar,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+50,Liquor Store Association,"Centrepoint Tower, 25/123B Colin Street, West Perth",-31.94558079999999,115.8425527,Liquor Store Association,,"[""bar"",""liquor_store"",""point_of_interest"",""store"",""establishment""]",
+51,43 Below Bar & Restaurant,"43 Barrack Street, Perth",-31.954723699999995,115.86006680000001,43 Below Bar & Restaurant,4.1,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",
+52,Niche Bar,"7/663 Newcastle Street, Leederville",-31.9384003,115.84179089999999,Niche Bar,3.9,"[""bar"",""point_of_interest"",""establishment""]",
+53,Varsity Northbridge,"94 Aberdeen Street, Northbridge",-31.946244300000004,115.85877649999999,Varsity Northbridge,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+54,Must Winebar,"519 Beaufort Street, Highgate",-31.938051899999998,115.8697429,Must Winebar,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+55,Kuditj,"201 Beaufort Street, Perth",-31.9463728,115.8642975,Kuditj,5.0,"[""bar"",""food"",""point_of_interest"",""establishment""]",
+56,Cafe Crown,"85 Stirling Street, Perth",-31.949841600000003,115.86374779999998,Cafe Crown,4.3,"[""cafe"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",
+57,Jack Rabbit Slim's,"133 Aberdeen Street, Perth",-31.9456468,115.8567375,Jack Rabbit Slim's,3.7,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",
+58,Holey Moley Golf Club Northbridge,"53 Lake Street, Northbridge",-31.946609999999996,115.8573,Holey Moley Golf Club Northbridge,4.4,"[""bar"",""point_of_interest"",""establishment""]",
+59,Midori Teppanyaki and Bar,"27 Lake Street, Northbridge",-31.9476333,115.85668059999999,Midori Teppanyaki and Bar,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",
+0,Delhi 'O' Delhi,"3 Erskineville Road, Newtown",-33.89728770000001,151.1806204,Delhi 'O' Delhi,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+1,Bloodwood Restaurant & Bar,"416 King Street, Newtown",-33.90006799999999,151.17820700000001,Bloodwood Restaurant & Bar,4.4,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+2,Palace Norton Street,"99 Norton Street, Leichhardt",-33.884906799999996,151.1573964,Palace Norton Street,4.5,"[""movie_theater"",""cafe"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+3,Websters Bar,"323 King Street, Newtown",-33.89698819999999,151.1790595,Websters Bar,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+4,The Vic On The Park,"2 Addison Road, Marrickville",-33.904175099999996,151.16819919999998,The Vic On The Park,4.3,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+5,The Henson,"91 Illawarra Road, Marrickville",-33.905157200000005,151.1613261,The Henson,4.4,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+6,The Bank,"324 King Street, Newtown",-33.89748649999999,151.1792614,The Bank,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+7,Courthouse Hotel,"202 Australia Street, Newtown",-33.89608610000001,151.1782361,Courthouse Hotel,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+8,Camelot Lounge,"Marrickville Rd & Railway Parade, 103 Marrickville Road, Marrickville",-33.914882399999996,151.1644596,Camelot Lounge,4.6,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+9,CHiLLi PiP - Custom made lounges in Sydney.,"135 Victoria Road, Marrickville",-33.9065092,151.1646601,CHiLLi PiP - Custom made lounges in Sydney.,4.9,"[""night_club"",""furniture_store"",""home_goods_store"",""bar"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+10,The Duke of Enmore,"148 Enmore Road, Enmore",-33.89896549999999,151.1734927,The Duke of Enmore,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",CLOSED_TEMPORARILY
+11,Hartsyard,"33 Enmore Road, Newtown",-33.898258500000004,151.17685500000002,Hartsyard,4.3,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+12,Royal Exchange Hotel,"203 Marrickville Road, Marrickville",-33.9110541,151.157835,Royal Exchange Hotel,3.8,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+13,Andiamo Trattoria Summer Hill,"29 Lackey Street, Summer Hill",-33.8914841,151.1380252,Andiamo Trattoria Summer Hill,4.3,"[""meal_delivery"",""meal_takeaway"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+14,Nortons On Norton,"393 Parramatta Road, Leichhardt",-33.88808030000001,151.1577501,Nortons On Norton,2.6,"[""bar"",""night_club"",""point_of_interest"",""establishment""]",OPERATIONAL
+15,Arabella Lebanese Restaurant,"12/489-491 King Street, Newtown",-33.90232049999999,151.1788454,Arabella Lebanese Restaurant,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+16,Union Hotel,"576 King Street, Newtown",-33.9040152,151.1802934,Union Hotel,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+17,Town Hall Hotel,"326 King Street, Newtown",-33.8980603,151.17870190000002,Town Hall Hotel,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+18,Botany View Hotel,"597 King Street, Newtown",-33.90586159999999,151.1808877,Botany View Hotel,3.9,"[""bar"",""liquor_store"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+19,Rowers On Cooks River,"1 Levey Street, Wolli Creek",-33.9331807,151.1585446,Rowers On Cooks River,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+20,Hurlstone Park Hotel,"590 New Canterbury Road, Hurlstone Park",-33.905316799999994,151.13293810000002,Hurlstone Park Hotel,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+21,Portugal Madeira Club,"1 Denby Street, Marrickville",-33.903694200000004,151.1657638,Portugal Madeira Club,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+22,Marrickville Ritz Hotel,"252-254 Illawarra Road, Marrickville",-33.911105,151.155503,Marrickville Ritz Hotel,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+23,Bucket Boys Craft Beer Co,"Ground Floor/300 Illawarra Road, Marrickville",-33.912155600000006,151.1544361,Bucket Boys Craft Beer Co,4.4,"[""liquor_store"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+24,Titus Jones,"337 Illawarra Road, Marrickville",-33.9125233,151.15435219999998,Titus Jones,4.7,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+25,Gasoline Pony,"115 Marrickville Road, Marrickville",-33.912422,151.16083700000001,Gasoline Pony,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+26,The Sausage Factory,"380 New Canterbury Road, Dulwich Hill",-33.9028898,151.14364019999996,The Sausage Factory,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+27,White Cockatoo Hotel,"30 Terminus Street, Petersham",-33.893302899999995,151.15571809999997,White Cockatoo Hotel,4.3,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+28,MANIAX Axe Throwing - SYDNEY,"2/01/75 Mary Street, St Peters",-33.91305560000001,151.1725,MANIAX Axe Throwing - SYDNEY,4.8,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+29,Riverview Pinup Pub Tempe,"900 Princes Highway, Tempe",-33.926328600000005,151.1592735,Riverview Pinup Pub Tempe,3.3,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+30,Town & Country Hotel,"2 Unwins Bridge Road, St Peters",-33.9103278,151.1757139,Town & Country Hotel,4.2,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+31,Zebra Bar,"167 Enmore Road, Enmore",-33.8987164,151.17255690000002,Zebra Bar,4.7,"[""bar"",""point_of_interest"",""establishment""]",CLOSED_TEMPORARILY
+32,Oscars Grill,"Southern Cross Hotel, 340 Princes Highway, St Peters",-33.9158174,151.1745662,Oscars Grill,4.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+33,Jacoby’s Tiki Bar,"154 Enmore Road, Enmore",-33.89897620000001,151.1731862,Jacoby’s Tiki Bar,4.6,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+34,Stanbuli,"135 Enmore Road, Enmore",-33.898695000000004,151.17334499999998,Stanbuli,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+35,Young Henrys,"76 Wilford Street, Newtown",-33.898107,151.174359,Young Henrys,4.5,"[""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+36,Vernon's Bar,"First Floor, 2 Moonbie Street, Summer Hill",-33.8918179,151.13705819999998,Vernon's Bar,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+37,Norton's Irish Pub,"1 Norton Street, Leichhardt",-33.8880093,151.15776719999997,Norton's Irish Pub,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+38,Trolley'd,"2C Gladstone Street, Newtown",-33.897512899999995,151.1742571,Trolley'd,4.9,"[""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+39,Clarence Hotel,"450 Parramatta Road, Petersham",-33.8880945,151.15922619999998,Clarence Hotel,1.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+40,The Vintage Cafe,"Shop 1/52-60 Enmore Road, Newtown",-33.8987469,151.1762113,The Vintage Cafe,4.2,"[""cafe"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",CLOSED_TEMPORARILY
+41,Creek and Cella,"54 Norton Street, Leichhardt",-33.88627160000001,151.1571083,Creek and Cella,4.8,"[""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+42,Holey Moley Golf Club Newtown,"387 King Street, Newtown",-33.89955560000001,151.177675,Holey Moley Golf Club Newtown,4.2,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+43,Argie BarGee,"377 King Street, Newtown",-33.8991825,151.1775825,Argie BarGee,3.5,"[""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+44,Cafe Claire,"Shop 3/2 Young Street, Annandale",-33.8877182,151.16489019999997,Cafe Claire,4.3,"[""cafe"",""night_club"",""bakery"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+45,Odyssey Bar Restaurant,"63 Norton Street, Leichhardt",-33.8856422,151.1574247,Odyssey Bar Restaurant,3.2,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+46,Gurdys,"349 King Street, Newtown",-33.8984218,151.17785669999998,Gurdys,4.5,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+47,Carlisle Castle Hotel,"17-19 Albermarle Street, Newtown",-33.8953158,151.1764444,Carlisle Castle Hotel,4.3,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+48,Lazybones Lounge Restaurant & Bar,"294 Illawarra Road, Marrickville",-33.9107196,151.1563386,Lazybones Lounge Restaurant & Bar,4.6,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+49,212 Blu,"212 Australia Street, Newtown",-33.8963302,151.1784159,212 Blu,4.4,"[""cafe"",""bar"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+50,Uncle Hops,"324 King Street, Newtown",-33.89751570000001,151.17921919999998,Uncle Hops,4.1,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+51,Golden Barley Hotel,"165-169 Edgeware Road, Enmore",-33.904728399999996,151.17308119999998,Golden Barley Hotel,4.3,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+52,Gladstone Hotel,"572 Marrickville Road, Dulwich Hill",-33.9036,151.14231999999998,Gladstone Hotel,4.0,"[""lodging"",""bar"",""liquor_store"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+53,Elegant Interior 1,"80-84 Parramatta Road, Stanmore",-33.88804199999999,151.169823,Elegant Interior 1,,"[""laundry"",""night_club"",""furniture_store"",""home_goods_store"",""bar"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+54,The Marke Kitchen & Bar,"22 Levey Street, Wolli Creek",-33.9343138,151.1569006,The Marke Kitchen & Bar,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+55,Summer Hill Hotel,"1 Lackey Street, Summer Hill",-33.8904391,151.13827890000002,Summer Hill Hotel,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+56,The Warren View Hotel,"2 Stanmore Road, Enmore",-33.899561799999994,151.1707227,The Warren View Hotel,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+57,Mary's Newtown,"6 Mary Street, Newtown",-33.8960878,151.1797845,Mary's Newtown,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+58,Shane The Waiter,"Rochford Street, Erskineville",-33.900848100000005,151.182624,Shane The Waiter,,"[""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+59,Lewisham Hotel,"794 Parramatta Road, Lewisham",-33.890158,151.14679099999998,Lewisham Hotel,3.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+60,QT Sydney,"49 Market Street, Sydney",-33.870803,151.2075484,QT Sydney,4.6,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+61,Sir Stamford at Circular Quay,"93 Macquarie Street, Sydney",-33.8622576,151.21284690000002,Sir Stamford at Circular Quay,4.4,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+62,Wake Up! Sydney,"509 Pitt Street, Sydney",-33.882378700000004,151.2046676,Wake Up! Sydney,4.4,"[""night_club"",""cafe"",""travel_agency"",""lodging"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+63,Amora Hotel,"11 Jamison Street, Sydney",-33.864458,151.20629519999997,Amora Hotel,4.4,"[""spa"",""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+64,Castlereagh Boutique Hotel,"169 Castlereagh Street, Sydney",-33.872522,151.2090122,Castlereagh Boutique Hotel,3.9,"[""cafe"",""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+65,Travelodge Hotel Sydney Wynyard,"7-9 York Street, Sydney",-33.8648016,151.2054365,Travelodge Hotel Sydney Wynyard,3.8,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+66,Ovolo Woolloomooloo,"6 Cowper Wharf Roadway, Woolloomooloo",-33.868694299999994,151.2203979,Ovolo Woolloomooloo,4.6,"[""lodging"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+67,Ovolo 1888 Darling Harbour,"139 Murray Street, Pyrmont",-33.872670899999996,151.19705159999998,Ovolo 1888 Darling Harbour,4.7,"[""lodging"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+68,Base Backpackers Sydney,"477 Kent Street, Sydney",-33.8732102,151.2049944,Base Backpackers Sydney,3.8,"[""travel_agency"",""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+69,Adria Bar Restaurant,"T.107 Cockle Bay Wharf, Darling Harbour",-33.8716796,151.20213130000002,Adria Bar Restaurant,3.6,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+70,Georges Mediterranean Bar & Grill,"King Street Wharf, 3 The Promenade, Sydney",-33.866664,151.2014112,Georges Mediterranean Bar & Grill,3.8,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+71,Captain Cook Hotel,"162 Flinders Street, Paddington",-33.8864364,151.21911540000002,Captain Cook Hotel,3.7,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+72,Rockpool Bar & Grill,"66 Hunter Street, Sydney",-33.866098,151.21020380000002,Rockpool Bar & Grill,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+73,Shakespeare Hotel,"200 Devonshire Street, Surry Hills",-33.887468,151.21111399999998,Shakespeare Hotel,4.3,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+74,The Bavarian York St.,"24 York Street, Sydney",-33.8682602,151.2061468,The Bavarian York St.,4.0,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+75,Hotel Downing,"249 Castlereagh Street, Sydney",-33.87643800000001,151.208623,Hotel Downing,4.1,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+76,Prime Steak Restaurant,"GPO Building, Lower Ground Floor, 1 Martin Place, Sydney",-33.867818,151.2080959,Prime Steak Restaurant,4.6,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+77,China Doll,"4/6 Cowper Wharf Roadway, Woolloomooloo",-33.868630100000004,151.22022030000002,China Doll,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+78,The Hero of Waterloo,"81 Lower Fort Street, Millers Point",-33.85774250000001,151.20579519999998,The Hero of Waterloo,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+79,Toko Sydney,"490 Crown Street, Surry Hills",-33.886837,151.2138757,Toko Sydney,4.3,"[""night_club"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+80,Redoak Boutique Beer Cafe,"201 Clarence Street, Sydney",-33.869662899999994,151.205246,Redoak Boutique Beer Cafe,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+81,The Winery,"285A Crown Street, Surry Hills",-33.881523,151.214291,The Winery,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+82,Chamberlain Hotel (C-Bar),"428 Pitt Street, Sydney",-33.87923140000001,151.20727150000002,Chamberlain Hotel (C-Bar),4.1,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+83,Cafe Sydney,"5 Sydney Customs House, 31 Alfred Street, Sydney",-33.862179299999994,151.2108864,Cafe Sydney,4.4,"[""cafe"",""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+84,The Grand Hotel,"30 Hunter Street, Sydney",-33.8654205,151.20846840000002,The Grand Hotel,3.8,"[""lodging"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+85,Sienna Marina,"6/7-41 Cowper Wharf Roadway, Woolloomooloo",-33.869365,151.220224,Sienna Marina,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+86,Flying Fish,"80 Pyrmont Street, Pyrmont",-33.8683472,151.1962233,Flying Fish,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+87,Grandma's Bar,"Basement/275 Clarence Street, Sydney",-33.87212499999999,151.205429,Grandma's Bar,4.5,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+88,Ms.G’s,"155 Victoria Street, Potts Point",-33.8726326,151.2224665,Ms.G’s,4.4,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+89,Verde Restaurant,"115 Riley Street, Darlinghurst",-33.8758226,151.2148976,Verde Restaurant,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+90,The Beresford,"354 Bourke Street, Surry Hills",-33.8832789,151.2166425,The Beresford,4.2,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+91,The Tilbury Hotel,"12-18 Nicholson Street, Woolloomooloo",-33.8698016,151.2205449,The Tilbury Hotel,3.9,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+92,The Glenmore Hotel,"96 Cumberland Street, The Rocks",-33.858655600000006,151.20743330000002,The Glenmore Hotel,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+93,El Loco at Slip Inn,"111 Sussex Street, Sydney",-33.868632899999994,151.2034689,El Loco at Slip Inn,3.9,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+94,The Captains Balcony,"46 Erskine Street, Sydney",-33.866642399999996,151.2036552,The Captains Balcony,4.5,"[""bar"",""night_club"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+95,O Bar and Dining,"Australia Square, 264, level 47 George Street, Sydney",-33.864967,151.207785,O Bar and Dining,4.4,"[""night_club"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+96,Empire Hotel,"32 Darlinghurst Road, Potts Point",-33.87344629999999,151.2245621,Empire Hotel,3.8,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+97,Zeta Bar,"level 4/488 George Street, Sydney",-33.8717,151.20775930000002,Zeta Bar,3.9,"[""bar"",""point_of_interest"",""establishment""]",CLOSED_TEMPORARILY
+98,Macchiato Wood Fire Pizza & Coffee Roastery,"Shop 2/338 Pitt Street, Sydney",-33.8764102,151.2081496,Macchiato Wood Fire Pizza & Coffee Roastery,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""store"",""establishment""]",OPERATIONAL
+99,Kingsleys Woolloomooloo,"10/6 Cowper Wharf Roadway, Woolloomooloo",-33.86785649999999,151.2206764,Kingsleys Woolloomooloo,4.1,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+100,Since I Left You (SILY),"338 Kent Street, Sydney",-33.869657000000004,151.204818,Since I Left You (SILY),4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+101,The Baxter Inn,"152-156 Clarence Street, Sydney",-33.869722900000006,151.205634,The Baxter Inn,4.7,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+102,Ash St. Cellar,"1 Ash Street, Sydney",-33.866595600000004,151.2075711,Ash St. Cellar,4.2,"[""restaurant"",""cafe"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+103,Fix Wine Bar + Restaurant,"111 Elizabeth Street, Sydney",-33.869791,151.210077,Fix Wine Bar + Restaurant,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+104,Harts Pub,"Essex St &, Gloucester Street, The Rocks",-33.8617169,151.2064254,Harts Pub,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+105,Establishment Bar,"Ground Floor, 252 George Street, Sydney",-33.8640815,151.2075994,Establishment Bar,3.9,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+106,Four in Hand Pub,"105 Sutherland Street, Paddington",-33.8837584,151.23442659999998,Four in Hand Pub,4.1,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+107,Harbour View Hotel,"18 Lower Fort Street, Dawes Point",-33.85659829999999,151.2073426,Harbour View Hotel,4.1,"[""lodging"",""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+108,The Wine Library,"18 Oxford Street, Woollahra",-33.8888609,151.2325784,The Wine Library,4.5,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+109,The Sussex Hotel,"20 Sussex Street, Sydney",-33.8650047,151.2033736,The Sussex Hotel,4.0,"[""bar"",""point_of_interest"",""establishment""]",CLOSED_TEMPORARILY
+110,Small Bar,"48 Erskine Street, Sydney",-33.8666444,151.2036972,Small Bar,4.5,"[""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+111,Bodega,"entrance on, 50 Holt Street, Gladstone Street, Surry Hills",-33.8863254,151.2094246,Bodega,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+112,The ArtHouse Hotel,"275 Pitt Street, Sydney",-33.8723395,151.2078375,The ArtHouse Hotel,3.9,"[""night_club"",""bar"",""point_of_interest"",""establishment""]",OPERATIONAL
+113,Button Bar,"65 Foveaux Street, Surry Hills",-33.8844693,151.21065819999998,Button Bar,4.2,"[""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+114,Hurricane's Grill Darling Harbour,"433/436 Darling Drive, Sydney",-33.8707409,151.1989615,Hurricane's Grill Darling Harbour,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+115,Malt Shovel Taphouse - The Rocks,"135 Harrington Street, The Rocks",-33.8626707,151.20646069999998,Malt Shovel Taphouse - The Rocks,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+116,Woollahra Hotel,"116 Queen Street, Woollahra",-33.88838000000001,151.23687619999998,Woollahra Hotel,4.0,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+117,The Loft,"3 Lime Street, Sydney",-33.865999200000005,151.20157690000002,The Loft,4.2,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+118,Hotel CBD,"52 King Street, Sydney",-33.8684874,151.2058782,Hotel CBD,3.9,"[""restaurant"",""bar"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
+119,Manta Restaurant,"6/6 Cowper Wharf Roadway, Woolloomooloo",-33.86842669999999,151.22049180000002,Manta Restaurant,4.3,"[""bar"",""restaurant"",""food"",""point_of_interest"",""establishment""]",OPERATIONAL
