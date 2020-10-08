@@ -1,0 +1,3200 @@
+[{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc80"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8972877,
+      "lng": 151.1806204
+    }
+  },
+  "name": "Delhi 'O' Delhi",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJC_usVDGwEmsRdQauAejn-7o",
+  "rating": 4.4,
+  "reference": "ChIJC_usVDGwEmsRdQauAejn-7o",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 514,
+  "vicinity": "3 Erskineville Road, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc81"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.90006799999999,
+      "lng": 151.178207
+    }
+  },
+  "name": "Bloodwood Restaurant & Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJq1QuszewEmsRFymD2x2e6dw",
+  "rating": 4.4,
+  "reference": "ChIJq1QuszewEmsRFymD2x2e6dw",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 531,
+  "vicinity": "416 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc82"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8849068,
+      "lng": 151.1573964
+    }
+  },
+  "name": "Palace Norton Street",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJe6xSIhqwEmsRlqk8dOjDHZM",
+  "rating": 4.5,
+  "reference": "ChIJe6xSIhqwEmsRlqk8dOjDHZM",
+  "types": [
+    "movie_theater",
+    "cafe",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1082,
+  "vicinity": "99 Norton Street, Leichhardt"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc83"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.89698819999999,
+      "lng": 151.1790595
+    }
+  },
+  "name": "Websters Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ6zc9zTawEmsRnod33Al5njQ",
+  "rating": 3.9,
+  "reference": "ChIJ6zc9zTawEmsRnod33Al5njQ",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1144,
+  "vicinity": "323 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc84"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9041751,
+      "lng": 151.1681992
+    }
+  },
+  "name": "The Vic On The Park",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJHz5DXkGwEmsR2dEmSHsDouo",
+  "rating": 4.3,
+  "reference": "ChIJHz5DXkGwEmsR2dEmSHsDouo",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1492,
+  "vicinity": "2 Addison Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc85"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9051572,
+      "lng": 151.1613261
+    }
+  },
+  "name": "The Henson",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJzZIVrWmwEmsRcYBztYxViJI",
+  "rating": 4.4,
+  "reference": "ChIJzZIVrWmwEmsRcYBztYxViJI",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1642,
+  "vicinity": "91 Illawarra Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc86"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.89748649999999,
+      "lng": 151.1792614
+    }
+  },
+  "name": "The Bank",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJtRkqxTawEmsRlXVE5CkdA3w",
+  "rating": 4.2,
+  "reference": "ChIJtRkqxTawEmsRlXVE5CkdA3w",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1892,
+  "vicinity": "324 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc87"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.89608610000001,
+      "lng": 151.1782361
+    }
+  },
+  "name": "Courthouse Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJlS8KKDGwEmsRWTL3GDRyiTI",
+  "rating": 4.5,
+  "reference": "ChIJlS8KKDGwEmsRWTL3GDRyiTI",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1832,
+  "vicinity": "202 Australia Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc88"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9148824,
+      "lng": 151.1644596
+    }
+  },
+  "name": "Camelot Lounge",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJEZJdIl6wEmsRZBlDMFFo2V4",
+  "rating": 4.6,
+  "reference": "ChIJEZJdIl6wEmsRZBlDMFFo2V4",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 600,
+  "vicinity": "Marrickville Rd & Railway Parade, 103 Marrickville Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc89"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9065092,
+      "lng": 151.1646601
+    }
+  },
+  "name": "CHiLLi PiP - Custom made lounges in Sydney.",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJk0h2VVqwEmsRhx_LFwCQPqw",
+  "rating": 4.9,
+  "reference": "ChIJk0h2VVqwEmsRhx_LFwCQPqw",
+  "types": [
+    "night_club",
+    "furniture_store",
+    "home_goods_store",
+    "bar",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 72,
+  "vicinity": "135 Victoria Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc8a"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.89896549999999,
+      "lng": 151.1734927
+    }
+  },
+  "name": "The Duke of Enmore",
+  "place_id": "ChIJu6X4QziwEmsRja9YB52kWVs",
+  "rating": 4.2,
+  "reference": "ChIJu6X4QziwEmsRja9YB52kWVs",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 315,
+  "vicinity": "148 Enmore Road, Enmore"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc8b"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8982585,
+      "lng": 151.176855
+    }
+  },
+  "name": "Hartsyard",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJwdKXEjewEmsRI7CJQlsmZwY",
+  "rating": 4.3,
+  "reference": "ChIJwdKXEjewEmsRI7CJQlsmZwY",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 405,
+  "vicinity": "33 Enmore Road, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc8c"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9110541,
+      "lng": 151.157835
+    }
+  },
+  "name": "Royal Exchange Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ1Q93HWSwEmsRFbtvzjaiJzU",
+  "rating": 3.8,
+  "reference": "ChIJ1Q93HWSwEmsRFbtvzjaiJzU",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 344,
+  "vicinity": "203 Marrickville Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc8d"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8914841,
+      "lng": 151.1380252
+    }
+  },
+  "name": "Andiamo Trattoria Summer Hill",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJNRjHKaC6EmsRaR73BqY_WqQ",
+  "rating": 4.3,
+  "reference": "ChIJNRjHKaC6EmsRaR73BqY_WqQ",
+  "types": [
+    "meal_delivery",
+    "meal_takeaway",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 629,
+  "vicinity": "29 Lackey Street, Summer Hill"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc8e"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.88808030000001,
+      "lng": 151.1577501
+    }
+  },
+  "name": "Nortons On Norton",
+  "place_id": "ChIJG55WyxCwEmsRgzUS6oQKO8g",
+  "rating": 2.6,
+  "reference": "ChIJG55WyxCwEmsRgzUS6oQKO8g",
+  "types": [
+    "bar",
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 5,
+  "vicinity": "393 Parramatta Road, Leichhardt"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc8f"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.90232049999999,
+      "lng": 151.1788454
+    }
+  },
+  "name": "Arabella Lebanese Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJBaKO2UmwEmsRuJSlu_pzOwg",
+  "rating": 4.2,
+  "reference": "ChIJBaKO2UmwEmsRuJSlu_pzOwg",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 425,
+  "vicinity": "12/489-491 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc90"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9040152,
+      "lng": 151.1802934
+    }
+  },
+  "name": "Union Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJI9UPkUmwEmsREFFWgO86P6g",
+  "rating": 4.3,
+  "reference": "ChIJI9UPkUmwEmsREFFWgO86P6g",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 950,
+  "vicinity": "576 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc91"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8980603,
+      "lng": 151.1787019
+    }
+  },
+  "name": "Town Hall Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJOZB13TawEmsR1Mr9BrgbxwI",
+  "rating": 3.9,
+  "reference": "ChIJOZB13TawEmsR1Mr9BrgbxwI",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 760,
+  "vicinity": "326 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc92"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.90586159999999,
+      "lng": 151.1808877
+    }
+  },
+  "name": "Botany View Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJESaXY0mwEmsRtXbW_LhTc98",
+  "rating": 3.9,
+  "reference": "ChIJESaXY0mwEmsRtXbW_LhTc98",
+  "types": [
+    "bar",
+    "liquor_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 910,
+  "vicinity": "597 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df857f9ea96e61672dc93"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9331807,
+      "lng": 151.1585446
+    }
+  },
+  "name": "Rowers On Cooks River",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ8SC1GpSwEmsRbSN_fI3OPo0",
+  "rating": 3.9,
+  "reference": "ChIJ8SC1GpSwEmsRbSN_fI3OPo0",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 536,
+  "vicinity": "1 Levey Street, Wolli Creek"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc94"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9053168,
+      "lng": 151.1329381
+    }
+  },
+  "name": "Hurlstone Park Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ8a3OGIS6EmsRiYO6BJH2qk0",
+  "rating": 4.4,
+  "reference": "ChIJ8a3OGIS6EmsRiYO6BJH2qk0",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 45,
+  "vicinity": "590 New Canterbury Road, Hurlstone Park"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc95"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9036942,
+      "lng": 151.1657638
+    }
+  },
+  "name": "Portugal Madeira Club",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJc5cWJkKwEmsRGzIYEf9h2Ec",
+  "rating": 4.2,
+  "reference": "ChIJc5cWJkKwEmsRGzIYEf9h2Ec",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 65,
+  "vicinity": "1 Denby Street, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc96"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.911105,
+      "lng": 151.155503
+    }
+  },
+  "name": "Marrickville Ritz Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJsxu-eWSwEmsRD7OLsMRoCWo",
+  "rating": 4,
+  "reference": "ChIJsxu-eWSwEmsRD7OLsMRoCWo",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 343,
+  "vicinity": "252-254 Illawarra Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc97"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9121556,
+      "lng": 151.1544361
+    }
+  },
+  "name": "Bucket Boys Craft Beer Co",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ96Kzc2OwEmsRgq-IGgfepE4",
+  "rating": 4.4,
+  "reference": "ChIJ96Kzc2OwEmsRgq-IGgfepE4",
+  "types": [
+    "liquor_store",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 184,
+  "vicinity": "Ground Floor/300 Illawarra Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc98"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9125233,
+      "lng": 151.1543522
+    }
+  },
+  "name": "Titus Jones",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJA5yWC2OwEmsRpu0TAmZio8E",
+  "rating": 4.7,
+  "reference": "ChIJA5yWC2OwEmsRpu0TAmZio8E",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 198,
+  "vicinity": "337 Illawarra Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc99"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.912422,
+      "lng": 151.160837
+    }
+  },
+  "name": "Gasoline Pony",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJj2ViKmewEmsRPlzEO2trzt4",
+  "rating": 4.5,
+  "reference": "ChIJj2ViKmewEmsRPlzEO2trzt4",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 301,
+  "vicinity": "115 Marrickville Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc9a"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9028898,
+      "lng": 151.1436402
+    }
+  },
+  "name": "The Sausage Factory",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ8eYHfHewEmsRy-b4i-tJpGU",
+  "rating": 4.5,
+  "reference": "ChIJ8eYHfHewEmsRy-b4i-tJpGU",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 148,
+  "vicinity": "380 New Canterbury Road, Dulwich Hill"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc9b"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8933029,
+      "lng": 151.1557181
+    }
+  },
+  "name": "White Cockatoo Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJZS9GphOwEmsRv4vvsuL9Sog",
+  "rating": 4.3,
+  "reference": "ChIJZS9GphOwEmsRv4vvsuL9Sog",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 914,
+  "vicinity": "30 Terminus Street, Petersham"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc9c"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9130556,
+      "lng": 151.1725
+    }
+  },
+  "name": "MANIAX Axe Throwing - SYDNEY",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJdVZM9lqwEmsR0kZ0uDYtjpE",
+  "rating": 4.8,
+  "reference": "ChIJdVZM9lqwEmsR0kZ0uDYtjpE",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 557,
+  "vicinity": "2/01/75 Mary Street, St Peters"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc9d"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9263286,
+      "lng": 151.1592735
+    }
+  },
+  "name": "Riverview Pinup Pub Tempe",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJOwv_v42wEmsRK87j7bW-qUw",
+  "rating": 3.3,
+  "reference": "ChIJOwv_v42wEmsRK87j7bW-qUw",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 6,
+  "vicinity": "900 Princes Highway, Tempe"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc9e"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9103278,
+      "lng": 151.1757139
+    }
+  },
+  "name": "Town & Country Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJsa3g80-wEmsR3wfu37FXNNQ",
+  "rating": 4.2,
+  "reference": "ChIJsa3g80-wEmsR3wfu37FXNNQ",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 185,
+  "vicinity": "2 Unwins Bridge Road, St Peters"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dc9f"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.8987164,
+      "lng": 151.1725569
+    }
+  },
+  "name": "Zebra Bar",
+  "place_id": "ChIJZ3woWTiwEmsR9ToGQQ905hQ",
+  "rating": 4.7,
+  "reference": "ChIJZ3woWTiwEmsR9ToGQQ905hQ",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 6,
+  "vicinity": "167 Enmore Road, Enmore"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9158174,
+      "lng": 151.1745662
+    }
+  },
+  "name": "Oscars Grill",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ97Z_G1qwEmsRnt160oLgHM4",
+  "rating": 4.9,
+  "reference": "ChIJ97Z_G1qwEmsRnt160oLgHM4",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 9,
+  "vicinity": "Southern Cross Hotel, 340 Princes Highway, St Peters"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8989762,
+      "lng": 151.1731862
+    }
+  },
+  "name": "Jacoby’s Tiki Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJafLjQjiwEmsRXoy09xcPE9g",
+  "rating": 4.6,
+  "reference": "ChIJafLjQjiwEmsRXoy09xcPE9g",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 331,
+  "vicinity": "154 Enmore Road, Enmore"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.898695,
+      "lng": 151.173345
+    }
+  },
+  "name": "Stanbuli",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJXWJmTziwEmsRsXVPwmDaCBs",
+  "rating": 4.5,
+  "reference": "ChIJXWJmTziwEmsRsXVPwmDaCBs",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 313,
+  "vicinity": "135 Enmore Road, Enmore"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.898107,
+      "lng": 151.174359
+    }
+  },
+  "name": "Young Henrys",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJaVOrzTmwEmsRWg9OyFOHzug",
+  "rating": 4.5,
+  "reference": "ChIJaVOrzTmwEmsRWg9OyFOHzug",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 300,
+  "vicinity": "76 Wilford Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8918179,
+      "lng": 151.1370582
+    }
+  },
+  "name": "Vernon's Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJx0R-ep-6EmsR0n8iJcUxQlk",
+  "rating": 4.4,
+  "reference": "ChIJx0R-ep-6EmsR0n8iJcUxQlk",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 59,
+  "vicinity": "First Floor, 2 Moonbie Street, Summer Hill"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8880093,
+      "lng": 151.1577672
+    }
+  },
+  "name": "Norton's Irish Pub",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJI0nSzBCwEmsRYdQS64yO1us",
+  "rating": 4.2,
+  "reference": "ChIJI0nSzBCwEmsRYdQS64yO1us",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 427,
+  "vicinity": "1 Norton Street, Leichhardt"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8975129,
+      "lng": 151.1742571
+    }
+  },
+  "name": "Trolley'd",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJtQvYytCxEmsR8rKxORj1IuU",
+  "rating": 4.9,
+  "reference": "ChIJtQvYytCxEmsR8rKxORj1IuU",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 35,
+  "vicinity": "2C Gladstone Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87df9ea96e61672dca7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8880945,
+      "lng": 151.1592262
+    }
+  },
+  "name": "Clarence Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ-WN_FRewEmsR-SNch_xvuR8",
+  "rating": 1,
+  "reference": "ChIJ-WN_FRewEmsR-SNch_xvuR8",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1,
+  "vicinity": "450 Parramatta Road, Petersham"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dca8"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.8987469,
+      "lng": 151.1762113
+    }
+  },
+  "name": "The Vintage Cafe",
+  "place_id": "ChIJA7IedTewEmsR-cLKZplHhQM",
+  "rating": 4.2,
+  "reference": "ChIJA7IedTewEmsR-cLKZplHhQM",
+  "types": [
+    "cafe",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 169,
+  "vicinity": "Shop 1/52-60 Enmore Road, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dca9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.88627160000001,
+      "lng": 151.1571083
+    }
+  },
+  "name": "Creek and Cella",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJGcZyqBCwEmsRt-feKwj8l7w",
+  "rating": 4.8,
+  "reference": "ChIJGcZyqBCwEmsRt-feKwj8l7w",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 186,
+  "vicinity": "54 Norton Street, Leichhardt"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcaa"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8995556,
+      "lng": 151.177675
+    }
+  },
+  "name": "Holey Moley Golf Club Newtown",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJHXqvrzewEmsRrID2qZbdA60",
+  "rating": 4.2,
+  "reference": "ChIJHXqvrzewEmsRrID2qZbdA60",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 801,
+  "vicinity": "387 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcab"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8991825,
+      "lng": 151.1775825
+    }
+  },
+  "name": "Argie BarGee",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ_4rBqTewEmsRQqVSw-W3_Fg",
+  "rating": 3.5,
+  "reference": "ChIJ_4rBqTewEmsRQqVSw-W3_Fg",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2,
+  "vicinity": "377 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcac"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8877182,
+      "lng": 151.1648902
+    }
+  },
+  "name": "Cafe Claire",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJF276tiKwEmsRuXZeezNG_q4",
+  "rating": 4.3,
+  "reference": "ChIJF276tiKwEmsRuXZeezNG_q4",
+  "types": [
+    "cafe",
+    "night_club",
+    "bakery",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 200,
+  "vicinity": "Shop 3/2 Young Street, Annandale"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcad"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8856422,
+      "lng": 151.1574247
+    }
+  },
+  "name": "Odyssey Bar Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ96HFBBqwEmsRm78HtPnzT4A",
+  "rating": 3.2,
+  "reference": "ChIJ96HFBBqwEmsRm78HtPnzT4A",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 77,
+  "vicinity": "63 Norton Street, Leichhardt"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcae"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8984218,
+      "lng": 151.1778567
+    }
+  },
+  "name": "Gurdys",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJJeuYHDewEmsRFYXt3O5XJv4",
+  "rating": 4.5,
+  "reference": "ChIJJeuYHDewEmsRFYXt3O5XJv4",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 198,
+  "vicinity": "349 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcaf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8953158,
+      "lng": 151.1764444
+    }
+  },
+  "name": "Carlisle Castle Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJs39CuTCwEmsRTRWwCmC7GX8",
+  "rating": 4.3,
+  "reference": "ChIJs39CuTCwEmsRTRWwCmC7GX8",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 336,
+  "vicinity": "17-19 Albermarle Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9107196,
+      "lng": 151.1563386
+    }
+  },
+  "name": "Lazybones Lounge Restaurant & Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJyW3bEmSwEmsRWzSMG2zdr6s",
+  "rating": 4.6,
+  "reference": "ChIJyW3bEmSwEmsRWzSMG2zdr6s",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 829,
+  "vicinity": "294 Illawarra Road, Marrickville"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8963302,
+      "lng": 151.1784159
+    }
+  },
+  "name": "212 Blu",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJu4siKTGwEmsR2oXYsdtZOW0",
+  "rating": 4.4,
+  "reference": "ChIJu4siKTGwEmsR2oXYsdtZOW0",
+  "types": [
+    "cafe",
+    "bar",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 172,
+  "vicinity": "212 Australia Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.89751570000001,
+      "lng": 151.1792192
+    }
+  },
+  "name": "Uncle Hops",
+  "place_id": "ChIJGf96zzawEmsRfnbQuQ3I7MA",
+  "rating": 4.1,
+  "reference": "ChIJGf96zzawEmsRfnbQuQ3I7MA",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 42,
+  "vicinity": "324 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9047284,
+      "lng": 151.1730812
+    }
+  },
+  "name": "Golden Barley Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJCXYiZEawEmsRVUaAN2d6QlU",
+  "rating": 4.3,
+  "reference": "ChIJCXYiZEawEmsRVUaAN2d6QlU",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 749,
+  "vicinity": "165-169 Edgeware Road, Enmore"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9036,
+      "lng": 151.14232
+    }
+  },
+  "name": "Gladstone Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ595LJXiwEmsRn2V1R8VgHc8",
+  "rating": 4,
+  "reference": "ChIJ595LJXiwEmsRn2V1R8VgHc8",
+  "types": [
+    "lodging",
+    "bar",
+    "liquor_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 252,
+  "vicinity": "572 Marrickville Road, Dulwich Hill"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.88804199999999,
+      "lng": 151.169823
+    }
+  },
+  "name": "Elegant Interior 1",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJo-PMmCSwEmsRnsOOeQ_IQBQ",
+  "reference": "ChIJo-PMmCSwEmsRnsOOeQ_IQBQ",
+  "types": [
+    "laundry",
+    "night_club",
+    "furniture_store",
+    "home_goods_store",
+    "bar",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "vicinity": "80-84 Parramatta Road, Stanmore"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9343138,
+      "lng": 151.1569006
+    }
+  },
+  "name": "The Marke Kitchen & Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJySVgm5awEmsRbxig5g_dEHg",
+  "rating": 4,
+  "reference": "ChIJySVgm5awEmsRbxig5g_dEHg",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 28,
+  "vicinity": "22 Levey Street, Wolli Creek"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8904391,
+      "lng": 151.1382789
+    }
+  },
+  "name": "Summer Hill Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJqxOXN6C6EmsRUhkZ7qFvKr8",
+  "rating": 3.9,
+  "reference": "ChIJqxOXN6C6EmsRUhkZ7qFvKr8",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 503,
+  "vicinity": "1 Lackey Street, Summer Hill"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8995618,
+      "lng": 151.1707227
+    }
+  },
+  "name": "The Warren View Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJEXEXoTiwEmsRpjJMvUqCPZQ",
+  "rating": 4.2,
+  "reference": "ChIJEXEXoTiwEmsRpjJMvUqCPZQ",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 543,
+  "vicinity": "2 Stanmore Road, Enmore"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcb9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8960878,
+      "lng": 151.1797845
+    }
+  },
+  "name": "Mary's Newtown",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJQ7rJQDGwEmsRlvbVnwVdAHE",
+  "rating": 4.4,
+  "reference": "ChIJQ7rJQDGwEmsRlvbVnwVdAHE",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2196,
+  "vicinity": "6 Mary Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcba"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9008481,
+      "lng": 151.182624
+    }
+  },
+  "name": "Shane The Waiter",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ2V808jSwEmsRUPL0Y7tCXpc",
+  "reference": "ChIJ2V808jSwEmsRUPL0Y7tCXpc",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "Rochford Street, Erskineville"
+},{
+  "_id": {
+    "$oid": "5f7df87ef9ea96e61672dcbb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.890158,
+      "lng": 151.146791
+    }
+  },
+  "name": "Lewisham Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJF05ocgywEmsRrBYblH7D8xg",
+  "rating": 3.2,
+  "reference": "ChIJF05ocgywEmsRrBYblH7D8xg",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 88,
+  "vicinity": "794 Parramatta Road, Lewisham"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcbc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.870803,
+      "lng": 151.2075484
+    }
+  },
+  "name": "QT Sydney",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJK6RwVT6uEmsRQ447JSUTGGI",
+  "rating": 4.6,
+  "reference": "ChIJK6RwVT6uEmsRQ447JSUTGGI",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1299,
+  "vicinity": "49 Market Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcbd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8622576,
+      "lng": 151.2128469
+    }
+  },
+  "name": "Sir Stamford at Circular Quay",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJ2X1PrGmuEmsRrgRKqd4bb9I",
+  "rating": 4.4,
+  "reference": "ChIJ2X1PrGmuEmsRrgRKqd4bb9I",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 855,
+  "vicinity": "93 Macquarie Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcbe"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8823787,
+      "lng": 151.2046676
+    }
+  },
+  "name": "Wake Up! Sydney",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJ1_5Y_yOuEmsRU3ORQg0SYpg",
+  "rating": 4.4,
+  "reference": "ChIJ1_5Y_yOuEmsRU3ORQg0SYpg",
+  "types": [
+    "night_club",
+    "cafe",
+    "travel_agency",
+    "lodging",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1313,
+  "vicinity": "509 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcbf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.864458,
+      "lng": 151.2062952
+    }
+  },
+  "name": "Amora Hotel",
+  "place_id": "ChIJa51FEUGuEmsRIXRtDjLFQXM",
+  "rating": 4.4,
+  "reference": "ChIJa51FEUGuEmsRIXRtDjLFQXM",
+  "types": [
+    "spa",
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1745,
+  "vicinity": "11 Jamison Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.872522,
+      "lng": 151.2090122
+    }
+  },
+  "name": "Castlereagh Boutique Hotel",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJp2HsPT6uEmsRskGgtjLmnLc",
+  "rating": 3.9,
+  "reference": "ChIJp2HsPT6uEmsRskGgtjLmnLc",
+  "types": [
+    "cafe",
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 439,
+  "vicinity": "169 Castlereagh Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8648016,
+      "lng": 151.2054365
+    }
+  },
+  "name": "Travelodge Hotel Sydney Wynyard",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJDTwzJEGuEmsRw4ifQGYDkww",
+  "rating": 3.8,
+  "reference": "ChIJDTwzJEGuEmsRw4ifQGYDkww",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1154,
+  "vicinity": "7-9 York Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8686943,
+      "lng": 151.2203979
+    }
+  },
+  "name": "Ovolo Woolloomooloo",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJRy5QoG2uEmsRHd7ei8FFwB0",
+  "rating": 4.6,
+  "reference": "ChIJRy5QoG2uEmsRHd7ei8FFwB0",
+  "types": [
+    "lodging",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1195,
+  "vicinity": "6 Cowper Wharf Roadway, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8726709,
+      "lng": 151.1970516
+    }
+  },
+  "name": "Ovolo 1888 Darling Harbour",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJDYVQjTCuEmsR1SM4FSwgh6c",
+  "rating": 4.7,
+  "reference": "ChIJDYVQjTCuEmsR1SM4FSwgh6c",
+  "types": [
+    "lodging",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 672,
+  "vicinity": "139 Murray Street, Pyrmont"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8732102,
+      "lng": 151.2049944
+    }
+  },
+  "name": "Base Backpackers Sydney",
+  "place_id": "ChIJKwL_BDyuEmsROVMxBbEOOnk",
+  "rating": 3.8,
+  "reference": "ChIJKwL_BDyuEmsROVMxBbEOOnk",
+  "types": [
+    "travel_agency",
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 814,
+  "vicinity": "477 Kent Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8716796,
+      "lng": 151.2021313
+    }
+  },
+  "name": "Adria Bar Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ8RXmITmuEmsRznrugcSQwxU",
+  "rating": 3.6,
+  "reference": "ChIJ8RXmITmuEmsRznrugcSQwxU",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1007,
+  "vicinity": "T.107 Cockle Bay Wharf, Darling Harbour"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.866664,
+      "lng": 151.2014112
+    }
+  },
+  "name": "Georges Mediterranean Bar & Grill",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJWRxefkeuEmsRmKvNb_DeLt8",
+  "rating": 3.8,
+  "reference": "ChIJWRxefkeuEmsRmKvNb_DeLt8",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 444,
+  "vicinity": "King Street Wharf, 3 The Promenade, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8864364,
+      "lng": 151.2191154
+    }
+  },
+  "name": "Captain Cook Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJmyQYfxuuEmsRfRMDYzNjvqY",
+  "rating": 3.7,
+  "reference": "ChIJmyQYfxuuEmsRfRMDYzNjvqY",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 398,
+  "vicinity": "162 Flinders Street, Paddington"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.866098,
+      "lng": 151.2102038
+    }
+  },
+  "name": "Rockpool Bar & Grill",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJV8rt1UGuEmsRf1fObMkd93M",
+  "rating": 4.4,
+  "reference": "ChIJV8rt1UGuEmsRf1fObMkd93M",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1870,
+  "vicinity": "66 Hunter Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcc9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.887468,
+      "lng": 151.211114
+    }
+  },
+  "name": "Shakespeare Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJLWc5hR-uEmsRMfTet6jUDnQ",
+  "rating": 4.3,
+  "reference": "ChIJLWc5hR-uEmsRMfTet6jUDnQ",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1027,
+  "vicinity": "200 Devonshire Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcca"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8682602,
+      "lng": 151.2061468
+    }
+  },
+  "name": "The Bavarian York St.",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ6d4iYT-uEmsRzr2ghGVI_6s",
+  "rating": 4,
+  "reference": "ChIJ6d4iYT-uEmsRzr2ghGVI_6s",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2560,
+  "vicinity": "24 York Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dccb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87643800000001,
+      "lng": 151.208623
+    }
+  },
+  "name": "Hotel Downing",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJF8kWdT2uEmsRSImNvyzSRlE",
+  "rating": 4.1,
+  "reference": "ChIJF8kWdT2uEmsRSImNvyzSRlE",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 157,
+  "vicinity": "249 Castlereagh Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dccc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.867818,
+      "lng": 151.2080959
+    }
+  },
+  "name": "Prime Steak Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJFTbbfkCuEmsRoQQtdNuoVTs",
+  "rating": 4.6,
+  "reference": "ChIJFTbbfkCuEmsRoQQtdNuoVTs",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 520,
+  "vicinity": "GPO Building, Lower Ground Floor, 1 Martin Place, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dccd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8686301,
+      "lng": 151.2202203
+    }
+  },
+  "name": "China Doll",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJRy5QoG2uEmsRhJsXFU1btjU",
+  "rating": 4.4,
+  "reference": "ChIJRy5QoG2uEmsRhJsXFU1btjU",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 981,
+  "vicinity": "4/6 Cowper Wharf Roadway, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcce"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.85774250000001,
+      "lng": 151.2057952
+    }
+  },
+  "name": "The Hero of Waterloo",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ1Wa5ylyuEmsR27Qd_lGav18",
+  "rating": 4.4,
+  "reference": "ChIJ1Wa5ylyuEmsR27Qd_lGav18",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 858,
+  "vicinity": "81 Lower Fort Street, Millers Point"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dccf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.886837,
+      "lng": 151.2138757
+    }
+  },
+  "name": "Toko Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJT-EHWQauEmsRZyvdi-Tn1nA",
+  "rating": 4.3,
+  "reference": "ChIJT-EHWQauEmsRZyvdi-Tn1nA",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 739,
+  "vicinity": "490 Crown Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8696629,
+      "lng": 151.205246
+    }
+  },
+  "name": "Redoak Boutique Beer Cafe",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJIybTJD-uEmsRluPfQS1I4FU",
+  "rating": 4.3,
+  "reference": "ChIJIybTJD-uEmsRluPfQS1I4FU",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 320,
+  "vicinity": "201 Clarence Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.881523,
+      "lng": 151.214291
+    }
+  },
+  "name": "The Winery",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJnz5DwBmuEmsRaMFGu_yx1rk",
+  "rating": 4.3,
+  "reference": "ChIJnz5DwBmuEmsRaMFGu_yx1rk",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1351,
+  "vicinity": "285A Crown Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87923140000001,
+      "lng": 151.2072715
+    }
+  },
+  "name": "Chamberlain Hotel (C-Bar)",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJr6CHJyOuEmsRaQLUpxdoTgk",
+  "rating": 4.1,
+  "reference": "ChIJr6CHJyOuEmsRaQLUpxdoTgk",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 279,
+  "vicinity": "428 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8621793,
+      "lng": 151.2108864
+    }
+  },
+  "name": "Cafe Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJOahrAxKuEmsRiJOniUNkOZY",
+  "rating": 4.4,
+  "reference": "ChIJOahrAxKuEmsRiJOniUNkOZY",
+  "types": [
+    "cafe",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 2042,
+  "vicinity": "5 Sydney Customs House, 31 Alfred Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8654205,
+      "lng": 151.2084684
+    }
+  },
+  "name": "The Grand Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJydDNtkGuEmsRACYpPzuLkII",
+  "rating": 3.8,
+  "reference": "ChIJydDNtkGuEmsRACYpPzuLkII",
+  "types": [
+    "lodging",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 521,
+  "vicinity": "30 Hunter Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.869365,
+      "lng": 151.220224
+    }
+  },
+  "name": "Sienna Marina",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJqbr_Dm2uEmsRzo2a34if8JI",
+  "rating": 4,
+  "reference": "ChIJqbr_Dm2uEmsRzo2a34if8JI",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 291,
+  "vicinity": "6/7-41 Cowper Wharf Roadway, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8683472,
+      "lng": 151.1962233
+    }
+  },
+  "name": "Flying Fish",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJm7Ex8UmuEmsR37p4Hm0D0VI",
+  "rating": 4.3,
+  "reference": "ChIJm7Ex8UmuEmsR37p4Hm0D0VI",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 689,
+  "vicinity": "80 Pyrmont Street, Pyrmont"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87212499999999,
+      "lng": 151.205429
+    }
+  },
+  "name": "Grandma's Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJHTFxuz6uEmsRJmbnZ0N16OE",
+  "rating": 4.5,
+  "reference": "ChIJHTFxuz6uEmsRJmbnZ0N16OE",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 730,
+  "vicinity": "Basement/275 Clarence Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8726326,
+      "lng": 151.2224665
+    }
+  },
+  "name": "Ms.G’s",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJm0rwUA2uEmsRXLmNZMkQHyk",
+  "rating": 4.4,
+  "reference": "ChIJm0rwUA2uEmsRXLmNZMkQHyk",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 995,
+  "vicinity": "155 Victoria Street, Potts Point"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcd9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8758226,
+      "lng": 151.2148976
+    }
+  },
+  "name": "Verde Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ1dtxoxauEmsR0JNzTJJ32II",
+  "rating": 4.3,
+  "reference": "ChIJ1dtxoxauEmsR0JNzTJJ32II",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 148,
+  "vicinity": "115 Riley Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcda"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8832789,
+      "lng": 151.2166425
+    }
+  },
+  "name": "The Beresford",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJSevoKhquEmsR6DYpvkUsgr0",
+  "rating": 4.2,
+  "reference": "ChIJSevoKhquEmsR6DYpvkUsgr0",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2266,
+  "vicinity": "354 Bourke Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcdb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8698016,
+      "lng": 151.2205449
+    }
+  },
+  "name": "The Tilbury Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ70-WHm2uEmsRQJ9NjYZ9QOQ",
+  "rating": 3.9,
+  "reference": "ChIJ70-WHm2uEmsRQJ9NjYZ9QOQ",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 612,
+  "vicinity": "12-18 Nicholson Street, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcdc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8586556,
+      "lng": 151.2074333
+    }
+  },
+  "name": "The Glenmore Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJz66NJ0OuEmsRRA_Dvawy8kI",
+  "rating": 4.3,
+  "reference": "ChIJz66NJ0OuEmsRRA_Dvawy8kI",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2886,
+  "vicinity": "96 Cumberland Street, The Rocks"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcdd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8686329,
+      "lng": 151.2034689
+    }
+  },
+  "name": "El Loco at Slip Inn",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJb80OxziuEmsR6n7WTeJYBE4",
+  "rating": 3.9,
+  "reference": "ChIJb80OxziuEmsR6n7WTeJYBE4",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1093,
+  "vicinity": "111 Sussex Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcde"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8666424,
+      "lng": 151.2036552
+    }
+  },
+  "name": "The Captains Balcony",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ2eAQUEeuEmsRcLznK5EjcsA",
+  "rating": 4.5,
+  "reference": "ChIJ2eAQUEeuEmsRcLznK5EjcsA",
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 461,
+  "vicinity": "46 Erskine Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dcdf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.864967,
+      "lng": 151.207785
+    }
+  },
+  "name": "O Bar and Dining",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJnzttoEGuEmsRjBEqGkOTGG8",
+  "rating": 4.4,
+  "reference": "ChIJnzttoEGuEmsRjBEqGkOTGG8",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2659,
+  "vicinity": "Australia Square, 264, level 47 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dce0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87344629999999,
+      "lng": 151.2245621
+    }
+  },
+  "name": "Empire Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJNYU9JA2uEmsRsR63nTZAcbE",
+  "rating": 3.8,
+  "reference": "ChIJNYU9JA2uEmsRsR63nTZAcbE",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 154,
+  "vicinity": "32 Darlinghurst Road, Potts Point"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dce1"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.8717,
+      "lng": 151.2077593
+    }
+  },
+  "name": "Zeta Bar",
+  "place_id": "ChIJodn99D6uEmsRqGYZbqVW-go",
+  "rating": 3.9,
+  "reference": "ChIJodn99D6uEmsRqGYZbqVW-go",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 314,
+  "vicinity": "level 4/488 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dce2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8764102,
+      "lng": 151.2081496
+    }
+  },
+  "name": "Macchiato Wood Fire Pizza & Coffee Roastery",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJIwfAJT2uEmsRrIZ3SLoX5GM",
+  "rating": 4.2,
+  "reference": "ChIJIwfAJT2uEmsRrIZ3SLoX5GM",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 3285,
+  "vicinity": "Shop 2/338 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe4f9ea96e61672dce3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.86785649999999,
+      "lng": 151.2206764
+    }
+  },
+  "name": "Kingsleys Woolloomooloo",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJTfBi7G2uEmsRA4yIBZQT_3Q",
+  "rating": 4.1,
+  "reference": "ChIJTfBi7G2uEmsRA4yIBZQT_3Q",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 640,
+  "vicinity": "10/6 Cowper Wharf Roadway, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dce4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.869657,
+      "lng": 151.204818
+    }
+  },
+  "name": "Since I Left You (SILY)",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJM7AQLj-uEmsRqFCcaS_zL-4",
+  "rating": 4.3,
+  "reference": "ChIJM7AQLj-uEmsRqFCcaS_zL-4",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 500,
+  "vicinity": "338 Kent Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dce5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.86972290000001,
+      "lng": 151.205634
+    }
+  },
+  "name": "The Baxter Inn",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ10M4PT-uEmsRMeqvCIcacXo",
+  "rating": 4.7,
+  "reference": "ChIJ10M4PT-uEmsRMeqvCIcacXo",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2496,
+  "vicinity": "152-156 Clarence Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dce6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8665956,
+      "lng": 151.2075711
+    }
+  },
+  "name": "Ash St. Cellar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJmV7vXkCuEmsR9FIPGtxMh8s",
+  "rating": 4.2,
+  "reference": "ChIJmV7vXkCuEmsR9FIPGtxMh8s",
+  "types": [
+    "restaurant",
+    "cafe",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 223,
+  "vicinity": "1 Ash Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dce7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.869791,
+      "lng": 151.210077
+    }
+  },
+  "name": "Fix Wine Bar + Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJX-Fj4j-uEmsR61Ld5O9bWDE",
+  "rating": 4.5,
+  "reference": "ChIJX-Fj4j-uEmsR61Ld5O9bWDE",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 178,
+  "vicinity": "111 Elizabeth Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dce8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8617169,
+      "lng": 151.2064254
+    }
+  },
+  "name": "Harts Pub",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJsyWauUOuEmsRTV8K0-nEo6Y",
+  "rating": 4.3,
+  "reference": "ChIJsyWauUOuEmsRTV8K0-nEo6Y",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1219,
+  "vicinity": "Essex St &, Gloucester Street, The Rocks"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dce9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8640815,
+      "lng": 151.2075994
+    }
+  },
+  "name": "Establishment Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ23v2MoNkEmsRelBk875ih3E",
+  "rating": 3.9,
+  "reference": "ChIJ23v2MoNkEmsRelBk875ih3E",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1174,
+  "vicinity": "Ground Floor, 252 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcea"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8837584,
+      "lng": 151.2344266
+    }
+  },
+  "name": "Four in Hand Pub",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJbWYckeKtEmsR6VClka_7NQ0",
+  "rating": 4.1,
+  "reference": "ChIJbWYckeKtEmsR6VClka_7NQ0",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 319,
+  "vicinity": "105 Sutherland Street, Paddington"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dceb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.85659829999999,
+      "lng": 151.2073426
+    }
+  },
+  "name": "Harbour View Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJV_wrHl2uEmsR92Q_ubhgXDI",
+  "rating": 4.1,
+  "reference": "ChIJV_wrHl2uEmsR92Q_ubhgXDI",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 753,
+  "vicinity": "18 Lower Fort Street, Dawes Point"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcec"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8888609,
+      "lng": 151.2325784
+    }
+  },
+  "name": "The Wine Library",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJrUzUQweuEmsRMdkXZwM_G8w",
+  "rating": 4.5,
+  "reference": "ChIJrUzUQweuEmsRMdkXZwM_G8w",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 174,
+  "vicinity": "18 Oxford Street, Woollahra"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dced"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.8650047,
+      "lng": 151.2033736
+    }
+  },
+  "name": "The Sussex Hotel",
+  "place_id": "ChIJRRcbJEeuEmsRGUevvdn564Q",
+  "rating": 4,
+  "reference": "ChIJRRcbJEeuEmsRGUevvdn564Q",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 472,
+  "vicinity": "20 Sussex Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcee"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8666444,
+      "lng": 151.2036972
+    }
+  },
+  "name": "Small Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ2eAQUEeuEmsROG64DRSFBfE",
+  "rating": 4.5,
+  "reference": "ChIJ2eAQUEeuEmsROG64DRSFBfE",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 493,
+  "vicinity": "48 Erskine Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcef"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8863254,
+      "lng": 151.2094246
+    }
+  },
+  "name": "Bodega",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ353SCSKuEmsRVBcgf48LV98",
+  "rating": 4.3,
+  "reference": "ChIJ353SCSKuEmsRVBcgf48LV98",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 294,
+  "vicinity": "entrance on, 50 Holt Street, Gladstone Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8723395,
+      "lng": 151.2078375
+    }
+  },
+  "name": "The ArtHouse Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ7Wd9XT6uEmsRSC2bqOeJQuA",
+  "rating": 3.9,
+  "reference": "ChIJ7Wd9XT6uEmsRSC2bqOeJQuA",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 680,
+  "vicinity": "275 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8844693,
+      "lng": 151.2106582
+    }
+  },
+  "name": "Button Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJ368FASKuEmsRapNBiWkjg40",
+  "rating": 4.2,
+  "reference": "ChIJ368FASKuEmsRapNBiWkjg40",
+  "types": [
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 385,
+  "vicinity": "65 Foveaux Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8707409,
+      "lng": 151.1989615
+    }
+  },
+  "name": "Hurricane's Grill Darling Harbour",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJL7SCpzCuEmsRN8MD9vPXmOs",
+  "rating": 4,
+  "reference": "ChIJL7SCpzCuEmsRN8MD9vPXmOs",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1816,
+  "vicinity": "433/436 Darling Drive, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8626707,
+      "lng": 151.2064607
+    }
+  },
+  "name": "Malt Shovel Taphouse - The Rocks",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJdU3X20OuEmsRfQlrhMgljAc",
+  "rating": 4,
+  "reference": "ChIJdU3X20OuEmsRfQlrhMgljAc",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1009,
+  "vicinity": "135 Harrington Street, The Rocks"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.88838000000001,
+      "lng": 151.2368762
+    }
+  },
+  "name": "Woollahra Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJJz0g-fytEmsR-OARqaI6FiY",
+  "rating": 4,
+  "reference": "ChIJJz0g-fytEmsR-OARqaI6FiY",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 248,
+  "vicinity": "116 Queen Street, Woollahra"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8659992,
+      "lng": 151.2015769
+    }
+  },
+  "name": "The Loft",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJxZ3vgTiuEmsRjsB0BmHCaiw",
+  "rating": 4.2,
+  "reference": "ChIJxZ3vgTiuEmsRjsB0BmHCaiw",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 209,
+  "vicinity": "3 Lime Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8684874,
+      "lng": 151.2058782
+    }
+  },
+  "name": "Hotel CBD",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJOeMBaD-uEmsRz9dESqL-dtk",
+  "rating": 3.9,
+  "reference": "ChIJOeMBaD-uEmsRz9dESqL-dtk",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 667,
+  "vicinity": "52 King Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7dfbe5f9ea96e61672dcf7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.86842669999999,
+      "lng": 151.2204918
+    }
+  },
+  "name": "Manta Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJQ01YvW2uEmsRV_lzY4B5MEk",
+  "rating": 4.3,
+  "reference": "ChIJQ01YvW2uEmsRV_lzY4B5MEk",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 422,
+  "vicinity": "6/6 Cowper Wharf Roadway, Woolloomooloo"
+}]

@@ -1,0 +1,2481 @@
+[{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbea"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9505269,
+      "lng": 115.8604572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.6244855,
+        "lng": 116.239023
+      },
+      "southwest": {
+        "lat": -32.4556424,
+        "lng": 115.6840483
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+  "name": "Perth",
+  "photos": [
+    {
+      "height": 2736,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113544271544638230542\">Irina Ilieva</a>"
+      ],
+      "photo_reference": "CmRaAAAAzXP5KUoNHrHBzor0OSOhIA-wz7Y_CWsY6hm59dqvTWXEaJimbnvTOs9eeORobkU-r-owZb9n8DasS0_dp6czD6vBvDJC8GrEZ7GVzz7Fj93hksHmPQNru22qhDqQ9NuUEhBRRYHcBEFNpOvdIqlc3EUMGhT-BoFIKoHIvM-jec86exdZT-38BA",
+      "width": 3648
+    }
+  ],
+  "place_id": "ChIJPXNH22yWMioR0FXfNbXwBAM",
+  "reference": "ChIJPXNH22yWMioR0FXfNbXwBAM",
+  "scope": "GOOGLE",
+  "types": [
+    "colloquial_area",
+    "locality",
+    "political"
+  ],
+  "vicinity": "Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbeb"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95436680000001,
+      "lng": 115.8529193
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9529603697085,
+        "lng": 115.8541777302915
+      },
+      "southwest": {
+        "lat": -31.9556583302915,
+        "lng": 115.8514797697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Parmelia Hilton Perth",
+  "photos": [
+    {
+      "height": 799,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111085316822416525956\">Parmelia Hilton Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAARiuzOppNP_NjrUnjV8dBng-T55LxvlhRSNzLB9mU_mlQAcVSFbtgjmTyhi3fsL54ycgAObW2G5lYOH8bvVDVw3H1Jqtcj114jxphg9wqLWiNOg7-UHd_xqOac5fXjOvVEhDMWqu38hlk3VtH10UI9iRXGhQyP15UYyXjZpxteMdkiumxYvrfGg",
+      "width": 1200
+    }
+  ],
+  "place_id": "ChIJQdM1JtW6MioRxAJto5QX2Qw",
+  "reference": "ChIJQdM1JtW6MioRxAJto5QX2Qw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "14 Mill Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbec"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.94939419999999,
+      "lng": 115.8517162
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9479618197085,
+        "lng": 115.8531304302915
+      },
+      "southwest": {
+        "lat": -31.95065978029149,
+        "lng": 115.8504324697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Four Points by Sheraton Perth",
+  "photos": [
+    {
+      "height": 810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104024662815971438514\">Four Points by Sheraton Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAJY-95nObqkmgC-fVrh07KUO0esOjoJxS1Gh0aS_nasz6PzHiNklnpGphwb4dlgk-bETMLGeyzeI8DnLu9D0iaLLW4T7H5zk2mYuQVv_ER1RoXtkga3Z2HFBfzTp5ZeGdEhALMq18YYZLE4FIMoV8NC8cGhSE2MjQPtM7-EtN7zqCbAKS35kQZQ",
+      "width": 1440
+    }
+  ],
+  "place_id": "ChIJBWMI1iylMioR3UYkhAM3FxU",
+  "reference": "ChIJBWMI1iylMioR3UYkhAM3FxU",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "707 Wellington Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbed"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9587218,
+      "lng": 115.8722171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9572777197085,
+        "lng": 115.8736118302915
+      },
+      "southwest": {
+        "lat": -31.9599756802915,
+        "lng": 115.8709138697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Mantra on Hay Perth",
+  "photos": [
+    {
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109107930339243273854\">Mantra on Hay Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAA8u2Rx_GdFfSZUcXppOvqgRLXCy0K80GqJ_huZJV1_hBLaAtCqKZ7dX6_lQj7mxwlsOn34eumzDM-LoWTpMp9tHHRulVdJwcCAuLDR9mgcQdZy8UHhL8oN-62Es8FoGzaEhCxdD9wfrWmfRNCtLcsGz4FGhTJtOEtNF52n_XPkirpsmB7UQSu6A",
+      "width": 2997
+    }
+  ],
+  "place_id": "ChIJw7rf0SO7MioRPbakXc92Z7E",
+  "reference": "ChIJw7rf0SO7MioRPbakXc92Z7E",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "201 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbee"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9528936,
+      "lng": 115.8613784
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.95150436970849,
+        "lng": 115.8626042802915
+      },
+      "southwest": {
+        "lat": -31.95420233029149,
+        "lng": 115.8599063197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Adina Apartment Hotel Perth Barrack Plaza",
+  "photos": [
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107175931796469654758\">Adina Apartment Hotel Perth Barrack Plaza</a>"
+      ],
+      "photo_reference": "CmRaAAAAUEI_5k3rHp5GDx81CfC2xO4FWcimFLcMIMgAGAEjoMeCcOcg323n3YzXF7_PLpBT2EhJiw8ZPSyDiMuOTurPiRzDTxNl8zFyWxddnGguiaLQEyjnzzAXqB5LLWF5Ee3BEhBqu4yzjgHwjrMwNUXVOoNqGhRUc7aKiT9P-i9p-wZ0KQAcgx4Wfw",
+      "width": 2880
+    }
+  ],
+  "place_id": "ChIJBUZtrNe6MioRwkIEJHp4NPk",
+  "reference": "ChIJBUZtrNe6MioRwkIEJHp4NPk",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "138 Barrack Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbef"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95952220000001,
+      "lng": 115.8670578
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.95846626970851,
+        "lng": 115.8683198802915
+      },
+      "southwest": {
+        "lat": -31.9611642302915,
+        "lng": 115.8656219197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "City Waters Motel",
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105965894223750367860\">City Waters Lodge</a>"
+      ],
+      "photo_reference": "CmRaAAAApQamsih1voIsF0ySrBqIgj8Cepn-yIAFKghhjmM1-utY6ggUpDlUygE5E0T-xPLtEIv_XFgizN5tQSccjKlo4p_dxjkpTd2JOz5OTau9nIWcjLUzHxQ7DKMlc_F3Hg0EEhDTZEIDfXqxnkgI-lC7t0ItGhRl6x2JxXfVuhfS1it2CsEnP9elsg",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ22-QLCS7MioRKrnTcxeLt2U",
+  "reference": "ChIJ22-QLCS7MioRKrnTcxeLt2U",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "118 Terrace Road, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf0"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95381309999999,
+      "lng": 115.8482513
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9525530197085,
+        "lng": 115.8495622302915
+      },
+      "southwest": {
+        "lat": -31.95525098029149,
+        "lng": 115.8468642697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Mountway Holiday Apartments",
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105737176832205179243\">Shane Taylor</a>"
+      ],
+      "photo_reference": "CmRaAAAA2XkDnkeK16M80_2Zc0FRIXwVMrzu6QElq0dlb55NCArWZS_7XWtkZZKgTRTM027gEt6oz2w1JR1wyBxi7meLOKLUcF2R9AkHet0Pdjo8m8AEaJwC3W7CdDy0h09NvwGFEhAOtxpGB-lQ-Sm5RkUGSIMVGhR9LcH4HhgcCyk59pT5PAs7UPtbfw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJnWSCkSulMioR_zKcRl3Owxw",
+  "reference": "ChIJnWSCkSulMioR_zKcRl3Owxw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "36 Mount Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf1"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.954359,
+      "lng": 115.862821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.95295841970851,
+        "lng": 115.8640960302915
+      },
+      "southwest": {
+        "lat": -31.9556563802915,
+        "lng": 115.8613980697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Pensione Hotel Perth",
+  "photos": [
+    {
+      "height": 3012,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113104561067478579365\">Pensione Hotel Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAbD3iLv9MZjHScubeI-xI_jbnZUvEqV0I_z0YGDaKHod40A-ManmQ0ZKaan4E9s4pcKPU9wgY66iM9f6NN6VzLnifQTn1n14RikIsghrDFuQ4olQBPDOnZwvKZNZJp3zLEhAf4Eaqm6QQVAwvTcR78fBMGhRJSE-eRf3p7sItyh1qEfMS_f1zAQ",
+      "width": 4614
+    }
+  ],
+  "place_id": "ChIJJz-f5te6MioRju7kni7eDtg",
+  "reference": "ChIJJz-f5te6MioRju7kni7eDtg",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "70 Pier Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf2"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95872439999999,
+      "lng": 115.8698474
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9575488697085,
+        "lng": 115.8711158802915
+      },
+      "southwest": {
+        "lat": -31.9602468302915,
+        "lng": 115.8684179197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Quality Hotel Ambassador Perth",
+  "photos": [
+    {
+      "height": 2309,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109493780634907674041\">Quality Hotel Ambassador Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAUNLS7LrcrWBetR9AGNsiAmwPuIOiWxTOY17l8bKDLtlM0OHP7UPg4Rpl5JsCyBNwSHYPW4H4FtubYs_VK8-r5VxnYeGTVHiFMK4EMqsXebvIH0tQNlkyWLpQa3ErDGIdEhAgbz6nyslsx3bLUAwNyB9sGhTazN1y3UT7Xvb5jZAWWjLODnQm-Q",
+      "width": 3464
+    }
+  ],
+  "place_id": "ChIJiVxFASS7MioRaD9Z86IXEo4",
+  "reference": "ChIJiVxFASS7MioRaD9Z86IXEo4",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "196 Adelaide Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf3"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95464,
+      "lng": 115.861885
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9535154697085,
+        "lng": 115.8631261802915
+      },
+      "southwest": {
+        "lat": -31.9562134302915,
+        "lng": 115.8604282197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Criterion Hotel Perth",
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114727543833111363128\">Criterion Hotel Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAt4du0zJ5Mn4TwcYyvO375Zo6ZzZbHPghe_IBOCg8RAfl2qhDs4uBoKY1WX-nkdVqU4WqVRyiwjHurMihMffNrZzqWzS1Ju9s8SzhqSeT0SmRjI_QoAHdsSL_EF1FYL_GEhAAD04PzNTt1WjJSeKGu9wbGhTcVVMprhpumTcc6_YammuYEJrd0g",
+      "width": 3072
+    }
+  ],
+  "place_id": "ChIJ7RtU1te6MioR9IExnZIRPI8",
+  "reference": "ChIJ7RtU1te6MioR9IExnZIRPI8",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "560 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf4"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9524853,
+      "lng": 115.8564947
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9509880197085,
+        "lng": 115.8579132802915
+      },
+      "southwest": {
+        "lat": -31.95368598029149,
+        "lng": 115.8552153197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Mantra on Murray Perth",
+  "photos": [
+    {
+      "height": 667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113603882250967720292\">Mantra on Murray Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAhV5vLsYXHsPSbco69kmJdvqwb0nC2U5kORh2do1Bz6emiUVmrBRwF9HsfC8XjNgpHBWfNGP0n8VDSaEl8PpYr-P9Au5t_U-06zkfuMelzrAjWq4myaoxe4M_Cvf1QrsDEhDC3rLnnZeMyR7K-WGutS_pGhQRcAzYk4US8Q3taiOCYzah3SAK_A",
+      "width": 999
+    }
+  ],
+  "place_id": "ChIJU2jzP9S6MioRCskxh4iZcMQ",
+  "reference": "ChIJU2jzP9S6MioRCskxh4iZcMQ",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "305 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf5"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95943780000001,
+      "lng": 115.869336
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9579276197085,
+        "lng": 115.8707550802915
+      },
+      "southwest": {
+        "lat": -31.9606255802915,
+        "lng": 115.8680571197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Comfort Inn & Suites Goodearth Perth",
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116108617977488581460\">Comfort Inn &amp; Suites Goodearth Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAABmEEbI2-_7zUWuCNjdcjbkK_3O32r6LhfW5JVJ2P4YdHEK--q8ij_jhb5KmGDdvQE_pTc8H1434V6FlqcSZatIzZtsC0gBjQinzPoGlzRtm_oPvCTUA6s7MYByFb_pVmEhByIw7raEJIXFkBgYMLRZ_gGhTzZn5P4kMkmtg28F53-PagJO7swA",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJCwxaBCS7MioRtLYS46WksFU",
+  "reference": "ChIJCwxaBCS7MioRtLYS46WksFU",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "195 Adelaide Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf6"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95160379999999,
+      "lng": 115.8557907
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9503858197085,
+        "lng": 115.8570791802915
+      },
+      "southwest": {
+        "lat": -31.9530837802915,
+        "lng": 115.8543812197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "ibis Perth",
+  "photos": [
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101604342793768393975\">ibis Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAs6mTHEOAut9TJ_jHyi63nLTT096yVNraUJg_94xcEyDpeooXwIsNmd97FX6GDVwigDx5MJe1oog6qXNYtXy67_FiVstnidzxrZaLx9cl3PWn5SWcT0TLpbPkeKRkVVqqEhC8jhEN-eXeE7yYevUwrEodGhT95jOWP5m08RZQReHG4IQo8PAiOQ",
+      "width": 6144
+    }
+  ],
+  "place_id": "ChIJRaeMetS6MioRD8Gs1nMuFIw",
+  "reference": "ChIJRaeMetS6MioRD8Gs1nMuFIw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "334 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf7"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9564538,
+      "lng": 115.8635171
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9550559697085,
+        "lng": 115.8647071802915
+      },
+      "southwest": {
+        "lat": -31.9577539302915,
+        "lng": 115.8620092197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Mercure Perth",
+  "photos": [
+    {
+      "height": 768,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115323625113146494529\">Mercure Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAH8w5ajMa5qJ2yCvHtZqEIpWm9F0vp-qbUuRbG5JqIKcwg2kiiDjX0qi6XJVZPgsdSpnoWdYO8vpfgDlzKz4k-4QuaM3WU0qEeUWHmYGalOivbQiao1I_DtTO8LxtgxyvEhBPFX5hiKigCDsDeUpQ-d-IGhRlr5TtLR8EHeYP9fPBy98kt26M9A",
+      "width": 1024
+    }
+  ],
+  "place_id": "ChIJczH-DCi7MioRqJrsWgcNj00",
+  "reference": "ChIJczH-DCi7MioRqJrsWgcNj00",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "10 Irwin Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf8"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9540003,
+      "lng": 115.853616
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9525723197085,
+        "lng": 115.8550031302915
+      },
+      "southwest": {
+        "lat": -31.9552702802915,
+        "lng": 115.8523051697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Citadines St Georges Terrace Perth",
+  "photos": [
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101716013807915246646\">Citadines St Georges Terrace Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAA5zJgpd-rTXZN021wcF88s4R2882XbF-eUfcXKfRZ6qVhYZkwhxylGj34LwHflT5NgeobSn-hhgix1HdXQL-N4V5usl4gpWIS_HSVzeM35o9cCadKaiRplVpXYypHiGYaEhBL9TpcUlQQu7yHpNiJiCOhGhTGvBdhfvWDXyMbd6oRf3I4vahHRw",
+      "width": 666
+    }
+  ],
+  "place_id": "ChIJoUC_39S6MioRFsRnOaCDdu0",
+  "reference": "ChIJoUC_39S6MioRFsRnOaCDdu0",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "185 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbf9"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.952984,
+      "lng": 115.8559137
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9517305697085,
+        "lng": 115.8572198302915
+      },
+      "southwest": {
+        "lat": -31.9544285302915,
+        "lng": 115.8545218697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Holiday Inn Perth City Centre",
+  "photos": [
+    {
+      "height": 809,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100436086830913215587\">Holiday Inn Perth City Centre</a>"
+      ],
+      "photo_reference": "CmRaAAAAhdOqbkPDDz4VgRIljoW_uJDWpFvpMYPqWwCoMQJ_wWV4gZpS95aAsRGC4cJJa_K3MlEQQ7AwmMk_teZw3HyG3y1BaytdsU-alwoRjNEHRZHiGNy7BGPz-cMVLSI034qiEhA5PnkOdpvzoITGxO_IMU45GhRqFbTCbAB7fIpDXxAIVXyydQBZDA",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJk9zmT9S6MioRCo4m9_hw8Zk",
+  "reference": "ChIJk9zmT9S6MioRCo4m9_hw8Zk",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "778/788 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbfa"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.949819,
+      "lng": 115.863759
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9484988197085,
+        "lng": 115.8651698302915
+      },
+      "southwest": {
+        "lat": -31.9511967802915,
+        "lng": 115.8624718697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Emperor's Crown Hostel",
+  "photos": [
+    {
+      "height": 4016,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107156169224748666742\">The Emperor&#39;s Crown Hostel</a>"
+      ],
+      "photo_reference": "CmRaAAAArwlg2u_cp1ulAx7UevVmycdxbX77SeDLNLzKKd8JSVMTmxtUU9B7jgl-EoIDTC-xpvCo3uxFbhYCEogK3QWa-UOuwqmlNXDyZwFPRQ4l_GLV0TzfoPWMtf085xt98EPwEhB0Rzw78fMEIKsxa45I2uZVGhTpyUyfvpji-KVSMK9ExfbwaPSIVA",
+      "width": 6016
+    }
+  ],
+  "place_id": "ChIJNd9DUde6MioRFXKeOdKeVc8",
+  "reference": "ChIJNd9DUde6MioRFXKeOdKeVc8",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "85 Stirling Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbfb"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9556935,
+      "lng": 115.8528176
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9544735197085,
+        "lng": 115.8540931802915
+      },
+      "southwest": {
+        "lat": -31.9571714802915,
+        "lng": 115.8513952197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Adina Apartment Hotel Perth",
+  "photos": [
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114533277066539936327\">Adina Apartment Hotel Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAWvPt2XmgmN9VeVi0MDpi6-6FpDHbGJSPDhyxl76rGrNrIxTpRWaNG80OaelwRp1-BJW2nkcfeMTw-JiKX5g6MnSxetL-EKSc3Er7LPyVeEa7zTdPho4XQVlSMwcVO2tEEhB43netMr0vLGAAGJiwuriBGhSHUt79gxqUrAyK5Z2eoT-RVf3DoA",
+      "width": 2880
+    }
+  ],
+  "place_id": "ChIJSSdQSdW6MioRIrIPtPMtzs8",
+  "reference": "ChIJSSdQSdW6MioRIrIPtPMtzs8",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "33 Mounts Bay Road, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbfc"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95915329999999,
+      "lng": 115.8682795
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9575944197085,
+        "lng": 115.8695762802915
+      },
+      "southwest": {
+        "lat": -31.9602923802915,
+        "lng": 115.8668783197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Pan Pacific Perth",
+  "photos": [
+    {
+      "height": 1201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100884793337530237104\">Pan Pacific Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAUFsqj9D9Zzm7vuVJYxAxCWBvgEMLkN4vYHzFIkODFus3iB48jSIlLOQ7Cu3owCn7-E2M7zgDKkm6Q4RogtUrXxfJOIY--9bhkdJ_CrjeA8vrFisQStgoTSuEKI109oSiEhAqg7n78kU1iWEb-s8HGOhEGhSAI8ToPJJeuYz3dGAbLY3BqcyFQg",
+      "width": 1801
+    }
+  ],
+  "place_id": "ChIJmRj-HyS7MioRsDd58rrw-Dc",
+  "reference": "ChIJmRj-HyS7MioRsDd58rrw-Dc",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "207 Adelaide Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbfd"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9498246,
+      "lng": 115.8689574
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9364803,
+        "lng": 115.877922
+      },
+      "southwest": {
+        "lat": -31.9729986,
+        "lng": 115.827177
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+  "name": "Perth",
+  "photos": [
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108160677185240265921\">David Tabb</a>"
+      ],
+      "photo_reference": "CmRaAAAAJeCGHUd6RZz3aG7l1lPRhS774a0l-b4PdTk32Kymlkka-1UP-yXgUbWOwiRpml1xaYENo_3xIVzRtvZ4T5Bhs-NFokn0i2P-oywwmVrmNc-_A59EkdALbrxBE_dm-LeNEhBGSVUW3Cq6QrxIPX2OjrctGhTnhXZT2FrqFv1sSTIdEBFlbxgECA",
+      "width": 4608
+    }
+  ],
+  "place_id": "ChIJc9U7KdW6MioR4E7fNbXwBAU",
+  "reference": "ChIJc9U7KdW6MioR4E7fNbXwBAU",
+  "scope": "GOOGLE",
+  "types": [
+    "locality",
+    "political"
+  ],
+  "vicinity": "Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbfe"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9611639,
+      "lng": 115.8717754
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9600496197085,
+        "lng": 115.8730190802915
+      },
+      "southwest": {
+        "lat": -31.9627475802915,
+        "lng": 115.8703211197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Crowne Plaza Perth",
+  "photos": [
+    {
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115232656869638271393\">Crowne Plaza Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAh9uO-ekQlgKmGlWad2PVQlyR5tYlcyfmvTX0ss370SFskbVQN0blhrG5NIx88xniEsoiEm59SkSzJwbvhzSgVn2KUhod8RPR4Ddfcm_zUAEcDua2-QXDFQCMyw49xnYdEhB3E51cBLy1DLuZehhHJGbOGhS2wUg7Bd_4xZPDpOOYJThiuCQDAQ",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJf9ITDCO7MioRKlDn-yTKbbM",
+  "reference": "ChIJf9ITDCO7MioRKlDn-yTKbbM",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "54 Terrace Road, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcbff"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9579372,
+      "lng": 115.8647079
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9563913197085,
+        "lng": 115.8661583302915
+      },
+      "southwest": {
+        "lat": -31.9590892802915,
+        "lng": 115.8634603697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Duxton Hotel Perth",
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105473410416889072970\">Duxton Hotel Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAwcroaYfTztP1AmLJL6GEx7_EyqMpkVzcLe6mLutF-BRp5VSvhZSXyzj4bRiCGhaQXRD7MNSSjUzyHV2n7TTpT2CE-7wQshK6Ywp4Ow-6Jr3g_mN7HJd9JgDPog8EIG1IEhDh4wqNwQfJiIweeHrKqy9XGhRC1p9SrGUtbLiBWReZMZHAZf2Ydw",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJX_09MCa7MioRDV3ixi9fX-A",
+  "reference": "ChIJX_09MCa7MioRDV3ixi9fX-A",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "1 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc00"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95841590000001,
+      "lng": 115.8730322
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9572250697085,
+        "lng": 115.8743091802915
+      },
+      "southwest": {
+        "lat": -31.9599230302915,
+        "lng": 115.8716112197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Comfort Hotel Perth City",
+  "photos": [
+    {
+      "height": 1930,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109567565082195586498\">Comfort Hotel Perth City</a>"
+      ],
+      "photo_reference": "CmRaAAAAI7L7mPeVJEMVpCfEU0IdG0ZhWNAbR94dq84dXOrLAT0zBJryeAk0NMDA_q51to1PuHtfiR7GHLpHuhfM2UTwczGY1TyhtOH96wDDHm8Kk_73GoW7ODvVwHnS95seywAeEhDlgfE_iX9ZNhVxZPB9w4dlGhThZ3pif9bl21ZqZO2UlE2RO4sDqQ",
+      "width": 2900
+    }
+  ],
+  "place_id": "ChIJLakYLSK7MioRlTQFtV_isNU",
+  "reference": "ChIJLakYLSK7MioRlTQFtV_isNU",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "200 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc01"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9592347,
+      "lng": 115.8453704
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9579043697085,
+        "lng": 115.8469165802915
+      },
+      "southwest": {
+        "lat": -31.9606023302915,
+        "lng": 115.8442186197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Ausotel By Argyle Kings Park",
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110041831405246906628\">Chiukit Ma</a>"
+      ],
+      "photo_reference": "CmRaAAAATTlfxMWjmdbxKg1QRXA7VQRnVvaK4OylXqG9VSPVBo9UfYCMoU4pDosSvpMmv7HYR_QCbA3WzxHVdIRLz6qm3dA6PLqvB6wmFOHiRRXR9X5MGC3glrvYZIWgULtTjIYmEhAqwISGT8TcHv7XMs83hnY5GhQ0cEaOFwLjNOPZTCFioWeHFZ6-zg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ42xaDtakMioRAvqlg6u4BCw",
+  "reference": "ChIJ42xaDtakMioRAvqlg6u4BCw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "166 Mounts Bay Road, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc02"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9497232,
+      "lng": 115.8350976
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9484307197085,
+        "lng": 115.8364211802915
+      },
+      "southwest": {
+        "lat": -31.9511286802915,
+        "lng": 115.8337232197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Quest on Rheola",
+  "photos": [
+    {
+      "height": 3543,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112476878220574105831\">Quest on Rheola</a>"
+      ],
+      "photo_reference": "CmRaAAAAIBQH4KPGjzJXv4KNTQe9KoyiSXrff7sXZD1u6M2iPlxROArrMmyNijNqerqwffgBxYRFJAikvaPh41DYB-rIZcofgfvThGCu65eAmKows5P-SBoEBSeqJ-WT7k-FPStYEhC868d3Cl8Q25H9uBFZBP-5GhQ2rAALGcUvobUwZHswHsBTRNnQ_w",
+      "width": 5315
+    }
+  ],
+  "place_id": "ChIJwf0EUDulMioRWIp5i3b1Sc0",
+  "reference": "ChIJwf0EUDulMioRWIp5i3b1Sc0",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "18 Rheola Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc03"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95427,
+      "lng": 115.862572
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9528633197085,
+        "lng": 115.8639021802915
+      },
+      "southwest": {
+        "lat": -31.9555612802915,
+        "lng": 115.8612042197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "European Restaurant",
+  "photos": [
+    {
+      "height": 1556,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109819675077445741782\">European Restaurant</a>"
+      ],
+      "photo_reference": "CmRaAAAAUh7Gat0r78VI0Y4N3zbdeDZut0h4fVRVwkGkdGQeR6TQelyJdRnlo_iZqhMAjrUXZFd3secW8woZGaD3TF1-1ERNclrPR80wlmIxv0KGxhku-e5pbS36lHESHw-SFZA3EhBWJ9A63npWMSLQa-wVZ0tHGhTtUMUunwYMIIHqoQu5L11SWN92lw",
+      "width": 2592
+    }
+  ],
+  "place_id": "ChIJiXPw59e6MioRPBJ32rGGG44",
+  "reference": "ChIJiXPw59e6MioRPBJ32rGGG44",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "97 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc04"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9566667,
+      "lng": 115.8655556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9551863697085,
+        "lng": 115.8669635302915
+      },
+      "southwest": {
+        "lat": -31.9578843302915,
+        "lng": 115.8642655697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Travelodge Hotel Perth",
+  "photos": [
+    {
+      "height": 4558,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107583052066347126563\">Travelodge Hotel Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAeOQ93otypEZ9FGFetKcidq72hQSaHDxvtbF7CbDdadSpgL3dTWbGXUi0paRDQFzPuc4m3N-zcLFMtkwMsV-00DlBbKczNAfscdzCQtbcENXiyQKNjl_FZvKCk46V1ARKEhBWxcHAOcusjVpGKdPtlL5QGhThTNwJs79H82WJSu5PD0NKBp2EDg",
+      "width": 6837
+    }
+  ],
+  "place_id": "ChIJQ8ddtie7MioRjItEs6_flxw",
+  "reference": "ChIJQ8ddtie7MioRjItEs6_flxw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "417 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc05"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9417277,
+      "lng": 115.8608031
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9403556697085,
+        "lng": 115.8620995802915
+      },
+      "southwest": {
+        "lat": -31.9430536302915,
+        "lng": 115.8594016197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Hotel Northbridge",
+  "photos": [
+    {
+      "height": 3102,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100873181253705634923\">Hongbing Shen</a>"
+      ],
+      "photo_reference": "CmRaAAAASadALQA1QZPcBtjB-s9b7QT5XRl26ZXvgoplxnLT7BYwyuZblLjF-DxyYmKD_G7aX9Y4cQl4BQibZi-WbfYo944IHyx5W1wknfq57QTtqXaomt9bEcQut7KIZYLKfK_2EhDeh11kAn23rBa4_hZ_fpIkGhQEjhih_JOEHoKp2nR95V8FURy6qw",
+      "width": 4684
+    }
+  ],
+  "place_id": "ChIJZYMoG866MioRO70qigLyhOc",
+  "reference": "ChIJZYMoG866MioRO70qigLyhOc",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "210 Lake Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc06"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9418736,
+      "lng": 115.8614531
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.94061756970851,
+        "lng": 115.8627426802915
+      },
+      "southwest": {
+        "lat": -31.9433155302915,
+        "lng": 115.8600447197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Coolibah Lodge Backpackers",
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112808236989022206205\">O K</a>"
+      ],
+      "photo_reference": "CmRaAAAAj9RdWn6kvGym-9Uelq1mWJN-v_bTKEBOs1xz-l8FLAnOLkf8ouhNahr4pAJzSfOjseoPtZzuLnS0NY8ovFlpdP8id0Bb5A00QORaoZjB0JPemPnLbcdgAbGkU_G6ljZhEhDpb0TI_BQBsBzevqlXrM68GhTu03Nj26568F87qbBCDicqF-5Zrg",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJb00eAc-6MioRpa1uguusyy4",
+  "reference": "ChIJb00eAc-6MioRpa1uguusyy4",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "194 Brisbane Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc07"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95297210000001,
+      "lng": 115.878492
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9517076697085,
+        "lng": 115.8798431802915
+      },
+      "southwest": {
+        "lat": -31.9544056302915,
+        "lng": 115.8771452197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Sebel East Perth",
+  "photos": [
+    {
+      "height": 3669,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113325718317797425031\">The Sebel East Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAjZXfo06aJGwh1i5QxWsiN0BHdZ8vixjSKkSYVjZ5muKsEEo2hBExufhFLJkaY6HxbebSu7TTAIY9M5rgmPtCM2IHjVF_c7nFJASMmNdOho7Om9rLTolJVlpju_HBupu-EhAoi1SFd4KBbN9uXASPnrz_GhTeqzfJWyY8TKw7QVTTq9IlXHosjA",
+      "width": 5501
+    }
+  ],
+  "place_id": "ChIJCUxCRR67MioRM0rALpjsi1c",
+  "reference": "ChIJCUxCRR67MioRM0rALpjsi1c",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "60 Royal Street, East Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc08"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9348867,
+      "lng": 115.8588697
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9335268697085,
+        "lng": 115.8601489802915
+      },
+      "southwest": {
+        "lat": -31.9362248302915,
+        "lng": 115.8574510197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Saowanee's Place Thai Restaurant",
+  "photos": [
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101675112072313726963\">Saowanee&#39;s Place Thai Restaurant</a>"
+      ],
+      "photo_reference": "CmRaAAAAO3knz9DK4Aiw4Rh5iSeEfEGtTAyOvTQQyS7j0Ip6kHV65hp3rAhO_VO1W0aakoGIpIkn9S2V_9aRFscVd08F1hQP42lL2oH0zuW_Wui3cxfoA27SHyAikkjMVCT7t88ZEhAEBQ7BtBCj4VfawfJP4xs-GhQXAEUBxxoIErHi2U3z1aCu0zDKYw",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJj4Oj5Mm6MioR6ifCKAsOJTI",
+  "reference": "ChIJj4Oj5Mm6MioR6ifCKAsOJTI",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "348 Fitzgerald Street, North Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc09"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9544337,
+      "lng": 115.8620615
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9531675697085,
+        "lng": 115.8636554802915
+      },
+      "southwest": {
+        "lat": -31.9558655302915,
+        "lng": 115.8609575197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Seasons Of Perth",
+  "photos": [
+    {
+      "height": 500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101393214457748502506\">Seasons Of Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAVAo4PX-gAX7HOgwdX7IJ-WVd27hA4UsjPcqTsN3p9VMxXNONApYRmOHYDRSvY6bJHYhyxxSX7T5OE-16TPccnIjhRAULo_tqAyrmwzy9i1p_EJU7vfIrseBMkn3ZJUB4EhBLJaG5HFWlRn2s61YDoSjhGhT5FbrH3ck7utQzB5D6KZuveWsqMg",
+      "width": 600
+    }
+  ],
+  "place_id": "ChIJRXf_3de6MioRW0t2WHTIw9M",
+  "reference": "ChIJRXf_3de6MioRW0t2WHTIw9M",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "37 Pier Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc0a"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9505939,
+      "lng": 115.8632307
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9492783697085,
+        "lng": 115.8646505302915
+      },
+      "southwest": {
+        "lat": -31.9519763302915,
+        "lng": 115.8619525697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Hive Hostel",
+  "photos": [
+    {
+      "height": 423,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114852241879361367797\">The Hive Hostel - Perth City - Northbridge</a>"
+      ],
+      "photo_reference": "CmRaAAAAhqFgbKM9CGOEe7Akal_0kgNVJ65rHVRLKPLmsL8f5RpHZhkQxQ2FZLjPEoMjV77QZV9go3-MlTLn_TWbpmShKf_waJyPIUGBg_5h8S26TNaWn9dbqjoFTymnkJQ8z5azEhDQ2-ZnFrz8Uvcj9TXxY4DfGhSUfhyNVIRr0LktnfKlGkWJosgRbg",
+      "width": 640
+    }
+  ],
+  "place_id": "ChIJzTryQte6MioRGjKM5jWzTfM",
+  "reference": "ChIJzTryQte6MioRGjKM5jWzTfM",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "55/63 Stirling Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc0b"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9475139,
+      "lng": 115.8601748
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9461829197085,
+        "lng": 115.8615642302915
+      },
+      "southwest": {
+        "lat": -31.9488808802915,
+        "lng": 115.8588662697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Hongkies Kitchen",
+  "photos": [
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103744964209920634076\">Hongkies Kitchen</a>"
+      ],
+      "photo_reference": "CmRaAAAALzeSVb34EMNRLfW1XMpcIZ8rAym9iJG-QRccawV7RECz1e1nANvVE5w-rU1N8BgEwUe9JwZimHAYBuBX5Zs7h6Elz9xWLAw9d3YOE5z_Dgjvxn6LfEnhnqkJ1gpk0oWvEhAqhtS09Gk3esbdbKYnSvojGhTkrrgYNyROKqgcXdmtm8nGX1nS2w",
+      "width": 1078
+    }
+  ],
+  "place_id": "ChIJOR4mCNG6MioR28xP9NcBZ2o",
+  "reference": "ChIJOR4mCNG6MioR28xP9NcBZ2o",
+  "scope": "GOOGLE",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "269 William Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc0c"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95445,
+      "lng": 115.86288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9530646197085,
+        "lng": 115.8641168802915
+      },
+      "southwest": {
+        "lat": -31.9557625802915,
+        "lng": 115.8614189197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "My Place Bar & Restaurant",
+  "photos": [
+    {
+      "height": 877,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110042447484384715628\">My Place Bar &amp; Restaurant</a>"
+      ],
+      "photo_reference": "CmRaAAAAULmRkOX-79CJIqsfVv7BKAQKqqV0eUO2wk4Wevn0bF76s-U5DCWx_q4bhdQJszwaXRLeENu3s_wmU_xfgdoJTTFadGqlDOk_lV-Q-8cejdz-T_W9QaW_LXZJxSBWbJSJEhClv5Xjor_iDW4qEFZSAGEdGhQqUhhlV_8D2F4fY68NqNF-EyBqRQ",
+      "width": 1315
+    }
+  ],
+  "place_id": "ChIJBRhn5te6MioRjoL4IEaYmsQ",
+  "reference": "ChIJBRhn5te6MioRjoL4IEaYmsQ",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "70 Pier Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc0d"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9612553,
+      "lng": 115.8772427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9597896697085,
+        "lng": 115.8785731802915
+      },
+      "southwest": {
+        "lat": -31.9624876302915,
+        "lng": 115.8758752197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Fraser Suites Perth",
+  "photos": [
+    {
+      "height": 3295,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111844256753194672597\">Fraser Suites Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAnQgcdsfSHc_4uJOfahFPiAjVhajKXucvPYCtOOKkkeazNAhAisRLmLUBXVCeok4D4V90zO_q-lGVSBdlacpDdimCZ1pnz2RGVy-oImICGNSf93WrkrwoIAFTKLDKdpxtEhC1rzN7oz8Xx6MqL2zzfJtgGhRBq6ZZm_db5JtVY7S-6A1hLDD5-w",
+      "width": 5000
+    }
+  ],
+  "place_id": "ChIJL1ModRi7MioRXey7MBIEC0M",
+  "reference": "ChIJL1ModRi7MioRXey7MBIEC0M",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "10 Adelaide Terrace, East Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc0e"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9366055,
+      "lng": 115.8476849
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9351721697085,
+        "lng": 115.8490459802915
+      },
+      "southwest": {
+        "lat": -31.9378701302915,
+        "lng": 115.8463480197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Beatty Lodge",
+  "photos": [
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102991888548062520683\">Beatty Lodge</a>"
+      ],
+      "photo_reference": "CmRaAAAAXhmnsg8UEQygJbzbYsnv0fOAWNIlEfUoQlWwHva3f-L1EttH67ll-26c3_j8YFkXMVjgfIYdTD2rVJkPk4202P3mdTmNJrc94grf0a2xg8kpAeZgYd2J0EMOMfCZ7DTHEhBsxdz9fXuJVw7eemLeB87jGhRg3iO8py5E1OZ0J3C5hmid3Y9vHw",
+      "width": 2880
+    }
+  ],
+  "place_id": "ChIJvbdSDEqlMioRBFvnpeDZtGw",
+  "reference": "ChIJvbdSDEqlMioRBFvnpeDZtGw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "235 Vincent Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc0f"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.953225,
+      "lng": 115.8438671
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9517741197085,
+        "lng": 115.8452453302915
+      },
+      "southwest": {
+        "lat": -31.9544720802915,
+        "lng": 115.8425473697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+  "name": "Dumas House",
+  "photos": [
+    {
+      "height": 600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101104282210286510537\">Dumas House</a>"
+      ],
+      "photo_reference": "CmRaAAAAthAC-LGCLMG4TF8rdvDfnyirfjdfqvgbVyjwvZFOwkUyGnuchfY52mag6iOApXC_oA9BxBjBogX78Hg5Ku9RsqhnmjXteVkKkOhYqNZRpxcmY82bIXlv-z57L92jYy6EEhAX-XGJehc3CFnnoaN1W7lWGhTz4CIcsfYUKhuTmB0g7eWUGogOCw",
+      "width": 936
+    }
+  ],
+  "place_id": "ChIJrdqF5y6lMioRzUXRS-tUY5Y",
+  "reference": "ChIJrdqF5y6lMioRzUXRS-tUY5Y",
+  "scope": "GOOGLE",
+  "types": [
+    "local_government_office",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "2 Havelock Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc10"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.947557,
+      "lng": 115.8464018
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9461713197085,
+        "lng": 115.8477688302915
+      },
+      "southwest": {
+        "lat": -31.9488692802915,
+        "lng": 115.8450708697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Perth City Apartment Hotel",
+  "photos": [
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118252856461533178704\">Perth City Apartment Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAA8M3L63B-I6Ugyjm3H1qzMJRnNG3dbNmNh092Zxah85g0I3CHCYb47WfiZ1M0d7j60Iio_SIlapx2Y_oP-TiaSqGA_4XlH_R-nNL0xL2YN5oue8DCP6ffB9ihuw1VAV_jEhBZulq60_x_33MAWNafpbmTGhTXFvV6BlEZ3P9829vkRDppl-sKxQ",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJ__-vATKlMioRwTQijr6I50o",
+  "reference": "ChIJ__-vATKlMioRwTQijr6I50o",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "875 Wellington Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0677c9df6b52a78dcc11"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9515617,
+      "lng": 115.8513413
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9502680697085,
+        "lng": 115.8528658802915
+      },
+      "southwest": {
+        "lat": -31.9529660302915,
+        "lng": 115.8501679197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Melbourne Hotel",
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103609903956675290238\">The Melbourne Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAA6GA9ycJUG4_CXlLitvhKOjarcuJSYxDCmSKD7PNU264UsRn3BDITWL8qW21Bff5SXkVGHbmyx7kRyckAUOCGsPbmAnxWJEH_Tx5LufnwAqGA5T-87e3vOGuu2zxdFrmmEhD2_uAynCFlGq0MjtryhgYkGhS8dV32krh4NMFDprCnZmrHBDfp9Q",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJKc-CryylMioRY7npLiDaRa8",
+  "reference": "ChIJKc-CryylMioRY7npLiDaRa8",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "33 Milligan Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc12"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95893009999999,
+      "lng": 115.8678019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9576057197085,
+        "lng": 115.8692177802915
+      },
+      "southwest": {
+        "lat": -31.9603036802915,
+        "lng": 115.8665198197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Novotel Perth Langley",
+  "photos": [
+    {
+      "height": 2400,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100129668642312317345\">Novotel Perth Langley</a>"
+      ],
+      "photo_reference": "CmRaAAAAq7KqTcBL_DO7DXM7O4BKm68Kwe0od33gFzR402ewOIl2Is076dSrm6Ua2bdXuiJutVg2OdgQOXVwJlQXK6k4KmYAf_7vSdPQooYI1C0la_nnJ9yqCmZDmY_zW1uSxNQGEhAr-RL6fb9W0mWCiRi-5fx6GhTzvp6HMs7kp6PJlzkj81plR2UYhg",
+      "width": 1600
+    }
+  ],
+  "place_id": "ChIJaV89mya7MioRcnTTbAKdLe8",
+  "reference": "ChIJaV89mya7MioRcnTTbAKdLe8",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "221 Adelaide Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc13"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9538972,
+      "lng": 115.8616528
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9525056697085,
+        "lng": 115.8630198302915
+      },
+      "southwest": {
+        "lat": -31.9552036302915,
+        "lng": 115.8603218697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Kangaroo Inn",
+  "photos": [
+    {
+      "height": 1594,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111144367739878880197\">Kangaroo Inn</a>"
+      ],
+      "photo_reference": "CmRZAAAA5wvW8CbPkuCYimrPjU3ADQfBGeV-M2zIx_WghsRlZlwpMrMEuC3N-igCLLc80f6YC_YOeAjPXrU2RUSNDUIzkijvMsVVtAnv93SpsD1zUU754H574iPDPsxQ8Ua5d7y9EhB14YQjyJeg-oQPXIlb9PfdGhTKAIwyqCb6eUs7OIDNTl8Fof-7yw",
+      "width": 2400
+    }
+  ],
+  "place_id": "ChIJ09LXyNe6MioRPrPLmiK-LbM",
+  "reference": "ChIJ09LXyNe6MioRPrPLmiK-LbM",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "123 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc14"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9568808,
+      "lng": 115.8658976
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9554974197085,
+        "lng": 115.8671483802915
+      },
+      "southwest": {
+        "lat": -31.9581953802915,
+        "lng": 115.8644504197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "All Suites Perth",
+  "photos": [
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105141720050259469841\">All Suites Perth</a>"
+      ],
+      "photo_reference": "CmRaAAAAp4L-HtlElpOoN-zYAqjP8uwZGbwoTy6sCwDsK1Hwf_Z4PxKlgzO8Z87lMCZBXnmRs1IjxUaCL3tG-IXdEIM9zoQ1Fj49DFZvBVueoWkAisKurduCKCgokUC25FUcP96xEhD_WLmMBVH5YdCvJeddQO2VGhShliwe9FK1KcCPGhZ0w8otFtcJ_w",
+      "width": 2880
+    }
+  ],
+  "place_id": "ChIJ-VhaSya7MioRNj2W6RyN51M",
+  "reference": "ChIJ-VhaSya7MioRNj2W6RyN51M",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "12 Victoria Avenue, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc15"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9377258,
+      "lng": 115.8411124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9363724697085,
+        "lng": 115.8425062302915
+      },
+      "southwest": {
+        "lat": -31.9390704302915,
+        "lng": 115.8398082697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Siena's - Italian Restaurant",
+  "photos": [
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109035448975311778264\">Jonathan</a>"
+      ],
+      "photo_reference": "CmRaAAAANAu30pBJ-1ZWQT9sBhEQi_M_LY-_r-izaxUvSxsTY2Hcks3hXH9bZNLGFBMsYAByN8VdjVlYFw_Bgtq47dMtFhJCnOqajfWarkbpefoqmamcH4uwFnD0pVubufPzzIx8EhBX5u7-5hlHgfcsg5_zj9YCGhSqP5Qx_ALQDbDzZAmuPr1z3LxWkg",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJCVsMwt-lMioRI_Tt1ZDBZos",
+  "reference": "ChIJCVsMwt-lMioRI_Tt1ZDBZos",
+  "scope": "GOOGLE",
+  "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "115 Oxford Street, Leederville"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc16"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.95777979999999,
+      "lng": 115.8707955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9565573697085,
+        "lng": 115.8720879302915
+      },
+      "southwest": {
+        "lat": -31.9592553302915,
+        "lng": 115.8693899697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Hay Street Traveller's Inn",
+  "photos": [
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107006157379343837556\">Hay Street Traveller&#39;s Inn</a>"
+      ],
+      "photo_reference": "CmRaAAAAAnBOi7Uz43B_CxZEd2s1MxJKHgrAnrZZxSQM7iI8ZztzZvEQ63A_2rRjoJuSgOr1vIg6c999Ju1uFTULTuL9vDndxryXRY4TIXVlMhA05Pl0FKQf_KQlZrRE6vGM89UtEhCi5nwnFMLATllMuVNBicw6GhTEVsKhwLXN1lHPmd7myuJSFvrtjg",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJu3qPWiG7MioR5nujfQAkYMI",
+  "reference": "ChIJu3qPWiG7MioR5nujfQAkYMI",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "266-268 Hay Street, East Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc17"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.94761,
+      "lng": 115.8595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9463795697085,
+        "lng": 115.8607747802915
+      },
+      "southwest": {
+        "lat": -31.9490775302915,
+        "lng": 115.8580768197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Haus Accommodation",
+  "photos": [
+    {
+      "height": 1216,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104140832989400295762\">Haus Accommodation</a>"
+      ],
+      "photo_reference": "CmRaAAAASKBWjyClBPBsU_xA8w8QnDJzx1Y7DxaXZFYZYEOmBrWxw6PPohP0pTm231uyVojNbbmyc_FOFTOPBwuZhuDcfb713S0JMfvIKh0V6l4DEnSAUBqihI8HyRCzdwuyVXiPEhBd81Yi9SyU2EqCiCFeUpQAGhRdbJnvkid_RD8vzYTe_kwHr7RkFQ",
+      "width": 1824
+    }
+  ],
+  "place_id": "ChIJlRyQddG6MioRBWq855DMiVM",
+  "reference": "ChIJlRyQddG6MioRBWq855DMiVM",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "42 Francis Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc18"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9586111,
+      "lng": 115.8730556
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9573386697085,
+        "lng": 115.8743697302915
+      },
+      "southwest": {
+        "lat": -31.9600366302915,
+        "lng": 115.8716717697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Mont Clare Boutique Apartments",
+  "photos": [
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105571281861473433666\">Maythem Abbas</a>"
+      ],
+      "photo_reference": "CmRaAAAAMx-1OPP8uUBHfFIUfKYtZjcy7EVnYAbHQeHL7zTt94TaDugu33rIXJ2xz1qlghE9vC7n3aCqSWbzH-lgzTIEANKQMEMOjWxsr41kGOZOIPu3NQu2Fz5h2uM-J_RovwtREhDH7HnF8WOBDxrHHtoI8R7TGhQ2JdsttNMNoOWbz1w_Jp8kIGij5g",
+      "width": 4160
+    }
+  ],
+  "place_id": "ChIJWeD4MyK7MioRJwC4sKfxInA",
+  "reference": "ChIJWeD4MyK7MioRJwC4sKfxInA",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "190 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc19"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.94611590000001,
+      "lng": 115.867664
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9447150697085,
+        "lng": 115.8690441302915
+      },
+      "southwest": {
+        "lat": -31.9474130302915,
+        "lng": 115.8663461697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Brewer Street City Stay B&B",
+  "photos": [
+    {
+      "height": 600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101774139437472935137\">Brewer Street City Stay B&amp;B</a>"
+      ],
+      "photo_reference": "CmRaAAAAMvBPAMuMWlVORvGGAHsqScvyXsz2sJs_93Fa-brjX9xhIcPDPNm8bTAvhNY68owN0dPkt473sZBy_a1l_UYbqyOZSXDAeT2SXUIi06OI2dXCn5S80anSQaKOFJO0DXoNEhCTDZ4YUIaPeY2dDT3V5cfnGhSwD-vKb7Akr2dpHYXdUSnpD1puAQ",
+      "width": 900
+    }
+  ],
+  "place_id": "ChIJuX-gqNu6MioRRW53CCnnkgM",
+  "reference": "ChIJuX-gqNu6MioRRW53CCnnkgM",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "69 Brewer Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc1a"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9534389,
+      "lng": 115.8749707
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9521880197085,
+        "lng": 115.8762747802915
+      },
+      "southwest": {
+        "lat": -31.9548859802915,
+        "lng": 115.8735768197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Perth's La Casa Rosa Bed and Breakfast",
+  "place_id": "ChIJfxjCFyC7MioRuu3JamkyeiU",
+  "reference": "ChIJfxjCFyC7MioRuu3JamkyeiU",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "62B Wittenoom Street, East Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc1b"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9436032,
+      "lng": 115.8556179
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9423190197085,
+        "lng": 115.8569258802915
+      },
+      "southwest": {
+        "lat": -31.9450169802915,
+        "lng": 115.8542279197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Spinners Backpackers",
+  "photos": [
+    {
+      "height": 334,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107326529468862070187\">Spinners Backpackers</a>"
+      ],
+      "photo_reference": "CmRaAAAAeAFSCrcb1KbM6p5rVVebYn5AsSedM5rdC-8Bvsdxeb_epVePBuhkMpX0NmMsM9iMVVTvodqggAlYrjofBEKj3oelsUywElpE0-jbB4Bhlx2UFSVt2ISSssEllySQzr-MEhCw3tqwi6R1Z0YsW-neqgL3GhQr7IOBoiU3nAdI9C-fe0ht3U09mQ",
+      "width": 500
+    }
+  ],
+  "place_id": "ChIJg3S2rs26MioREcEB5BaeBBU",
+  "reference": "ChIJg3S2rs26MioREcEB5BaeBBU",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "342 Newcastle Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc1c"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9477972,
+      "lng": 115.859925
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.94647961970851,
+        "lng": 115.8613432302915
+      },
+      "southwest": {
+        "lat": -31.9491775802915,
+        "lng": 115.8586452697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Britannia On William",
+  "photos": [
+    {
+      "height": 480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103983562362340038861\">Britannia On William</a>"
+      ],
+      "photo_reference": "CmRaAAAAJ22R9IOa2wlOjtbxNg_iDds_e5xfKqDCj1l2TjdepcczEr1FgGpyV5oNZpFsl9AnzX9YIr3Xu_JbOrkxgEzBQEKi_SiWBk1-HH-S2j9mNG79A7YfJCHxJcciy4QvYqi3EhAUe64lrYvTm-zkrWZE6cR8GhQOPCV7TztyKWINhLFWZVK6ab8eGg",
+      "width": 577
+    }
+  ],
+  "place_id": "ChIJextACdG6MioRlQnzRE-WE4I",
+  "reference": "ChIJextACdG6MioRlQnzRE-WE4I",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "253 William Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc1d"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9531815,
+      "lng": 115.8600093
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9518325197085,
+        "lng": 115.8613582802915
+      },
+      "southwest": {
+        "lat": -31.9545304802915,
+        "lng": 115.8586603197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "name": "JB Hi-Fi Forrest Chase",
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115362757048202324831\">Phillip Nyakpo</a>"
+      ],
+      "photo_reference": "CmRaAAAAC4xv37N9N0ku3fEeKUNK51VPLdYayONpVh4U0_7BDeezWITYhYT0EKbjHjgXIE75quSkUmMocl8crut9VvB6GWdLPQ7sMu6nxiRxY5rwfwQs7a1FG5-QsnqeX7q6ioIAEhAVn5Uhq4iuxj8UfLucNBNtGhTb22QidDhZqbokBR9FF2jdtmjqNA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJf7IP0NW6MioRp6hTospvyHs",
+  "reference": "ChIJf7IP0NW6MioRp6hTospvyHs",
+  "scope": "GOOGLE",
+  "types": [
+    "electronics_store",
+    "car_repair",
+    "home_goods_store",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "vicinity": "Forrest Chase, Tenancy 22, Level 1/200 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc1e"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9497985,
+      "lng": 115.839445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9484009697085,
+        "lng": 115.8406471302915
+      },
+      "southwest": {
+        "lat": -31.95109893029149,
+        "lng": 115.8379491697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Ramada by Wyndham Perth The Outram",
+  "photos": [
+    {
+      "height": 533,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104883876730413092801\">Ramada by Wyndham Perth The Outram</a>"
+      ],
+      "photo_reference": "CmRaAAAA7u_g_wvw2K8QO1nyNVhRTt3SYl_4N-gU0kvcgXeLc6XGukfRu0MvHVQkfBxJojfJYaYMvYz-y9ubhGPSUxFlpZTmAubAcGLXi8DxQDLAxXa8vXmTxqm_ytiUQyswIZ_gEhBIg0imEn_2a7XyvM6A_VyfGhSKcoINP_l4Z8_-wnmSCk_t2ZtPzg",
+      "width": 800
+    }
+  ],
+  "place_id": "ChIJdeldTiWlMioRD47yPBFkEgA",
+  "reference": "ChIJdeldTiWlMioRD47yPBFkEgA",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "32 Outram Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc1f"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.950889,
+      "lng": 115.852214
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9494660197085,
+        "lng": 115.8535965302915
+      },
+      "southwest": {
+        "lat": -31.95216398029149,
+        "lng": 115.8508985697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Quest West End",
+  "photos": [
+    {
+      "height": 3442,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109802547884095447917\">Quest West End</a>"
+      ],
+      "photo_reference": "CmRaAAAAv7y3LmBMx6Q9VWmUOADZZix4VhrBV72qEnWfXDhGhWsYg0gRFIRi17M0lZMi5arnMFItVhLewSVuGkcQBX1SbaBa9pQ2E6I6u0ForpAz_eCrj0dt45pq9wMehOeAU3INEhBiZTA0TJg_C4-J48Hg2Vr9GhTgGEkdUqrmhngWTvO46ZSsxoM1BA",
+      "width": 5163
+    }
+  ],
+  "place_id": "ChIJgQqITNO6MioR5nYzgLclREw",
+  "reference": "ChIJgQqITNO6MioR5nYzgLclREw",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "451 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc20"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9544531,
+      "lng": 115.8738678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9530710697085,
+        "lng": 115.8751202302915
+      },
+      "southwest": {
+        "lat": -31.9557690302915,
+        "lng": 115.8724222697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Bailey's Motel",
+  "photos": [
+    {
+      "height": 1836,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104907469229308847260\">Desmond Hui</a>"
+      ],
+      "photo_reference": "CmRaAAAAl9MQsRHIb9MxLLFspuRUCBcnWwg1P_euh_tD5RqxOK7JKBWy100vW3v6tnjEfK3eeFszPzkE_-VSXbOpkCv5o34A-_O11CZ-B-t10XXdULG-nmK5v5zt0MLiZVOmn6rbEhCKlHk85CdpE0E9qszrMWspGhRDd3VQmH6YgBD6XfUClE6ub83WYQ",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJQYO3RSC7MioRuuYq_sHzjiU",
+  "reference": "ChIJQYO3RSC7MioRuuYq_sHzjiU",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "150 Bennett Street, East Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc21"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9509929,
+      "lng": 115.8557771
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9496169197085,
+        "lng": 115.8570322302915
+      },
+      "southwest": {
+        "lat": -31.9523148802915,
+        "lng": 115.8543342697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "New York On King",
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114123140098132536228\">Shannon Bushell</a>"
+      ],
+      "photo_reference": "CmRaAAAAJ-0K-EtGW4diTlnKrDY9qmH4IaEUqFH75SyvxARqgwJYRcXx_KBp3eDA-eOGKP9hKRm4nTwZzjCbc1FT0knDijPDlFIYvqzbiCjU9hfJRd0OT_OdRXRhCmOAHz3Q7o1-EhARTLTwXrTJ6mYp21dhLm-aGhTmLO3KJmdOLmAE-WfNeweCoYuDkw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ-UqnwtS6MioRVroaBTCBOb8",
+  "reference": "ChIJ-UqnwtS6MioRVroaBTCBOb8",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "32/82 King Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc22"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.935032,
+      "lng": 115.8781446
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9336066697085,
+        "lng": 115.8795718302915
+      },
+      "southwest": {
+        "lat": -31.9363046302915,
+        "lng": 115.8768738697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Durack House Bed & Breakfast",
+  "photos": [
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114269451797718653960\">Patrice</a>"
+      ],
+      "photo_reference": "CmRaAAAAW6RuUKphGoOP8xk2_EUIuno9OK1wkH9FCANwfr1IVGOR-nF3ib7loOlCL4CZBj0efWaFmwhFLGzOjeSzedkG_8ahkG50gu3FCoIMv60DcvSzJI4KIjGGTt1V3Qe-OwlTEhAP9yxLmO4UgwzdYL76xhuZGhSCEzGOUeYz_ImBXVgtW9vo8l3mig",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJk6nuL-q6MioRVuiagWnfk1I",
+  "reference": "ChIJk6nuL-q6MioRVuiagWnfk1I",
+  "scope": "GOOGLE",
+  "types": [
+    "lodging",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "7 Almondbury Road, Mount Lawley"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc23"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.947656,
+      "lng": 115.826261
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9460064197085,
+        "lng": 115.8276095802915
+      },
+      "southwest": {
+        "lat": -31.94870438029149,
+        "lng": 115.8249116197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Lapa Brazilian Barbecue Subiaco",
+  "photos": [
+    {
+      "height": 306,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106928670685211696841\">Lapa Brazilian Barbecue</a>"
+      ],
+      "photo_reference": "CmRaAAAApgnWo-mYRbKxPJJYJrQSGIAg32CzSGVewb7f9stq-GB8RimfZTp_fg3KO_3yncMa8VP6XVvo0iUO2nckjAFaZLjBqpCN-DEJnJkosAaWPRZxoZ4l9tj_XUMU0MN4aO4gEhDdd3Fx5I2rezOIHWK6h6q4GhSzNoZfg4aqUXZS2ymHt6_cYUxo1g",
+      "width": 500
+    }
+  ],
+  "place_id": "ChIJZyUtaRalMioR-Gf6J7_OBjc",
+  "reference": "ChIJZyUtaRalMioR-Gf6J7_OBjc",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "375 Hay Street, Subiaco"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc24"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.954837,
+      "lng": 115.8562202
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9535328697085,
+        "lng": 115.8576757302915
+      },
+      "southwest": {
+        "lat": -31.9562308302915,
+        "lng": 115.8549777697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Sentinel Bar & Grill",
+  "photos": [
+    {
+      "height": 366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111078985385258810160\">Sentinel Bar &amp; Grill</a>"
+      ],
+      "photo_reference": "CmRaAAAAkm_r9ALz2A161QUWGN3JvMPEPGo5MtepiTYDZvvbGGZbBeDP0goYZW_nafPCzAaKUz4b7UBZhornw8tjCP5Zuvqs5balcSA3uKm4Lr0YeVGVWqp2lqgnIySe_4XZWQmmEhBQLsW_uSnKRT0UnAmFF9fHGhQZifRXjD7zGzL7yz2vAC7_FnQeuw",
+      "width": 650
+    }
+  ],
+  "place_id": "ChIJXf_uldW6MioRWctEioE0QPo",
+  "reference": "ChIJXf_uldW6MioRWctEioE0QPo",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "111 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e0678c9df6b52a78dcc25"
+  },
+  "geometry": {
+    "location": {
+      "lat": -31.9521863,
+      "lng": 115.8519877
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -31.9507227697085,
+        "lng": 115.8533914802915
+      },
+      "southwest": {
+        "lat": -31.95342073029149,
+        "lng": 115.8506935197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Tony Roma's",
+  "photos": [
+    {
+      "height": 848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103967902349931013169\">Tony Roma&#39;s</a>"
+      ],
+      "photo_reference": "CmRaAAAAK_jhCxfXUXZFurVZCjrMX0DcWdAO_dGE-xQVPqXUGnf8cY5guh1OVqRunucDpyjnKoquLGpI19X1KncFrZQpuNRsGJIq_FIoMq0ZZZNx5e18VKTN8xSAzu58z47J3RjNEhBTc21kY4SxXSvZlXrKrIUcGhSX2r8UI2AWFSo2NymKPDH-LuyFsQ",
+      "width": 566
+    }
+  ],
+  "place_id": "ChIJ0Wkuq9S6MioR-cagl8iSzVQ",
+  "reference": "ChIJ0Wkuq9S6MioR-cagl8iSzVQ",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "919 Hay Street, Perth"
+}]

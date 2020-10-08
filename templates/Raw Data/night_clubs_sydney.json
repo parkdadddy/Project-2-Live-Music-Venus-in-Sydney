@@ -1,0 +1,3078 @@
+[{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcf9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8823787,
+      "lng": 151.2046676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8810741197085,
+        "lng": 151.2059824802915
+      },
+      "southwest": {
+        "lat": -33.88377208029149,
+        "lng": 151.2032845197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Wake Up! Sydney",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113381452924465106507\">Wake Up! Sydney</a>"
+      ],
+      "photo_reference": "CmRaAAAAaoAfiFK2R6sZKLRHstVFUlJE8gT_OqUeM1OGQMPQVOgG6lRR8zYG5R50Bv36q_o7yyRJCjA9ALb6G4a6fNXGXKeWaUfCPZAETY3XnZP432De5R9zQPxXqFsZkftn8GqsEhBzE_OwfIgQ2vE9WweZncqlGhQhuLOsMeXO11fl_K_IXGO8cofNow",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJ1_5Y_yOuEmsRU3ORQg0SYpg",
+  "plus_code": {
+    "compound_code": "4693+2V Sydney NSW, Australia",
+    "global_code": "4RRH4693+2V"
+  },
+  "rating": 4.4,
+  "reference": "ChIJ1_5Y_yOuEmsRU3ORQg0SYpg",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "cafe",
+    "travel_agency",
+    "lodging",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1313,
+  "vicinity": "509 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcfa"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.886837,
+      "lng": 151.2138757
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8854779697085,
+        "lng": 151.2151499302915
+      },
+      "southwest": {
+        "lat": -33.8881759302915,
+        "lng": 151.2124519697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Toko Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106155344778912457393\">IS L</a>"
+      ],
+      "photo_reference": "CmRaAAAAxsZw39MzsdrdO5QVtv-eV5NwF200T_51OwvBsleUsMla5A961qfedHBc6sCrsxUo-btGqXTVAOGCpZ5jzVqjFv5pACv33-g_7bSt6Z7vcHffjoYBIzSBJvQEtmbUxcj-EhBY7EgOpNL7_DM3rkl2HcsfGhSrXhe2-4gTBYEAzoemilApbCL6ig",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJT-EHWQauEmsRZyvdi-Tn1nA",
+  "plus_code": {
+    "compound_code": "4677+7H Surry Hills NSW, Australia",
+    "global_code": "4RRH4677+7H"
+  },
+  "rating": 4.3,
+  "reference": "ChIJT-EHWQauEmsRZyvdi-Tn1nA",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 739,
+  "vicinity": "490 Crown Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcfb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8832789,
+      "lng": 151.2166425
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8818984697085,
+        "lng": 151.2177698802915
+      },
+      "southwest": {
+        "lat": -33.8845964302915,
+        "lng": 151.2150719197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Beresford",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100639708905806959891\">The Beresford</a>"
+      ],
+      "photo_reference": "CmRaAAAAl6dsox6_S-9E_MgWQr8jkVmKIuTcC4uH7khLDux5dTFeo36exEMDNIoBx9o7s7jy7Ejx53HQEi7BGMMzShLmdimrWiz7mQEZu0X-ESplZ_E_3GMezG8voIQyrfzVgzP4EhDk2wZZ1Fnn7IESI3CtvOBHGhSTlKZQWmygBosKEsZq-Ssj5tJytQ",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJSevoKhquEmsR6DYpvkUsgr0",
+  "plus_code": {
+    "compound_code": "4688+MM Surry Hills NSW, Australia",
+    "global_code": "4RRH4688+MM"
+  },
+  "rating": 4.2,
+  "reference": "ChIJSevoKhquEmsR6DYpvkUsgr0",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2266,
+  "vicinity": "354 Bourke Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcfc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8356886,
+      "lng": 151.2201331
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.83432816970851,
+        "lng": 151.2214576302915
+      },
+      "southwest": {
+        "lat": -33.83702613029151,
+        "lng": 151.2187596697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "The Neutral Bay Club",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111925659622336948778\">Amanda De Boire</a>"
+      ],
+      "photo_reference": "CmRaAAAAbF6-9Tio-t7BXhunUZ8VA32g73my9U4d_53CWe8F0Zc3LkP5dVmEthA8Tnb7zk1XDL4mYnA73uG1Am4NKQ319aP3ktpfyXKRcz4rDf-0b9XgyZVlFtqaWVkbPgzKCWTiEhCplNDi7eep4NIt3V9Yd5XLGhRIxNCOHeSUO6ribuVtiSyjvTNCsQ",
+      "width": 640
+    }
+  ],
+  "place_id": "ChIJEa2QtpCuEmsR4h3rQg0v4Dg",
+  "plus_code": {
+    "compound_code": "567C+P3 Neutral Bay NSW, Australia",
+    "global_code": "4RRH567C+P3"
+  },
+  "rating": 4.4,
+  "reference": "ChIJEa2QtpCuEmsR4h3rQg0v4Dg",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "school",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 59,
+  "vicinity": "3 Westleigh Street, Neutral Bay"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcfd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8666424,
+      "lng": 151.2036552
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.86534376970851,
+        "lng": 151.2050183302915
+      },
+      "southwest": {
+        "lat": -33.86804173029151,
+        "lng": 151.2023203697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Captains Balcony",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 611,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100392152225838948305\">The Captains Balcony</a>"
+      ],
+      "photo_reference": "CmRaAAAAFTL0qYEMjpPx7z9H1-7Jf61YmJBzTBP_i1Aj0Hf9jK7RTPG0upAsvJaDD3HQvL8pF79gzAoU6lckykLfIQ4YRIanmho-I3gNrTeX400xIi84-0evqiQ1patUhSHXphnWEhBI4MhnPLBTRtOZeV7njst7GhRyvJGkK1yZpfGD0MnazDfhXAibQw",
+      "width": 915
+    }
+  ],
+  "place_id": "ChIJ2eAQUEeuEmsRcLznK5EjcsA",
+  "plus_code": {
+    "compound_code": "46M3+8F Sydney NSW, Australia",
+    "global_code": "4RRH46M3+8F"
+  },
+  "rating": 4.5,
+  "reference": "ChIJ2eAQUEeuEmsRcLznK5EjcsA",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 461,
+  "vicinity": "46 Erskine Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcfe"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.864967,
+      "lng": 151.207785
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8635994197085,
+        "lng": 151.2088945302915
+      },
+      "southwest": {
+        "lat": -33.8662973802915,
+        "lng": 151.2061965697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "O Bar and Dining",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118130628209493840904\">Jarrod Miller</a>"
+      ],
+      "photo_reference": "CmRaAAAAPprY2lapMpnPb_j9VUW1Ufi_EznHA81WJfWdDHA-7Xur7u5Nk7hT-p8rk034rtERfpC7I5L9BUU-jxikR80Q60_h07AQ_aJvzdYLgOSa0p4VWZy5oiPIaG66ssRcm5bjEhBGuOjPaWnZOemhx-8qIujPGhTB5X5RTEYTNc1UNxmbXXBf03ELVw",
+      "width": 5376
+    }
+  ],
+  "place_id": "ChIJnzttoEGuEmsRjBEqGkOTGG8",
+  "plus_code": {
+    "compound_code": "46P5+24 Sydney NSW, Australia",
+    "global_code": "4RRH46P5+24"
+  },
+  "rating": 4.4,
+  "reference": "ChIJnzttoEGuEmsRjBEqGkOTGG8",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2659,
+  "vicinity": "Australia Square, 264, level 47 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dcff"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8813991,
+      "lng": 151.2173124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8800614697085,
+        "lng": 151.2185768302915
+      },
+      "southwest": {
+        "lat": -33.88275943029149,
+        "lng": 151.2158788697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "ARQ Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103947841743895778905\">Thomas Künzler</a>"
+      ],
+      "photo_reference": "CmRaAAAAZgnZVVC-IKuIoVbnX8x_pe1Nn-bAEjfxKt5kjBV6yWzFo7_NRxb-TQ1gfnAfNmyhTSer-BYbFTt3NVboCGIV_HRbQQr6Gupc9CJ06254s6ojCd5ATGEFz-L4fALzCNlsEhAGs_d67CjIkeu01mcAwR4fGhQjdy-a4HJ0NGFjDsCVg8msz1mBIg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJQUjlDBquEmsRN19CRywSXws",
+  "plus_code": {
+    "compound_code": "4698+CW Darlinghurst NSW, Australia",
+    "global_code": "4RRH4698+CW"
+  },
+  "rating": 3.7,
+  "reference": "ChIJQUjlDBquEmsRN19CRywSXws",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 337,
+  "vicinity": "16 Flinders Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd00"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8723395,
+      "lng": 151.2078375
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8710559197085,
+        "lng": 151.2093383302915
+      },
+      "southwest": {
+        "lat": -33.8737538802915,
+        "lng": 151.2066403697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The ArtHouse Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115065496236840725982\">The ArtHouse Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAACRAS38ufJODk1Uy45Ron1IsJOkVf5yeDpPt6NaYzC_ZCrfGcTb85UNbHNHA0rNmwtEQ5MV_kyKUPy9lf11s245mj00bh2E6WL3Bl5u-UDE7QaJi_bBhGQo0Ei43856Y5EhAyuakgeKKwE-xO4DG6fcMkGhR9BwAiHkv-Vpek3AuShXX31hWhyQ",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJ7Wd9XT6uEmsRSC2bqOeJQuA",
+  "plus_code": {
+    "compound_code": "46H5+34 Sydney NSW, Australia",
+    "global_code": "4RRH46H5+34"
+  },
+  "rating": 3.9,
+  "reference": "ChIJ7Wd9XT6uEmsRSC2bqOeJQuA",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 680,
+  "vicinity": "275 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd01"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8725296,
+      "lng": 151.2019109
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8712244697085,
+        "lng": 151.2034369302915
+      },
+      "southwest": {
+        "lat": -33.87392243029149,
+        "lng": 151.2007389697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Home The Venue",
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105557080574232551507\">A rajinthan</a>"
+      ],
+      "photo_reference": "CmRaAAAAbRDFf5b962Vk5kwFiICcF9iMazHKlrbSxxseWEhEAgszUlFoDEnDZYMHtNbLX8LrATli5-y5ovEWlDZPsw8mf7_-DubHuuE9eoU__JwtdYnACAZ4Zl_Gp8g4TXA8b25jEhCH4ghprZ4BlznXNGv-qozoGhQLbdUKN4nZu6k35YeJIA1vIarugg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJLaRY2DuuEmsRkgiW8LMz2Hs",
+  "plus_code": {
+    "compound_code": "46G2+XQ Sydney NSW, Australia",
+    "global_code": "4RRH46G2+XQ"
+  },
+  "rating": 3.2,
+  "reference": "ChIJLaRY2DuuEmsRkgiW8LMz2Hs",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 844,
+  "vicinity": "101/1-5 Wheat Road, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd02"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.868638,
+      "lng": 151.203427
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.86729246970851,
+        "lng": 151.2046410802915
+      },
+      "southwest": {
+        "lat": -33.86999043029151,
+        "lng": 151.2019431197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Chinese Laundry",
+  "photos": [
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116822720593169621558\">Neil Powell</a>"
+      ],
+      "photo_reference": "CmRaAAAAfP95dTjvLXTpCOOlDucZye5RtDcrsWa3nT-Kh-3pomSg-S55EdrmHK8DvojL8L8Cu9wbUhBaOajmoov4kOlPqLhtIIiL22Ok52GZ9_9w5zyvVO9xqODnAXv9zppfldmJEhDDBqqiWIYmsKYn-P1uAm9rGhQPmEYScLdXH0JKxXcKqv_p1nnelQ",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJ-TZFxjiuEmsRlgCmm_vT0Ng",
+  "plus_code": {
+    "compound_code": "46J3+G9 Sydney NSW, Australia",
+    "global_code": "4RRH46J3+G9"
+  },
+  "rating": 3.4,
+  "reference": "ChIJ-TZFxjiuEmsRlgCmm_vT0Ng",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 270,
+  "vicinity": "111 Sussex Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd03"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.877928,
+      "lng": 151.207685
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8765577697085,
+        "lng": 151.2089112302915
+      },
+      "southwest": {
+        "lat": -33.8792557302915,
+        "lng": 151.2062132697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Civic Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109710626326569095034\">The Civic Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAArPT1fWkL2F0usjVq8xFJ3S3VeMwv_o6eYMkrSbuA5pVj_l_77D-C_LiINYpqCPh7ytKjkimj6DOg0lQH3G0Yuvsl_eudqtr_mQkPRNK0yutBukoBLz2ZZZLMzLE9nuY0EhDcem1z9f-Tne0Oj4mLYY2mGhS_KuYcJN3ws2D6LExA_WMJv8Zzug",
+      "width": 3960
+    }
+  ],
+  "place_id": "ChIJq3ggjWaLtAERiu9FmlJKpQE",
+  "plus_code": {
+    "compound_code": "46C5+R3 Sydney NSW, Australia",
+    "global_code": "4RRH46C5+R3"
+  },
+  "rating": 3.9,
+  "reference": "ChIJq3ggjWaLtAERiu9FmlJKpQE",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 627,
+  "vicinity": "388 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd04"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.86760329999999,
+      "lng": 151.2078256
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8662033197085,
+        "lng": 151.2094864802915
+      },
+      "southwest": {
+        "lat": -33.8689012802915,
+        "lng": 151.2067885197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "GPO Grand",
+  "photos": [
+    {
+      "height": 400,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108064371499908919179\">GPO Grand</a>"
+      ],
+      "photo_reference": "CmRaAAAAwXmjIKiBidolsBLEudX_-tCE0TGq_LrSUuzZtQ3dBfOawNmk7OblNE8MnnZz5sd4yYk4EuHS708gb87CFNR5wnPTV509GJfVN90eFbX9xFZhcrpwg2b0LjQ_hfg5wR6FEhA5ulJc4IJJ1xBQ39jZWAgWGhTzMKU9ku4PeJIHBHZ8pgLPb4jcJg",
+      "width": 1000
+    }
+  ],
+  "place_id": "ChIJW9L-1WeuEmsRecvA53RRSos",
+  "plus_code": {
+    "compound_code": "46J5+X4 Sydney NSW, Australia",
+    "global_code": "4RRH46J5+X4"
+  },
+  "rating": 4.1,
+  "reference": "ChIJW9L-1WeuEmsRecvA53RRSos",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "night_club",
+    "cafe",
+    "bar",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 164,
+  "vicinity": "1 Martin Place, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd05"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8661449,
+      "lng": 151.2013767
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8646829697085,
+        "lng": 151.2029044302915
+      },
+      "southwest": {
+        "lat": -33.8673809302915,
+        "lng": 151.2002064697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Bungalow 8",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115360168180972631051\">Bungalow 8</a>"
+      ],
+      "photo_reference": "CmRaAAAAzVR1mrVgzxf0iveNyYa15QjGyODrIAMLHG-bOi_5KtjDTi4NOLMafkAdql1mPJO28G1yV7fVvIIaJRdVb6EJm_29gA82bD8Iqw0JMR295R-wDJWj98qXTXuXnRw9pUUAEhC7u25odTpf3PwYdNjTZPXEGhQusc3zfffUVwGzgbLnJ9j-hmZ_-Q",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJOXAGd0euEmsRuzx3RATwLHY",
+  "plus_code": {
+    "compound_code": "46M2+GH Sydney NSW, Australia",
+    "global_code": "4RRH46M2+GH"
+  },
+  "rating": 3.9,
+  "reference": "ChIJOXAGd0euEmsRuzx3RATwLHY",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1864,
+  "vicinity": "3 Lime Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd06"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87302289999999,
+      "lng": 151.2197299
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.87166276970849,
+        "lng": 151.2209947802915
+      },
+      "southwest": {
+        "lat": -33.87436073029149,
+        "lng": 151.2182968197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Twin Peeks Restaurant",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 567,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117449943341658996512\">Twin Peeks Restaurant</a>"
+      ],
+      "photo_reference": "CmRaAAAAw08dTSNc6qNruAkwF1YvKD9eaJXD0jeuOVsKr9SgEyV1smBaRO_Xi7ws8n5MTyaWtMsyQrZWsCvm4Aq4rLfWiYGzOY5KjPJ1hdCqTpySMSlBryIN3Khsgx8W5ohyPBAnEhATz1EBJ_TBRIlJPha3jW4hGhSLC1Q_TdnVC8IqVJ6mkEVasLb0yg",
+      "width": 642
+    }
+  ],
+  "place_id": "ChIJm2JV7xKuEmsR39HTk-oU-hY",
+  "plus_code": {
+    "compound_code": "46G9+QV Woolloomooloo NSW, Australia",
+    "global_code": "4RRH46G9+QV"
+  },
+  "rating": 4.5,
+  "reference": "ChIJm2JV7xKuEmsR39HTk-oU-hY",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "night_club",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 32,
+  "vicinity": "134 Forbes Street, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd07"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8729998,
+      "lng": 151.2049832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8716314697085,
+        "lng": 151.2063938302915
+      },
+      "southwest": {
+        "lat": -33.8743294302915,
+        "lng": 151.2036958697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Scary Canary",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100242543672152201044\">Anthony Jacob Karagdag</a>"
+      ],
+      "photo_reference": "CmRaAAAAeLgeOtllxvDuALK1QOS0Rd5T2fmKzGwXr4PeIO_duCPfd7yFNhEVismUY2AREvR3mkoCGmPIS2Lj7BDBBApKT_18X0x08cI9qck4xbupg-bV1P33D-ny0qh3UPugprkBEhBWcUHFX2xfoiy_TWyGpgBSGhQGzL2-XJngNDvvl_CvZKeizJ2Wmg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJq40aAzyuEmsRIUypOWN2FJU",
+  "plus_code": {
+    "compound_code": "46G3+RX Sydney NSW, Australia",
+    "global_code": "4RRH46G3+RX"
+  },
+  "rating": 3.3,
+  "reference": "ChIJq40aAzyuEmsRIUypOWN2FJU",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 592,
+  "vicinity": "469 Kent Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd08"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.86775430000001,
+      "lng": 151.2031866
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.86638911970851,
+        "lng": 151.2046927302915
+      },
+      "southwest": {
+        "lat": -33.86908708029151,
+        "lng": 151.2019947697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Retro",
+  "photos": [
+    {
+      "height": 3648,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105843679429360174012\">My Business Plus</a>"
+      ],
+      "photo_reference": "CmRaAAAAAUL8_AKPIci7OBJbuHRVmFoWfyMtsoainh-2MlI2kq5clJoK7P13MKDsNPiXSl0tAKwQDiGYCow7LebVGxnj5hwg9IN3iIPQLDZ8HXzLnQSwbflHnXhjI3tTflR-v5OHEhDnwhszMZ6rJ2lm75Mu4V30GhRVT1gDkK7iXiuJ0G0ZGw0vkHOWSw",
+      "width": 5472
+    }
+  ],
+  "place_id": "ChIJVadnoziuEmsRejPEM5isU-I",
+  "plus_code": {
+    "compound_code": "46J3+V7 Sydney NSW, Australia",
+    "global_code": "4RRH46J3+V7"
+  },
+  "rating": 3.1,
+  "reference": "ChIJVadnoziuEmsRejPEM5isU-I",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 130,
+  "vicinity": "81 Sussex Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd09"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8673595,
+      "lng": 151.1955698
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8659780197085,
+        "lng": 151.1969916302915
+      },
+      "southwest": {
+        "lat": -33.8686759802915,
+        "lng": 151.1942936697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Marquee Sydney, The Star",
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100936716492343709003\">Goldie Goldie</a>"
+      ],
+      "photo_reference": "CmRaAAAAp9IOzpDoeC8c4xoiO2beFuaP6-3CyfCI1szwWaKxzm3mp_MGqzmSVyXYIelQOGtdyRj9HAnYNzYaXXPKFO6M1rVsW8i3ysU-zeB24tkkRrLiCJZH6M4OxzPSwJp3vNtZEhDhCUBhAdtZ-zy4x8nDsa2vGhSeM3YoF4HpNgtQYUH1Quki_P4Rsw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJYdJUVDauEmsRp-7oNoEMhuQ",
+  "plus_code": {
+    "compound_code": "45MW+36 Pyrmont NSW, Australia",
+    "global_code": "4RRH45MW+36"
+  },
+  "rating": 3.3,
+  "reference": "ChIJYdJUVDauEmsRp-7oNoEMhuQ",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 313,
+  "vicinity": "Pirrama Road, Pyrmont"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd0a"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8712255,
+      "lng": 151.202382
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.87027861970849,
+        "lng": 151.2036382802915
+      },
+      "southwest": {
+        "lat": -33.87297658029149,
+        "lng": 151.2009403197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Pontoon Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118103386380436701353\">Steve Mavin</a>"
+      ],
+      "photo_reference": "CmRaAAAAb5cozcqDFyfYKNCQu7qFxoV5V8t9uznqraSAcSTv1ZFtwiYl1yA6j7ggSXTKJNCK0_qWg0S7XnMt6Du0cBMd_ysHCpKdd580acGMtaERZkJaaGToohiCZftj47rxpCxgEhAA8Gpu8z5KW0mQLb7KfgHNGhQHWfKtv-9hkfPJG-C-LV3sTSXvyA",
+      "width": 2448
+    }
+  ],
+  "place_id": "ChIJz64J_juuEmsRlgysoCP5Zcs",
+  "plus_code": {
+    "compound_code": "46H2+GX Sydney NSW, Australia",
+    "global_code": "4RRH46H2+GX"
+  },
+  "rating": 3.6,
+  "reference": "ChIJz64J_juuEmsRlgysoCP5Zcs",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1166,
+  "vicinity": "Cockle Bay Wharf, Wheat Road, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd0b"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8802139,
+      "lng": 151.2166639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8789167197085,
+        "lng": 151.2179515802915
+      },
+      "southwest": {
+        "lat": -33.8816146802915,
+        "lng": 151.2152536197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Oxford Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 635,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101040028058421136157\">The Oxford Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAAEwrR4Vrf3X_4v58RI391RQ6JsSvbVwKymENOLnZE-OWoDboJvRZmkSuPqSVplxLQC91ctXu0Mr3sunuwwH6aQooFDlaCFOfomIe7w4nn5CEXh1_Il6MmcuS-z_r7qSJ6EhDR2tIlxcdmNRLAiRrrftIVGhR4lsfyQgc8JzmxDyDhEUtE5yGI1A",
+      "width": 960
+    }
+  ],
+  "place_id": "ChIJZTMUsBCuEmsRrpF8BuG8McA",
+  "plus_code": {
+    "compound_code": "4698+WM Darlinghurst NSW, Australia",
+    "global_code": "4RRH4698+WM"
+  },
+  "rating": 4.1,
+  "reference": "ChIJZTMUsBCuEmsRrpF8BuG8McA",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 539,
+  "vicinity": "134 Oxford Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd0c"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.89171,
+      "lng": 151.250987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8903612197085,
+        "lng": 151.2528592302915
+      },
+      "southwest": {
+        "lat": -33.89305918029149,
+        "lng": 151.2501612697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "The Eastern",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 549,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107683331745534955338\">The Eastern</a>"
+      ],
+      "photo_reference": "CmRaAAAAld9l4PzJaa-p5Sr5HKEriTnScloTzJsz2vDfFNEU9qKjLaglpUb8oS7UjL7lucn3x9e4CzVjGPWh0EA4BCQzIckGRqiGbcMLfMyYxbJ00iQYgaWPsRIY8EtzPSCON1wBEhCDVqp02DIGew8ayMnT57JWGhT2K43giNekxKKuNeEd-hooK4mN9g",
+      "width": 960
+    }
+  ],
+  "place_id": "ChIJV3NGgvGtEmsRxUsSRpKtp2w",
+  "plus_code": {
+    "compound_code": "4752+89 Bondi Junction NSW, Australia",
+    "global_code": "4RRH4752+89"
+  },
+  "rating": 4,
+  "reference": "ChIJV3NGgvGtEmsRxUsSRpKtp2w",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "night_club",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 155,
+  "vicinity": "500 Oxford Street, Bondi Junction"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd0d"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.87787229999999,
+      "lng": 151.2133158
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8764694197085,
+        "lng": 151.2147285802915
+      },
+      "southwest": {
+        "lat": -33.8791673802915,
+        "lng": 151.2120306197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Slide Lounge",
+  "photos": [
+    {
+      "height": 1070,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111590862323382041029\">Slide Lounge</a>"
+      ],
+      "photo_reference": "CmRaAAAAFfMViM4IW3nRpfDvM-j-kDJFbbi6CGmWPO0oPFON-c-pcsPAzdAUMmtHFpw2cjsg9b_bv4fAYtf3UTbuZRfNnI8SqeuCI-zQtl3jB-uH7XOYhcJpyaEiVhwiRCWt6WleEhAXIZ2DaSnwI454xX94bMpnGhRjExloH1s8gRC7EdvrD56wNRz9zQ",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJnZLkBheuEmsRqq_MHoDS9CE",
+  "plus_code": {
+    "compound_code": "46C7+V8 Darlinghurst NSW, Australia",
+    "global_code": "4RRH46C7+V8"
+  },
+  "rating": 4.3,
+  "reference": "ChIJnZLkBheuEmsRqq_MHoDS9CE",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 217,
+  "vicinity": "41 Oxford Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd0e"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8672213,
+      "lng": 151.201675
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8658648697085,
+        "lng": 151.2031212802915
+      },
+      "southwest": {
+        "lat": -33.86856283029149,
+        "lng": 151.2004233197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Strike Bowling King Street Wharf",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107876525399565650482\">Strike Bowling King Street Wharf</a>"
+      ],
+      "photo_reference": "CmRaAAAAipByRs0cSZsRHIjDWwriYolwy0x_vIUFX4WM3Po3sf9QYt48cCxsvOtc-lPp24TSCEyr8rFU0eonTCLUD4unIYJ-FHs_7eHp35dCdZzEJfgk8zuL5j8E98m_XPaI6szgEhCVO_qI8wHjarh0qTN4rt23GhRTLFKBc-m4G2xLK1P_cRTnPAwyjw",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJOQSDf_VC1moR4ynBZdTtHXA",
+  "plus_code": {
+    "compound_code": "46M2+4M Sydney NSW, Australia",
+    "global_code": "4RRH46M2+4M"
+  },
+  "rating": 4.2,
+  "reference": "ChIJOQSDf_VC1moR4ynBZdTtHXA",
+  "scope": "GOOGLE",
+  "types": [
+    "bowling_alley",
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 851,
+  "vicinity": "22 The Promenade, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd0f"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8724111,
+      "lng": 151.2096528
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8710778697085,
+        "lng": 151.2111771302915
+      },
+      "southwest": {
+        "lat": -33.8737758302915,
+        "lng": 151.2084791697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Karaoke World",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109954858308768127319\">Karaoke World</a>"
+      ],
+      "photo_reference": "CmRaAAAA39Ec79q3aA2anICx4Xr6-o5Vj7PuhJmZFCp5KlkA3ajrYspDvuvxVX5_64j58JXbvafn_L_LD0f_6sOzNZc8tLi8_XaxCTIbt60GzKDzNnJu-acxyiIn3-1KbvwxgbczEhDGQRdRhXr_j3UDFgVKwgNjGhTmIeATWwiCNuYZw5u0ynPvAqlBYg",
+      "width": 690
+    }
+  ],
+  "place_id": "ChIJf3vKIz6uEmsRrQPP0yKDr7A",
+  "plus_code": {
+    "compound_code": "46H5+2V Sydney NSW, Australia",
+    "global_code": "4RRH46H5+2V"
+  },
+  "rating": 3.3,
+  "reference": "ChIJf3vKIz6uEmsRrQPP0yKDr7A",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 173,
+  "vicinity": "185 Elizabeth Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd10"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.866573,
+      "lng": 151.2075269
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8646552197085,
+        "lng": 151.2088452302915
+      },
+      "southwest": {
+        "lat": -33.8673531802915,
+        "lng": 151.2061472697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "ivy precinct",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2594,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109300215552584936895\">ivy precinct</a>"
+      ],
+      "photo_reference": "CmRaAAAAMRYvBPtz0L-uVSB8NYLsMtqHrHKnYq7G00eN5T-RHaxoAjJpiD67_EIgfg55Q88PlyEgx93XzFWyatfQHyJBUztyCTnmYhvaTYh36CjeWLkzytA5-Uv87FmCYAgPsRy3EhBbuyx6aXAUKDxMRS_YWy-4GhSeU_nqRyE2r1yeoF3Kuf4z_NRk-A",
+      "width": 3900
+    }
+  ],
+  "place_id": "ChIJWwHAWUCuEmsRNlPEcQfDB5E",
+  "plus_code": {
+    "compound_code": "46M5+92 Sydney NSW, Australia",
+    "global_code": "4RRH46M5+92"
+  },
+  "rating": 4.1,
+  "reference": "ChIJWwHAWUCuEmsRNlPEcQfDB5E",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 3053,
+  "vicinity": "330 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd11"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.873428,
+      "lng": 151.2083821
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.87206836970849,
+        "lng": 151.2095717302915
+      },
+      "southwest": {
+        "lat": -33.87476633029149,
+        "lng": 151.2068737697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Echo Point",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117662116367227577757\">Echo Point</a>"
+      ],
+      "photo_reference": "CmRaAAAAYtCD8CaEkuwDbFSqdrE0camdcIglzvdYs2mFaQi7QoJGRLBPtPyOxkcNCAfYseuhvkXtIreXREy5m-y-oSeyvMyaGHPwWw4SO7ZMyFsQwrfrXuM0pNhBEKfehgHZm9k8EhD30o-IiUwPAYsLAd-p5CPvGhTw867Fn8wzAxyIx0Yvblg3fYsm0A",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJ5-wfdz6uEmsRC3Mqk2qsID0",
+  "plus_code": {
+    "compound_code": "46G5+J9 Sydney NSW, Australia",
+    "global_code": "4RRH46G5+J9"
+  },
+  "rating": 3.9,
+  "reference": "ChIJ5-wfdz6uEmsRC3Mqk2qsID0",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 309,
+  "vicinity": "Basement/262 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd12"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8849766,
+      "lng": 151.2078579
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.88365546970851,
+        "lng": 151.2092332302915
+      },
+      "southwest": {
+        "lat": -33.8863534302915,
+        "lng": 151.2065352697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Ding Dong Dang",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114301302439935689428\">Emma Dorrel</a>"
+      ],
+      "photo_reference": "CmRaAAAAE-hMVUcV7fku_ZU2KFSqM26mwl0GCXv4EnLoAk0YQGnlIbQXC_A6Kcbyr_N76PPw6FdAaKpxL7LPjdCFvGXbm1j0EcnK6tJ7_C9U4qDsOpXDkrZ_uldfCLnOduRs0oBaEhAHefFeHOLg-RlYL69OznvkGhQVyJ_SzsGcxCsEsgRNjo1MCBp4cg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJw_72oSGuEmsRO72WGOlPliE",
+  "plus_code": {
+    "compound_code": "4685+24 Surry Hills NSW, Australia",
+    "global_code": "4RRH4685+24"
+  },
+  "rating": 3.7,
+  "reference": "ChIJw_72oSGuEmsRO72WGOlPliE",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 194,
+  "vicinity": "7 Randle Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd13"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8745637,
+      "lng": 151.2230504
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8731498197085,
+        "lng": 151.2243103802915
+      },
+      "southwest": {
+        "lat": -33.8758477802915,
+        "lng": 151.2216124197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Bada Bing Night Spot",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106364301474124777068\">David R Linke</a>"
+      ],
+      "photo_reference": "CmRaAAAAhUM0UMCOR1Uwt2KTGz9bLgjZ8RIjdvoziXDg38YT4mOQPkxG4wz7Sjfo_w5CyPZge0ewQdySxOJhRNWd32YEnjwTgXWL1GibDke0yMcngb81XJHeIL5PjBzMuALD8674EhB6TOShnrNIw0DUtA_DQuGdGhTNhmDvILa59It68kvbl2l_1kXjEQ",
+      "width": 1641
+    }
+  ],
+  "place_id": "ChIJobNqdA2uEmsRgAG62iT5Mao",
+  "plus_code": {
+    "compound_code": "46GF+56 Potts Point NSW, Australia",
+    "global_code": "4RRH46GF+56"
+  },
+  "rating": 3.6,
+  "reference": "ChIJobNqdA2uEmsRgAG62iT5Mao",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 27,
+  "vicinity": "70A Darlinghurst Road, Potts Point"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd14"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8724756,
+      "lng": 151.2168684
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8710859697085,
+        "lng": 151.2181484302915
+      },
+      "southwest": {
+        "lat": -33.87378393029149,
+        "lng": 151.2154504697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "East Sydney Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110982194781403011252\">East Sydney Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAAq_y5Z6L5TGBLiRhXTTYFgfYCLpl_iCKKWEJpbapM9Z6moRj0S0qf8bRBA9NBuRXDckibdIro6-RIrrQoCLdJsNzbtvABtAjwq2bWcUdWf4D1zqAWYU2tgoTvq4CKUFLTEhABs3W8WoDEqegROl-oyE0iGhRJ4bs1SPDb8hOYQq2LU2GJ_eg3pQ",
+      "width": 3999
+    }
+  ],
+  "place_id": "ChIJfY-YZROuEmsRTfuYgQTHOhQ",
+  "plus_code": {
+    "compound_code": "46H8+2P Woolloomooloo NSW, Australia",
+    "global_code": "4RRH46H8+2P"
+  },
+  "rating": 4.3,
+  "reference": "ChIJfY-YZROuEmsRTfuYgQTHOhQ",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 296,
+  "vicinity": "Cnr Crown &, Cathedral Street, Woolloomooloo"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd15"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87789799999999,
+      "lng": 151.213136
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8764320197085,
+        "lng": 151.2145802802915
+      },
+      "southwest": {
+        "lat": -33.87912998029149,
+        "lng": 151.2118823197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Claire's Kitchen at le Salon",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3744,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101924905080109344852\">Claire&#39;s Kitchen at le Salon</a>"
+      ],
+      "photo_reference": "CmRZAAAAAnTmfYeu99ZZJlDmUtEQDxs3gohVozbYlecV2Qn35x-QkEjrnQ_pbWWtvz9PoWpmzt79kz3NpxQqge2M_mN8eDLSecLGlvXd7xszuY8iqynhuy9pGCQPS-8LsCUmCYvZEhAC7ibx63y3ER-51DDHocwSGhT9KCZP3NjEQK_Ou3xCEKiO00QmKA",
+      "width": 5616
+    }
+  ],
+  "place_id": "ChIJj8DtABeuEmsRA209I9hgnu8",
+  "plus_code": {
+    "compound_code": "46C7+R7 Surry Hills NSW, Australia",
+    "global_code": "4RRH46C7+R7"
+  },
+  "rating": 4.4,
+  "reference": "ChIJj8DtABeuEmsRA209I9hgnu8",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 216,
+  "vicinity": "35 Oxford Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd16"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87710879999999,
+      "lng": 151.2037951
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8757420197085,
+        "lng": 151.2051768302915
+      },
+      "southwest": {
+        "lat": -33.8784399802915,
+        "lng": 151.2024788697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "CEO Karaoke",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1371,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104902542985457079694\">CEO Karaoke</a>"
+      ],
+      "photo_reference": "CmRaAAAA1l-D2mBd7lIwuiZTLny2zGL8KIXGNhg-mQsigwRSGmhodsN-cGyHc7fD19Cx6SrRPoVv1CPGpHqAvGpLZUANpRzMqpk4H9toKodUwFY-08rWPWzVds-9p7PkEfh9Qh-oEhDNAac6-Ll8nu43TDvHlrDiGhQNV-1Zwsla139T9LTVELUU6r6zLw",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJPbclZzuuEmsRdFHcl4of_j8",
+  "plus_code": {
+    "compound_code": "46F3+5G Sydney NSW, Australia",
+    "global_code": "4RRH46F3+5G"
+  },
+  "rating": 3.1,
+  "reference": "ChIJPbclZzuuEmsRdFHcl4of_j8",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "general_contractor",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 250,
+  "vicinity": "Level 1, Number one Dixon Shopping Centre, 1 Dixon Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd17"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8794875,
+      "lng": 151.205582
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8781134697085,
+        "lng": 151.2068326802915
+      },
+      "southwest": {
+        "lat": -33.88081143029149,
+        "lng": 151.2041347197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "K Square Karaoke Lounge",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116963027196726093757\">Hao Huynh</a>"
+      ],
+      "photo_reference": "CmRaAAAAz9qmAsavAhrD91wFkiNj9YCN5VGcp-ssNUEiQzwKDZpmUrYVUpoUFDCM6FTVy3d91bVR-gz52H5ItkwNTvIzfXsM40pR8iOMDhG3HLOIWcOcQL9-Tj713rBe_qPH2IOnEhAVACgq3y2wUBJY5vuy1ml1GhRdTgVX_-LOdew8tbejVybhaOAnlA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJl_WSaiOuEmsRzCzXOP6GH3o",
+  "plus_code": {
+    "compound_code": "46C4+66 Haymarket NSW, Australia",
+    "global_code": "4RRH46C4+66"
+  },
+  "rating": 4,
+  "reference": "ChIJl_WSaiOuEmsRzCzXOP6GH3o",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 226,
+  "vicinity": "Capitol Square, G4/730-732 George Street, Haymarket"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd18"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8788984,
+      "lng": 151.2145639
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8775082197085,
+        "lng": 151.2159867302915
+      },
+      "southwest": {
+        "lat": -33.88020618029149,
+        "lng": 151.2132887697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Universal Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101162080996969354849\">Desmond Ho</a>"
+      ],
+      "photo_reference": "CmRaAAAANrNphFclTDUyzvLXDvSudNEM55AFeMwKV2T8AnhQUKIuyCBIJsZ6BufHEhJIkUJKAEKW8k0DKj43OuILCIGVoMRfrFzhoGKc2b-nStzSSvSzJgr0NbtrmTKf92xx5qxgEhBLuVuiRPM0i3EfYOvBu5vbGhRk_TQdGavW8bRvrB3IwZJ9cFrgGQ",
+      "width": 2223
+    }
+  ],
+  "place_id": "ChIJVYz6FReuEmsRFwSmRguMGl8",
+  "plus_code": {
+    "compound_code": "46C7+CR Darlinghurst NSW, Australia",
+    "global_code": "4RRH46C7+CR"
+  },
+  "rating": 3.8,
+  "reference": "ChIJVYz6FReuEmsRFwSmRguMGl8",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 138,
+  "vicinity": "85-91 Oxford Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd19"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8933192,
+      "lng": 151.1832918
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8920302197085,
+        "lng": 151.1847213302915
+      },
+      "southwest": {
+        "lat": -33.89472818029149,
+        "lng": 151.1820233697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Marlborough Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 450,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116840797943637599578\">The Marlborough Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAAZSU2PVH2SWYBAJiyag5mbqKhAqOx50LMQD-hcAL89QzmeKnUGeOZYqBGVAUtK0b6g8rZX-_sEDU5b7dh5QCjxu_Pa-YLGaiGG8CN_7OTa9ri1CC529Bzt9Nb3wbe5qDkEhCLMJOMaXixUg6AHda6zYlYGhQFLEjWeKKIzn58_IBgZM-_Abxttw",
+      "width": 675
+    }
+  ],
+  "place_id": "ChIJ444mmvE0c2sRtXzws6E2Ip0",
+  "plus_code": {
+    "compound_code": "454M+M8 Newtown NSW, Australia",
+    "global_code": "4RRH454M+M8"
+  },
+  "rating": 3.8,
+  "reference": "ChIJ444mmvE0c2sRtXzws6E2Ip0",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1208,
+  "vicinity": "145 King Street, Newtown"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd1a"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8743742,
+      "lng": 151.2083752
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8730751697085,
+        "lng": 151.2097404802915
+      },
+      "southwest": {
+        "lat": -33.8757731302915,
+        "lng": 151.2070425197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "GALA KTV Club",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 4912,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104705217713858580658\">GALA KTV Club</a>"
+      ],
+      "photo_reference": "CmRaAAAAOgqCjLARm5uUWbivP7-9XUrKGr5v7uMdIqbFz8MksEoUU_GJidXV0R_NZolmBkwkwqIhGPfAHZ--Mp09VYXU3CELEPZHrKom8x9IyJ1BfZkslPaIpgFAeWyQxi7onJWIEhDBAWEwbWSCz_G1XrqywkP_GhSZg5EXzDhlJnqlO0mZ9doEmzfcUQ",
+      "width": 7360
+    }
+  ],
+  "place_id": "ChIJifljxD2uEmsR56dwJ9IOUV0",
+  "plus_code": {
+    "compound_code": "46G5+79 Sydney NSW, Australia",
+    "global_code": "4RRH46G5+79"
+  },
+  "rating": 3.6,
+  "reference": "ChIJifljxD2uEmsR56dwJ9IOUV0",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 397,
+  "vicinity": "104 Bathurst Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd1b"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8945911,
+      "lng": 151.2272053
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.89318936970849,
+        "lng": 151.2285359802915
+      },
+      "southwest": {
+        "lat": -33.89588733029149,
+        "lng": 151.2258380197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Strike Bowling Entertainment Quarter",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100143445376212904618\">Strike Bowling Entertainment Quarter</a>"
+      ],
+      "photo_reference": "CmRaAAAAf6GdBqie6BTzdE76zaJam39qt5cnodFvXX1S7662hhxbjt5HNXQaHEsJthz77Yg2qHxsStoHiVM-SuKflRXR8UxTInYjmfBY8Oqyy97FWHxhFo_f8yvTRfLJaCdqI2pAEhAiuJPBJve0p3XbpxWnzDOqGhQ9rHiHDgoIQF2nY8rUMuwcRiJZUA",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJB3XF7v2xEmsR6fRyg4tHeeA",
+  "plus_code": {
+    "compound_code": "464G+5V Sydney NSW, Australia",
+    "global_code": "4RRH464G+5V"
+  },
+  "rating": 4.1,
+  "reference": "ChIJB3XF7v2xEmsR6fRyg4tHeeA",
+  "scope": "GOOGLE",
+  "types": [
+    "bowling_alley",
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 274,
+  "vicinity": "207/122 Lang Road, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd1c"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.883736,
+      "lng": 151.202234
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8824833197085,
+        "lng": 151.2035651302915
+      },
+      "southwest": {
+        "lat": -33.8851812802915,
+        "lng": 151.2008671697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Agincourt Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110974022495045315890\">Jeremy Thomas</a>"
+      ],
+      "photo_reference": "CmRaAAAA99dwSrOHNLkULZbyvGVJMYwyKaxbLC93PrFtkcmFJF0Aq_QcniN2-79QgcGrmzErFq_B1fGSvrre35_Y3patrlnTVrNsHFzjQfIm9lu6KBZ7QFM6pQv8rvAtHSyWrFCnEhDjz6D3Ze8cEBy6E4Vp4f5nGhS3negAYmI-ODIN2MCRp8zBMlYuaw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJy7Ni7SauEmsRx1e_vo_UwvA",
+  "plus_code": {
+    "compound_code": "4682+GV Sydney NSW, Australia",
+    "global_code": "4RRH4682+GV"
+  },
+  "rating": 3.8,
+  "reference": "ChIJy7Ni7SauEmsRx1e_vo_UwvA",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "lodging",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 279,
+  "vicinity": "871 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd1d"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.8663282,
+      "lng": 151.2075866
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8645452197085,
+        "lng": 151.2088018802915
+      },
+      "southwest": {
+        "lat": -33.8672431802915,
+        "lng": 151.2061039197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Changeroom",
+  "photos": [
+    {
+      "height": 608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114069550604936266393\">Changeroom</a>"
+      ],
+      "photo_reference": "CmRaAAAAPlvI_LcuaE9VONpY2Z69ht8H664MOiRk0bzofkI9G_sv80zcLzu4tXSp-B2O5vEqgR7Rb6TAcFMmR99gpcPqzpKu0NUXGPHhwwjhMpZN0o4tf5YgQ7jiyvXZwnmsHWaCEhB1bIo0V5NBSy6ByBO259awGhRMxrQhgl4w31H_4ZbYeAvGGJVctQ",
+      "width": 1080
+    }
+  ],
+  "place_id": "ChIJUfAR9kCuEmsRDDHba_govVo",
+  "plus_code": {
+    "compound_code": "46M5+F2 Sydney NSW, Australia",
+    "global_code": "4RRH46M5+F2"
+  },
+  "reference": "ChIJUfAR9kCuEmsRDDHba_govVo",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "vicinity": "F3 ivy, 320 George Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd1e"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8741409,
+      "lng": 151.2233595
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8727553697085,
+        "lng": 151.2246582802915
+      },
+      "southwest": {
+        "lat": -33.8754533302915,
+        "lng": 151.2219603197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Mandalay",
+  "place_id": "ChIJYzf4Eg2uEmsRz4TKJfLwu9k",
+  "plus_code": {
+    "compound_code": "46GF+88 Potts Point NSW, Australia",
+    "global_code": "4RRH46GF+88"
+  },
+  "rating": 4.3,
+  "reference": "ChIJYzf4Eg2uEmsRz4TKJfLwu9k",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 3,
+  "vicinity": "54 Darlinghurst Road, Potts Point"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd1f"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.87331770000001,
+      "lng": 151.2237404
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.87207451970851,
+        "lng": 151.2251677302915
+      },
+      "southwest": {
+        "lat": -33.8747724802915,
+        "lng": 151.2224697697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Twin Pecks All Male Revue Sydney",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103485785012505480556\">Twin Pecks All Male Revue Sydney</a>"
+      ],
+      "photo_reference": "CmRaAAAAzkdFX4otNO6uvRbl-9-ufYsl_MQ6E_Akr7ck-TV_heMJ29DgjV1-6ectXcv8O8r_WJFOYKol5mOxa5Y6APczMJuy30BK6JqPpqEi4wcXp616RFOEMj6MoRL4JnldTYOQEhBVQmtWtZ1HOiiT_r1trkqyGhTlM9H56hhDhfQVJvOIoPRIAaSE-A",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJBZTjOw2uEmsRmU86nmSQLc4",
+  "plus_code": {
+    "compound_code": "46GF+MF Potts Point NSW, Australia",
+    "global_code": "4RRH46GF+MF"
+  },
+  "rating": 5,
+  "reference": "ChIJBZTjOw2uEmsRmU86nmSQLc4",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 54,
+  "vicinity": "33-35 Darlinghurst Road, Potts Point"
+},{
+  "_id": {
+    "$oid": "5f7e06c7f9ea96e61672dd20"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.875384,
+      "lng": 151.223768
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8738624697085,
+        "lng": 151.2251481802915
+      },
+      "southwest": {
+        "lat": -33.8765604302915,
+        "lng": 151.2224502197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Flamingo Lounge",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105169949384489041792\">Flamingo Lounge</a>"
+      ],
+      "photo_reference": "CmRaAAAANPDCZD_Ho3XipwEgk6-nyqLWAgskrWlG-CvArttKE5hBZKuAThFmdEGMdDSZ44RY1rRrOz2yLmuBGcX6c2ZEnQ3kJp-J3dofz317uxm9y6BUkgRUhl3p7Rc-RKTfMUt1EhDgDf2-uvbKPc1Lco0fEd5bGhSHlCb0lKA43PC56IOPpLJc5Ro6gw",
+      "width": 1800
+    }
+  ],
+  "place_id": "ChIJX1MFpA2uEmsROiFc7jNQr58",
+  "plus_code": {
+    "compound_code": "46FF+RG Potts Point NSW, Australia",
+    "global_code": "4RRH46FF+RG"
+  },
+  "rating": 3.4,
+  "reference": "ChIJX1MFpA2uEmsROiFc7jNQr58",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 173,
+  "vicinity": "Level 1/33 Bayswater Road, Potts Point"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd21"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8744672,
+      "lng": 151.2157539
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8729909697085,
+        "lng": 151.2171346802915
+      },
+      "southwest": {
+        "lat": -33.8756889302915,
+        "lng": 151.2144367197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Club 77",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 811,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112616528338465968342\">Club 77</a>"
+      ],
+      "photo_reference": "CmRaAAAAwgE_1-djm0PfrPCPDXJC28wvnDoZaM_6UFL5OPtJrmPTUYwGMgxf_1q0-CAlG6XEyFAuDFVGcwScpbfHGUNt0B7PHVghglCzRLJcUrKjgKKMrlyMaMnMfV3uFdrbPLQNEhDUNhnWeaXBlB5WQ1lwWj7DGhRwN-UYrp4XJgPqEYkZzIkRLJSu3Q",
+      "width": 1440
+    }
+  ],
+  "place_id": "ChIJeX5cDBSuEmsRqQ2OyShXk_I",
+  "plus_code": {
+    "compound_code": "46G8+68 Darlinghurst NSW, Australia",
+    "global_code": "4RRH46G8+68"
+  },
+  "rating": 4.1,
+  "reference": "ChIJeX5cDBSuEmsRqQ2OyShXk_I",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 182,
+  "vicinity": "77 William Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd22"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -33.8759839,
+      "lng": 151.2157708
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8745678197085,
+        "lng": 151.2171411802915
+      },
+      "southwest": {
+        "lat": -33.8772657802915,
+        "lng": 151.2144432197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Reggio Lounge",
+  "photos": [
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101667377406406034431\">Reggio Lounge</a>"
+      ],
+      "photo_reference": "CmRaAAAAtTRBx2vpV0sWbb3aQZjCCC67NIkB-ohcKIbgXdhLLUAWiP0jhz9SEbEGL8Ce_O4KlGu7xCKPUja1dgqe00RbV7JFkCc3M7LJHYL1RM497CUUASua4F1MdrPlkvjXjiJAEhCRWNB3gv4dz3ELlx71f4LNGhRtm2dWd6b9NNSqBp-lH8fKEmaq4Q",
+      "width": 960
+    }
+  ],
+  "place_id": "ChIJF_lvrhauEmsRTrWwssvOB7E",
+  "plus_code": {
+    "compound_code": "46F8+J8 Darlinghurst NSW, Australia",
+    "global_code": "4RRH46F8+J8"
+  },
+  "rating": 4.4,
+  "reference": "ChIJF_lvrhauEmsRTrWwssvOB7E",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "meal_takeaway",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 185,
+  "vicinity": "85A Stanley Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd23"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8779706,
+      "lng": 151.2141309
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8767619197085,
+        "lng": 151.2154721802915
+      },
+      "southwest": {
+        "lat": -33.8794598802915,
+        "lng": 151.2127742197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Cliff Dive",
+  "photos": [
+    {
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113719639442868633401\">Ashley Hughes</a>"
+      ],
+      "photo_reference": "CmRaAAAAingnkMJnLEqkXRe9eLBAyP6fU9_ujfnoeV5bOWLwvKTkxfOQJxF5HtMSxgvIp8fACKJ96XpdAbXmJ90Wrn2KJEtNjxQF1t08lT7sfKfCnnD7BTcbybzEo0TSHja6jYF9EhBicK2jSh3xWXrQpS_AjK6vGhSJxmQcBr669sX4J4zFFrTU84UnlA",
+      "width": 2000
+    }
+  ],
+  "place_id": "ChIJOcC_AReuEmsR2b4rUmLUgn4",
+  "plus_code": {
+    "compound_code": "46C7+RM Darlinghurst NSW, Australia",
+    "global_code": "4RRH46C7+RM"
+  },
+  "rating": 3.8,
+  "reference": "ChIJOcC_AReuEmsR2b4rUmLUgn4",
+  "scope": "GOOGLE",
+  "types": [
+    "bar",
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 357,
+  "vicinity": "Basement, 16/18 Oxford Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd24"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8771094,
+      "lng": 151.2129523
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.87582121970851,
+        "lng": 151.2142265802915
+      },
+      "southwest": {
+        "lat": -33.87851918029151,
+        "lng": 151.2115286197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "AM//PM",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2249,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117413539804980513705\">Duan HongZhi</a>"
+      ],
+      "photo_reference": "CmRaAAAA19UzSl5KW8Gm4QfGbHzLYNAz8YVa7K9eWK1x2_xZr5inrq2YE2N9VCp-ob0e7BPnEHMBY4olBkx6njpFTS2nJSMaf3XbL2kYUkm8J4kppKgGoIV7Px9Yi6jTHP_dXqI7EhCpfSNZF8knXNFEFdhwvRJWGhTiIwJ1_kLPg14luiaYhnGBeA6KSw",
+      "width": 4003
+    }
+  ],
+  "place_id": "ChIJoQguVBauEmsR1XCp6yB2n-E",
+  "plus_code": {
+    "compound_code": "46F7+55 Darlinghurst NSW, Australia",
+    "global_code": "4RRH46F7+55"
+  },
+  "rating": 4.2,
+  "reference": "ChIJoQguVBauEmsR1XCp6yB2n-E",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 5,
+  "vicinity": "2 Oxford Street, Darlinghurst"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd25"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.86865,
+      "lng": 151.210319
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8673054197085,
+        "lng": 151.2117367302915
+      },
+      "southwest": {
+        "lat": -33.8700033802915,
+        "lng": 151.2090387697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Candelaria - Sydney",
+  "photos": [
+    {
+      "height": 779,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110693591698334803108\">Candelaria - Sydney</a>"
+      ],
+      "photo_reference": "CmRaAAAAclau9FmF4fQXGM8e7dfsMgdbtwxQxvsKLdbSAED9T9zXiHE5r_iHaERZJhu8ELgxmZJAdviniGocyqlgClV4NbdAOSIZVGGGYm9uuiaw660NkPFJSHI3W4ipnQ4zGhg2EhA887eIDI0JGPYxzmQ_njHaGhTHi7DIIj_HPPGUcKb9LIE2qsCsuw",
+      "width": 1386
+    }
+  ],
+  "place_id": "ChIJ6zMeHkCuEmsR4e7vzxfZ0Zk",
+  "plus_code": {
+    "compound_code": "46J6+G4 Sydney NSW, Australia",
+    "global_code": "4RRH46J6+G4"
+  },
+  "rating": 4.1,
+  "reference": "ChIJ6zMeHkCuEmsR4e7vzxfZ0Zk",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 227,
+  "vicinity": "55/65 Elizabeth Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd26"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8721142,
+      "lng": 151.2090093
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8707795197085,
+        "lng": 151.2105230302915
+      },
+      "southwest": {
+        "lat": -33.8734774802915,
+        "lng": 151.2078250697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Club Grand Hit",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116495893619885818543\">Club Grand Hit</a>"
+      ],
+      "photo_reference": "CmRaAAAAB3TlWuLtiUN-9WIgSxEW99Qf95obwTrqJfnC1Vfs1Mn4kozgxfgFy01BLysJzxm821aGmjaDckRAQRDOeKtwBJpZLMzkZxeB8dfuTuiJ0fj7Vcslo2purQe2GwjVHOFgEhAVCDDt6pxPBGyKlAOVZps3GhSPyQ93l3dcVYgrWi4BupPT4gEpIw",
+      "width": 1920
+    }
+  ],
+  "place_id": "ChIJJayvOz6uEmsRsDd1ZJd-VIo",
+  "plus_code": {
+    "compound_code": "46H5+5J Sydney NSW, Australia",
+    "global_code": "4RRH46H5+5J"
+  },
+  "rating": 4.4,
+  "reference": "ChIJJayvOz6uEmsRsDd1ZJd-VIo",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 7,
+  "vicinity": "Basement/155 Castlereagh Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd27"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8723092,
+      "lng": 151.2077949
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8709116697085,
+        "lng": 151.2093292802915
+      },
+      "southwest": {
+        "lat": -33.8736096302915,
+        "lng": 151.2066313197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "MVP Nightclub",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJc4noYD6uEmsRMYFIFuQgGQo",
+  "plus_code": {
+    "compound_code": "46H5+34 Sydney NSW, Australia",
+    "global_code": "4RRH46H5+34"
+  },
+  "rating": 4.1,
+  "reference": "ChIJc4noYD6uEmsRMYFIFuQgGQo",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 57,
+  "vicinity": "The ArtHouse Hotel, 275 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd28"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8768943,
+      "lng": 151.208059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8755169197085,
+        "lng": 151.2092504802915
+      },
+      "southwest": {
+        "lat": -33.8782148802915,
+        "lng": 151.2065525197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Space",
+  "opening_hours": {
+    "open_now": false
+  },
+  "place_id": "ChIJt4rmBD2uEmsRu9FmT9lWWW4",
+  "plus_code": {
+    "compound_code": "46F5+66 Sydney NSW, Australia",
+    "global_code": "4RRH46F5+66"
+  },
+  "rating": 3.7,
+  "reference": "ChIJt4rmBD2uEmsRu9FmT9lWWW4",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 19,
+  "vicinity": "127 Liverpool Street corner of, Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd29"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8826547,
+      "lng": 151.2103391
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8812210197085,
+        "lng": 151.2117464302915
+      },
+      "southwest": {
+        "lat": -33.8839189802915,
+        "lng": 151.2090484697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "name": "Diva Body Tone, Sydney Body Massage, City Erotic Massage, Surry Hills Body Massage, Central Erotic Massage",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102976066919896924614\">Diva Body Tone, Sydney Body Massage, City Body Massage, Surry Hills Body Massage, Central Body Massage</a>"
+      ],
+      "photo_reference": "CmRaAAAAgNFebwfhvNVo5bQDJwlCrR9Aumqzvwt0uBrrTqa7eNjnkty7YDwoXe3DvOCXJsMCumB4IehcTMljn-FLQH_0G0KaRI9a98dzfvNn5wMkKK8LENkynjtprcbx8cVqCp96EhAM5c4gpVUT9wZu2z0XIQsYGhQ-RA6hNjtuzpsY-e6wQlL6nNKwtg",
+      "width": 1600
+    }
+  ],
+  "place_id": "ChIJucWhnRiuEmsRqiHYvMs12MM",
+  "plus_code": {
+    "compound_code": "4686+W4 Surry Hills NSW, Australia",
+    "global_code": "4RRH4686+W4"
+  },
+  "rating": 3.8,
+  "reference": "ChIJucWhnRiuEmsRqiHYvMs12MM",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 16,
+  "vicinity": "43 Albion Street, Surry Hills"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd2a"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8631494,
+      "lng": 151.2096359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8614540197085,
+        "lng": 151.2108286302915
+      },
+      "southwest": {
+        "lat": -33.8641519802915,
+        "lng": 151.2081306697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Three Bottle Man",
+  "photos": [
+    {
+      "height": 607,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106971817685243513400\">Three Bottle Man</a>"
+      ],
+      "photo_reference": "CmRaAAAAx9bGZ40a5fxR-admSD6hww02s7EPP4gKhRcGZPSbxFBv7KHoP6Kfp9vIxCExzs0_jVZaFbirr9jdlZUzDtghZOqOcL-Cri87PjMn0IKyvarqmamqv9mZoAXkXFFE_N8kEhBLSdiTaEI1az8Nc0nBaWdHGhRIvUemzk8uLybzOLHoR4WVsW0ugw",
+      "width": 1080
+    }
+  ],
+  "place_id": "ChIJcY9QEEKuEmsR0GAP3jQSYMc",
+  "plus_code": {
+    "compound_code": "46P5+PV Sydney NSW, Australia",
+    "global_code": "4RRH46P5+PV"
+  },
+  "rating": 4.2,
+  "reference": "ChIJcY9QEEKuEmsR0GAP3jQSYMc",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "night_club",
+    "cafe",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 90,
+  "vicinity": "1 Bulletin Place, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd2b"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.863837,
+      "lng": 151.2087643
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8623963197085,
+        "lng": 151.2102184802915
+      },
+      "southwest": {
+        "lat": -33.86509428029149,
+        "lng": 151.2075205197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Republic Hotel",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107497511657376290074\">Republic Hotel</a>"
+      ],
+      "photo_reference": "CmRaAAAAEDOSu1q8um6KA15R9w37hqhxaZ5mReiIN2ZSzH-gUsnsPeeQeq6gnxTgQBA-aVc4It_UpHwgAWkyEM7m2sP55bAJmDi7DKip7v5VG9Ph9UCtjFH_jsTOHtyoqXpDT6ueEhBlnlz-0Ncw02dOaEthgHf3GhRJ9bU88FO7NrAoh5ikNwC941pbXQ",
+      "width": 1920
+    }
+  ],
+  "place_id": "ChIJS4fpjEGuEmsRlcCqLAjLgw4",
+  "plus_code": {
+    "compound_code": "46P5+FG Sydney NSW, Australia",
+    "global_code": "4RRH46P5+FG"
+  },
+  "rating": 3.8,
+  "reference": "ChIJS4fpjEGuEmsRlcCqLAjLgw4",
+  "scope": "GOOGLE",
+  "types": [
+    "restaurant",
+    "night_club",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 560,
+  "vicinity": "69-73 Pitt Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd2c"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.86573399999999,
+      "lng": 151.2066148
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8643763197085,
+        "lng": 151.2078408302915
+      },
+      "southwest": {
+        "lat": -33.8670742802915,
+        "lng": 151.2051428697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Treasure Cove Gaming Lounge",
+  "place_id": "ChIJyTF5DD-uEmsR9cpseVL0XeE",
+  "plus_code": {
+    "compound_code": "46M4+PJ Sydney NSW, Australia",
+    "global_code": "4RRH46M4+PJ"
+  },
+  "rating": 3,
+  "reference": "ChIJyTF5DD-uEmsR9cpseVL0XeE",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2,
+  "vicinity": "14 Carrington Street, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd2d"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.878135,
+      "lng": 151.203828
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8766945697085,
+        "lng": 151.2052671802915
+      },
+      "southwest": {
+        "lat": -33.8793925302915,
+        "lng": 151.2025692197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "K1 Karaoke Lounge",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1367,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108128981896714159707\">Kingsley Sai</a>"
+      ],
+      "photo_reference": "CmRaAAAAeO2rDvDG8YHmcWuzc-SbAWgM7xFg1r07rSZbsFum0ktAYRjpjhxCen4xfetAvjUYIJ95DWIN95iO8JxpmPFZgErvU_2KGhHPEN2XmWhZ8zrxt-IbQ4v8xvtyyJIpCny4EhDP8tjv3r8TUn3arOTV6OtuGhT3pqyMeitoK6rUs1TEKxW4ZVG2Uw",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJxzuurySuEmsR8UXlJTfCDj4",
+  "plus_code": {
+    "compound_code": "46C3+PG Haymarket NSW, Australia",
+    "global_code": "4RRH46C3+PG"
+  },
+  "rating": 3.4,
+  "reference": "ChIJxzuurySuEmsR8UXlJTfCDj4",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 371,
+  "vicinity": "Level 2/31-37 Dixon Street, Haymarket"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd2e"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.878918,
+      "lng": 151.2039191
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8774268697085,
+        "lng": 151.2053537302915
+      },
+      "southwest": {
+        "lat": -33.8801248302915,
+        "lng": 151.2026557697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Dynasty Karaoke",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 555,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115365562200846733797\">Dynasty Karaoke</a>"
+      ],
+      "photo_reference": "CmRaAAAAhPVJSqmpnwvC7nFTSRZzNMpJIJpMEuBYO1-EYMWOwk6M8ESdEEKxhon8NdxQ-VCF7OqIIiNQH3FnNBtMVo6ii0dkZL1hryheC1IGWNE-QxVGT5m2kWdm-5l7EvntWAEfEhDkoATSq3gxqZIxQNuO2v15GhSGeJGGAsES48BO-BzJ5BzgB1-VcA",
+      "width": 960
+    }
+  ],
+  "place_id": "ChIJ2ZJPnySuEmsR6oMEbpU1mm8",
+  "plus_code": {
+    "compound_code": "46C3+CH Haymarket NSW, Australia",
+    "global_code": "4RRH46C3+CH"
+  },
+  "rating": 3.6,
+  "reference": "ChIJ2ZJPnySuEmsR6oMEbpU1mm8",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 265,
+  "vicinity": "1/63 Dixon Street, Haymarket"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd2f"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.871605,
+      "lng": 151.202377
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.87072645,
+        "lng": 151.2035560802915
+      },
+      "southwest": {
+        "lat": -33.87343625,
+        "lng": 151.2008581197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Café del Mar Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114036082886118494756\">Cafe del Mar Sydney</a>"
+      ],
+      "photo_reference": "CmRaAAAADn8B2ElMp0yo1AkVcxUHWzEEh10q4eaHgcwLkR_Yhcw8WZUaTL4Sc0gXpVwprHUPSmtAJvADrWCpdZgP9CmTpllaM8TTTWS7vT_BIhBFnV_iATlBrPclB0oTxEp4yJZ8EhA-bX382kC2ZTKw81SDC2vvGhQmTvNmIrmW4yQIw3NbfcHzspNS1g",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJm9OT_TuuEmsRoyXCXt-_UFg",
+  "plus_code": {
+    "compound_code": "46H2+9X Sydney NSW, Australia",
+    "global_code": "4RRH46H2+9X"
+  },
+  "rating": 4,
+  "reference": "ChIJm9OT_TuuEmsRoyXCXt-_UFg",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1036,
+  "vicinity": "35 Wheat Road, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd30"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8727266,
+      "lng": 151.2019177
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8714050197085,
+        "lng": 151.2034108302915
+      },
+      "southwest": {
+        "lat": -33.8741029802915,
+        "lng": 151.2007128697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "S.A.S.H",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 427,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113719639442868633401\">Ashley Hughes</a>"
+      ],
+      "photo_reference": "CmRaAAAArMhXn-DKZGoyw79rjv4i73UIeT1A5Dby2DB6UscNVN-YfT9V1ZYgWVUTTTcMB_tlgqAgisbmgUbCbSoMs8gkeeL7Ohj4qMrQmK7qt1HIB5bqqlkfF0B2QEHfNyyR1883EhBEUvRWmAbziZlNEPQnkImBGhS3T5QRpT9NgKBONc0vAvGF_iU4Eg",
+      "width": 640
+    }
+  ],
+  "place_id": "ChIJwYoRzjuuEmsRoHvERWKsyew",
+  "plus_code": {
+    "compound_code": "46G2+WQ Sydney NSW, Australia",
+    "global_code": "4RRH46G2+WQ"
+  },
+  "rating": 2.3,
+  "reference": "ChIJwYoRzjuuEmsRoHvERWKsyew",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 119,
+  "vicinity": "101/1-5 Wheat Road, Sydney"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd31"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8806624,
+      "lng": 151.2032377
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8792838197085,
+        "lng": 151.2045687802915
+      },
+      "southwest": {
+        "lat": -33.8819817802915,
+        "lng": 151.2018708197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "D1 Karaoke Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110197823094516257480\">D1 Karaoke Sydney</a>"
+      ],
+      "photo_reference": "CmRaAAAAsqSYBKSuAcWhBUGWpdZZ1Rnw9TXeQDpCJ1ra4taF757hOu2yeY7NP129rnbjVT98Z5R0o-FeLXTWKPdRZ-sjX7uAe9F65vLSOP_G6Be9kC3IdXKow2QQ6-Ut5rwZxp4yEhDZ0rvVOFTCLKhcFbxVE7MEGhSP0W5EkylppskAU38ZzrlpWWOaTw",
+      "width": 1680
+    }
+  ],
+  "place_id": "ChIJZYKaZSSuEmsRl4YSiMuUkfw",
+  "plus_code": {
+    "compound_code": "4693+P7 Haymarket NSW, Australia",
+    "global_code": "4RRH4693+P7"
+  },
+  "rating": 4,
+  "reference": "ChIJZYKaZSSuEmsRl4YSiMuUkfw",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 204,
+  "vicinity": "37 Ultimo Road, Haymarket"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd32"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8596782,
+      "lng": 151.2066213
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.8583565697085,
+        "lng": 151.2080660802915
+      },
+      "southwest": {
+        "lat": -33.8610545302915,
+        "lng": 151.2053681197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Mardi Gras Disco Climb - The Rocks",
+  "place_id": "ChIJ6wT5JV2uEmsRWGXwuumsLgc",
+  "plus_code": {
+    "compound_code": "46R4+4J The Rocks NSW, Australia",
+    "global_code": "4RRH46R4+4J"
+  },
+  "reference": "ChIJ6wT5JV2uEmsRWGXwuumsLgc",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "vicinity": "3 Cumberland Street, The Rocks"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd33"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.8682215,
+      "lng": 151.1953756
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.86699771970849,
+        "lng": 151.1965092802915
+      },
+      "southwest": {
+        "lat": -33.86969568029149,
+        "lng": 151.1938113197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Red Room Sydney",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1095,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115956020203862476317\">Red Room Sydney</a>"
+      ],
+      "photo_reference": "CmRaAAAA8GKHh-hNsIei7KChkTiAAlOTKbk9tYRoHd4cQyN-K6eBftGJnCBTUpJaIkGW9udE4LHC2mw4hxD29t20hl3Taqv-ZpSx3GhV735oYU09bOFEtmn0gIz20IAm2OZOODyNEhDvyIS_Bv1e0RwSWPP-wXrpGhSPbjj46O3XWNStnHH6BHEh6yRVUw",
+      "width": 2956
+    }
+  ],
+  "place_id": "ChIJm9Rsn2quEmsRventy21zGTc",
+  "plus_code": {
+    "compound_code": "45JW+P5 Pyrmont NSW, Australia",
+    "global_code": "4RRH45JW+P5"
+  },
+  "rating": 3.8,
+  "reference": "ChIJm9Rsn2quEmsRventy21zGTc",
+  "scope": "GOOGLE",
+  "types": [
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 21,
+  "vicinity": "80 Pyrmont Street, Pyrmont"
+},{
+  "_id": {
+    "$oid": "5f7e06c8f9ea96e61672dd34"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -33.9022741,
+      "lng": 151.215242
+    },
+    "viewport": {
+      "northeast": {
+        "lat": -33.9009466697085,
+        "lng": 151.2167461302915
+      },
+      "southwest": {
+        "lat": -33.9036446302915,
+        "lng": 151.2140481697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "name": "HQ Living",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118359818144864661971\">HQ Living</a>"
+      ],
+      "photo_reference": "CmRaAAAAZlq1TR5apnCItEbQwLplqHj0VHfI0jwFuSDS4jwj0ycZMKYecRwKE0tNI4LD4QUzk3sY2EUfUnr9Xqc5AulDC3CvYvud8Aua0tD7Bjft8Cz4Y6H-yrkKOa2QDoSO9yh4EhAFNjX5yg4nPUqRBvJEHJ9qGhSrKU4C56R7Y9ZbhFwdawfptzODFQ",
+      "width": 2278
+    }
+  ],
+  "place_id": "ChIJTw8bxuixEmsRPptprA63mQg",
+  "plus_code": {
+    "compound_code": "36X8+33 Moore Park NSW, Australia",
+    "global_code": "4RRH36X8+33"
+  },
+  "rating": 4.3,
+  "reference": "ChIJTw8bxuixEmsRPptprA63mQg",
+  "scope": "GOOGLE",
+  "types": [
+    "furniture_store",
+    "night_club",
+    "home_goods_store",
+    "bar",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "user_ratings_total": 12,
+  "vicinity": "Shop 5 Ground Floor, Supa Centa, 2 Todman Avenue, Moore Park"
+}]

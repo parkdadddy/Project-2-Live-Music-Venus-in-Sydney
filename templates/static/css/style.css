@@ -1,0 +1,36 @@
+body {
+  padding: 0;
+  margin: 0;
+} 
+
+ /* #map,
+body,
+html {
+  height: 100%;
+}  */
+
+#map
+{
+    width: 1000px;
+    height:700px;
+    min-height: 100%;
+    min-width: 100%;
+    display: block;
+}
+
+#map_1
+{
+    width: 1000px;
+    height:700px;
+    min-height: 100%;
+    min-width: 100%;
+    display: block;
+}
+
+/* body {
+  padding: 0;
+  margin: 0;
+} */
+/* html, body, #map, .row-fluid{
+  height: 100%;
+} */

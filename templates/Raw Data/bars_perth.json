@@ -1,0 +1,1079 @@
+[{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbad"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9579372,
+      "lng": 115.8647079
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "Duxton Hotel Perth",
+  "place_id": "ChIJX_09MCa7MioRDV3ixi9fX-A",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1235,
+  "vicinity": "1 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbae"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.95445,
+      "lng": 115.86288
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "My Place Bar & Restaurant",
+  "place_id": "ChIJBRhn5te6MioRjoL4IEaYmsQ",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 138,
+  "vicinity": "70 Pier Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbaf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9515617,
+      "lng": 115.8513413
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Melbourne Hotel",
+  "place_id": "ChIJKc-CryylMioRY7npLiDaRa8",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 672,
+  "vicinity": "33 Milligan Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.954837,
+      "lng": 115.8562202
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Sentinel Bar & Grill",
+  "place_id": "ChIJXf_uldW6MioRWctEioE0QPo",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 581,
+  "vicinity": "111 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.946135,
+      "lng": 115.839425
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Murray Hotel",
+  "place_id": "ChIJAWpkZTqlMioRZ4ORmyedw8U",
+  "rating": 3.9,
+  "scope": "GOOGLE",
+  "user_ratings_total": 65,
+  "vicinity": "718 Murray Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.95316669999999,
+      "lng": 115.8525556
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "The George",
+  "place_id": "ChIJCT5zydS6MioRmKyUnvHqFzE",
+  "rating": 4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 254,
+  "vicinity": "216 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.955498,
+      "lng": 115.857217
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Andaluz Bar & Tapas",
+  "place_id": "ChIJSxPO8dW6MioRLBc0o4oilj4",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 300,
+  "vicinity": "21 Howard Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.937309,
+      "lng": 115.8419
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Garden",
+  "place_id": "ChIJO2fyFUilMioRbXotAl9I4nc",
+  "rating": 4.1,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1080,
+  "vicinity": "742 Newcastle Street, Leederville"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.95266979999999,
+      "lng": 115.8779147
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Royal on the Waterfront",
+  "place_id": "ChIJCUxCRR67MioRaKUcbp3olWw",
+  "rating": 4.1,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1304,
+  "vicinity": "60 Royal Street, East Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9534211,
+      "lng": 115.8561186
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Gramercy Bar And Kitchen",
+  "place_id": "ChIJVTbJ1de6MioR3dvmC9bbVs4",
+  "rating": 4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 338,
+  "vicinity": "Central Park, 10/777 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9521999,
+      "lng": 115.8531265
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Stables",
+  "place_id": "ChIJcygDpdS6MioRoLPH_rLXbLY",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 875,
+  "vicinity": "888 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.95073,
+      "lng": 115.840726
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Black Tom's",
+  "place_id": "ChIJGcpWjy-lMioRi5LyMHrG6oY",
+  "rating": 4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 175,
+  "vicinity": "27 Ord Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbb9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.94889169999999,
+      "lng": 115.8622556
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "name": "The Old Swan Barracks Backpacker Hostel Perth",
+  "place_id": "ChIJ7W9gxtC6MioR0btZvCuYTik",
+  "rating": 3.5,
+  "scope": "GOOGLE",
+  "user_ratings_total": 267,
+  "vicinity": "2-8 Francis Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbba"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.948818,
+      "lng": 115.859226
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Brass Monkey Hotel",
+  "place_id": "ChIJcxKJQtG6MioRC5k3z9F9lMs",
+  "rating": 3.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1870,
+  "vicinity": "James Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbbb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9486111,
+      "lng": 115.8594444
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Universal Bar",
+  "place_id": "ChIJp72cbNG6MioRUHDj0Wsw5QI",
+  "rating": 4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 599,
+  "vicinity": "221 William Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbbc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9531931,
+      "lng": 115.8531866
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Friends Restaurant",
+  "place_id": "ChIJu_rXxCK7MioRGW3bsQQezhA",
+  "rating": 4.7,
+  "scope": "GOOGLE",
+  "user_ratings_total": 464,
+  "vicinity": "Cloisters, 200 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbbd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9502778,
+      "lng": 115.8625
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Court",
+  "place_id": "ChIJt-v5N9e6MioR1Nh-mPvJkMM",
+  "rating": 4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 601,
+  "vicinity": "50 Beaufort Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbbe"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9439841,
+      "lng": 115.8662925
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Brisbane Hotel",
+  "place_id": "ChIJafdpbsS6MioRx64-PkrCeA4",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1251,
+  "vicinity": "292 Beaufort Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbbf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9596139,
+      "lng": 115.8588644
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Lucky Shag",
+  "place_id": "ChIJV4AIzyu7MioR51n7FXlyP0Q",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1946,
+  "vicinity": "Ferry Route Barrack St Jetty, Riverside Drive, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9510644,
+      "lng": 115.8528069
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Tiger Lil's",
+  "place_id": "ChIJpxWMWtO6MioRS-o1WSPi6LI",
+  "rating": 3.9,
+  "scope": "GOOGLE",
+  "user_ratings_total": 482,
+  "vicinity": "437 Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9575,
+      "lng": 115.8683333
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Grosvenor Hotel",
+  "place_id": "ChIJ3wL_wCa7MioR7XPajJJtZfY",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1064,
+  "vicinity": "339 Hay Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9381962,
+      "lng": 115.8699798
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Queens",
+  "place_id": "ChIJS99K_8O6MioR0Ev1pImBcw0",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1663,
+  "vicinity": "520 Beaufort Street, Highgate"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc3"
+  },
+  "business_status": "CLOSED_TEMPORARILY",
+  "geometry": {
+    "location": {
+      "lat": -31.9469871,
+      "lng": 115.8308258
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Vic",
+  "place_id": "ChIJaXMLyT2lMioR54q5Y3XkVUs",
+  "rating": 3.9,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1119,
+  "vicinity": "226 Hay Street, Subiaco"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9537989,
+      "lng": 115.8605727
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Arirang Korean BBQ Restaurant",
+  "place_id": "ChIJS5WWSNa6MioRcYdg4Es9mfI",
+  "rating": 3.9,
+  "scope": "GOOGLE",
+  "user_ratings_total": 486,
+  "vicinity": "91-93 Barrack Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9481765,
+      "lng": 115.8571473
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Geisha Bar",
+  "place_id": "ChIJ4dyxzNO6MioR-9SJ7AhDwPQ",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 195,
+  "vicinity": "135A James Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9473669,
+      "lng": 115.8588038
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Hit Studio Karaoke",
+  "place_id": "ChIJXwWwhNG6MioR1BUB2Gr1Ghw",
+  "rating": 3.7,
+  "scope": "GOOGLE",
+  "user_ratings_total": 187,
+  "vicinity": "64 Francis Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9519314,
+      "lng": 115.8553336
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Belgian Beer Cafe",
+  "place_id": "ChIJnbgPh9S6MioRNSlh-0mGJCo",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1604,
+  "vicinity": "Cnr King St &, Murray Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9375724,
+      "lng": 115.8424114
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Duende",
+  "place_id": "ChIJP9VNJEilMioRyv5oOe5CGOs",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 480,
+  "vicinity": "662 Newcastle Street, Leederville"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbc9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9555,
+      "lng": 115.8583336
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Lalla Rookh",
+  "place_id": "ChIJyxKsANa6MioRT2BRGUgrY88",
+  "rating": 4.1,
+  "scope": "GOOGLE",
+  "user_ratings_total": 315,
+  "vicinity": "77 Saint Georges Terrace, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbca"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.94867899999999,
+      "lng": 115.842608
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "name": "Crema Cafe",
+  "place_id": "ChIJ_4Wj1y-lMioR3fH9kfuCB8c",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 196,
+  "vicinity": "1204 Hay Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbcb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.945978,
+      "lng": 115.8611007
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "name": "The Moon",
+  "place_id": "ChIJka7qIHuhMioRigmPqCi_4-8",
+  "rating": 4.5,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1005,
+  "vicinity": "Shop 2/323 William Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbcc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9569416,
+      "lng": 115.8658981
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Hula Bula Bar",
+  "place_id": "ChIJ-VhaSya7MioRStlKJkp_P6k",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 314,
+  "vicinity": "12 Victoria Avenue, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbcd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9472331,
+      "lng": 115.8241936
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Subiaco Hotel",
+  "place_id": "ChIJGx1MnhalMioR0K4gqOe-6pY",
+  "rating": 3.8,
+  "scope": "GOOGLE",
+  "user_ratings_total": 569,
+  "vicinity": "465 Hay Street, Subiaco"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbce"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9477741,
+      "lng": 115.8559873
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Paramount Nightclub",
+  "place_id": "ChIJCbkGUtK6MioR8SHfGwMDwjE",
+  "rating": 2.6,
+  "scope": "GOOGLE",
+  "user_ratings_total": 110,
+  "vicinity": "163 James Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbcf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.95541690000001,
+      "lng": 115.8524094
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Metro Bar and Bistro",
+  "place_id": "ChIJSSdQSdW6MioRvhjUFBzU6Eo",
+  "rating": 3.9,
+  "scope": "GOOGLE",
+  "user_ratings_total": 141,
+  "vicinity": "33 Mounts Bay Road, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbd0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9481267,
+      "lng": 115.8575705
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Outback Jacks Northbridge - Australian Steak House",
+  "place_id": "ChIJh3Tc0tO6MioRZVaZZDRAX6o",
+  "rating": 4.2,
+  "scope": "GOOGLE",
+  "user_ratings_total": 876,
+  "vicinity": "124 James Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbd1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9376411,
+      "lng": 115.8417358
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Fibber McGee's",
+  "place_id": "ChIJGxUtH0ilMioR21McbjtbWgk",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 577,
+  "vicinity": "711 Newcastle Street, Leederville"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbd2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9464442,
+      "lng": 115.859339
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Aberdeen Hotel",
+  "place_id": "ChIJ9y3E7NG6MioR_aRJChSJ_tU",
+  "rating": 3.8,
+  "scope": "GOOGLE",
+  "user_ratings_total": 483,
+  "vicinity": "90 Aberdeen Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbd3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9492537,
+      "lng": 115.8590467
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Ezra Pound",
+  "place_id": "ChIJhbXbXNG6MioRPm9e4sPIKkE",
+  "rating": 4.5,
+  "scope": "GOOGLE",
+  "user_ratings_total": 340,
+  "vicinity": "189 William Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c4c9df6b52a78dcbd4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.95657280000001,
+      "lng": 115.8590564
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Perth's Famous Wine Cruise",
+  "place_id": "ChIJo7N76Sm7MioRT9n3KhtbTA0",
+  "rating": 4.7,
+  "scope": "GOOGLE",
+  "user_ratings_total": 7,
+  "vicinity": "3 Barrack Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbd5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9474455,
+      "lng": 115.8403318
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Mayfair Lane Pub & Dining Room",
+  "place_id": "ChIJrQEvdjClMioRgwkQU17chxY",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 519,
+  "vicinity": "72 Outram Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbd6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9496292,
+      "lng": 115.8587993
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "The Bird",
+  "place_id": "ChIJ-7j3T9G6MioRzVdUKV536DM",
+  "rating": 4.6,
+  "scope": "GOOGLE",
+  "user_ratings_total": 540,
+  "vicinity": "181 William Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbd7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.949429,
+      "lng": 115.859307
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Bivouac Canteen & Bar",
+  "place_id": "ChIJA7pCQdG6MioRjrWA69h_7dU",
+  "rating": 4.7,
+  "scope": "GOOGLE",
+  "user_ratings_total": 449,
+  "vicinity": "198 William Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbd8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.938193,
+      "lng": 115.8570427
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Hyde Park Hotel",
+  "place_id": "ChIJMVLP2su6MioRUOVdCIG8tMY",
+  "rating": 4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 752,
+  "vicinity": "331 Bulwer Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbd9"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9466589,
+      "lng": 115.8642891
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Ellington Jazz Club",
+  "place_id": "ChIJ8wl4gNq6MioR3m9stamj434",
+  "rating": 4.6,
+  "scope": "GOOGLE",
+  "user_ratings_total": 824,
+  "vicinity": "191 Beaufort Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbda"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9308913,
+      "lng": 115.8590028
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Rosemount Hotel",
+  "place_id": "ChIJJa_dmba6MioRzOxOqFnvXq8",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1400,
+  "vicinity": "459 Fitzgerald Street, North Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbdb"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.94833299999999,
+      "lng": 115.824272
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Bistro Felix",
+  "place_id": "ChIJA1ELlhalMioRMJddDwdGqf8",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 162,
+  "vicinity": "118-120 Rokeby Road, Subiaco"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbdc"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.925423,
+      "lng": 115.841573
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Oxford Hotel",
+  "place_id": "ChIJjc3AY1ClMioRew3ELXbVNFc",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 571,
+  "vicinity": "368 Oxford Street, Leederville"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbdd"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9473133,
+      "lng": 115.8572922
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Mustang Bar",
+  "place_id": "ChIJExtDJdK6MioRZcVm8WY_Sc8",
+  "rating": 4.1,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1033,
+  "vicinity": "46 Lake Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbde"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.92078460000001,
+      "lng": 115.8379483
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "The Cabin Small Bar",
+  "place_id": "ChIJvQUmrFmlMioRFJUy-GB7y3o",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 317,
+  "vicinity": "Upstairs, 174 Scarborough Beach Road, Mount Hawthorn"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbdf"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.94558079999999,
+      "lng": 115.8425527
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Liquor Store Association",
+  "place_id": "ChIJaeF8W7i6MioR8ksyMplPx-o",
+  "scope": "GOOGLE",
+  "vicinity": "Centrepoint Tower, 25/123B Colin Street, West Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe0"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9547237,
+      "lng": 115.8600668
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "43 Below Bar & Restaurant",
+  "place_id": "ChIJH_FTJNa6MioRqnv6gXucMmQ",
+  "rating": 4.1,
+  "scope": "GOOGLE",
+  "user_ratings_total": 312,
+  "vicinity": "43 Barrack Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe1"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9384003,
+      "lng": 115.8417909
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Niche Bar",
+  "place_id": "ChIJWchaIEilMioRqtLK7oCZyHU",
+  "rating": 3.9,
+  "scope": "GOOGLE",
+  "user_ratings_total": 324,
+  "vicinity": "7/663 Newcastle Street, Leederville"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe2"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9462443,
+      "lng": 115.8587765
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Varsity Northbridge",
+  "place_id": "ChIJUW6wvdG6MioR1nu7hJ6W7DI",
+  "rating": 4.5,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1003,
+  "vicinity": "94 Aberdeen Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe3"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9380519,
+      "lng": 115.8697429
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Must Winebar",
+  "place_id": "ChIJXRd8CMS6MioRDc1t5dftyEc",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 295,
+  "vicinity": "519 Beaufort Street, Highgate"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe4"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9463728,
+      "lng": 115.8642975
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Kuditj",
+  "place_id": "ChIJz9BBh9q6MioRykBTU4UFnP4",
+  "rating": 5,
+  "scope": "GOOGLE",
+  "user_ratings_total": 2,
+  "vicinity": "201 Beaufort Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe5"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9498416,
+      "lng": 115.8637478
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Cafe Crown",
+  "place_id": "ChIJNd9DUde6MioRQCAKPAFlXcQ",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 23,
+  "vicinity": "85 Stirling Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe6"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9456468,
+      "lng": 115.8567375
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "name": "Jack Rabbit Slim's",
+  "place_id": "ChIJ2ZxFC9K6MioRkYHFTjUQXdM",
+  "rating": 3.7,
+  "scope": "GOOGLE",
+  "user_ratings_total": 93,
+  "vicinity": "133 Aberdeen Street, Perth"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe7"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.94661,
+      "lng": 115.8573
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "name": "Holey Moley Golf Club Northbridge",
+  "place_id": "ChIJYeecF9K6MioRYJNFCO70AOY",
+  "rating": 4.4,
+  "scope": "GOOGLE",
+  "user_ratings_total": 1295,
+  "vicinity": "53 Lake Street, Northbridge"
+},{
+  "_id": {
+    "$oid": "5f7e04c5c9df6b52a78dcbe8"
+  },
+  "business_status": "OPERATIONAL",
+  "geometry": {
+    "location": {
+      "lat": -31.9476333,
+      "lng": 115.8566806
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "name": "Midori Teppanyaki and Bar",
+  "place_id": "ChIJrShaM9O6MioRg10GDP5Entc",
+  "rating": 4.3,
+  "scope": "GOOGLE",
+  "user_ratings_total": 231,
+  "vicinity": "27 Lake Street, Northbridge"
+}]
