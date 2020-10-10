@@ -1,34 +1,32 @@
 # Project-2-Live-Music-Venus-in-Sydney
-Last year, I finished my honours thesis on Live Music Ecology in the context of urban planning and cultural production. So in this project, I would like to consider it as an extenstion to my thesis . In particular, I would like to see how the skills that have been developed since project 1 can improve my approach to my initial research.
+Last year, I finished my honours thesis on Live Music Ecology in the context of urban planning and cultural production. So in this project, I would like to consider it as an extenstion to my thesis . In particular, I would like to see how the skills that have been developed since project 1 can improve my approach to my thesis.
 
-## Mini Context:
-The lockout laws which were introduced by the NSW Government have devastating effects on the live music ecology in Sydney, more than hundreds of the live performance venues have closed down. And besides the direct influences from policies and government commiments, live music ecology is also indirectly and directly affected by gentrification and the intensifying requirements on building upgrades.
 
-The core argument to introduce the lockouts laws is to reduce alcohol related harm, alcohol-related harm increases when the price of alcohol is lowered and when the density of licensed premises increases. There is an established literature on both matters, principally authored by social epidemiologists and economists, so one of the way to reduce the harm is to disperse venues and premises that sell alcohol, and to reduce the density.
+## Project Aims:
 
-And yet, to estabilish a thriving live music scene, clustering the venues together is critical, as it will create a destination, and strength the network which replies on the proxmity of the venues.
+- Retrive the geographical information of the venues and bottle shops, and store it in database for future reference.
+- Visualise the retrived data in forms of tables and maps.
 
-So is it to dispers or cluster?
+## Data Source
 
-Therefore, in this project, I would like to find out:
+- Google Map API place search
+- NSW Open data
+
+## Technique Used
+
+ETL
+-  use python make google map place api calls to get the data by nearby search in 5000 radius
+-  make connection to MongoDB and store the data in a list of dictionaries
+
+## Web
+
+Visualisation
+- Flask app was established
+- export venues data from mongodb to csv files
+- use jquery to read the csv file, and use geoCsv to visualise data on a map
+- use j3 to read the csv file and visualise it in form of table
   
-  (1) Firstly, the number of live music venues before and after the introduction of the lockout laws, and to current (if possible).
-    - the data will be presented on a map
-  
-  (2) Secondly, driven by the core argument of the lockout laws, the number of alcohol premises, live music venues and crime cases in serval 'night-out' preicnts around the world and compare them spatially and statistically. Namely, Melbourne CBD; Northbridge, Perth; Fortitude Valley, Brisbane;Kings Cross, Sydney; Berlin; Amsterdam ( reason being its one of the most successful night time economy cities);
-    - scatter plots to see if crime cases are correlated to number of alcohol selling premises
-
-## Methods:
-1. Mapping : In order to map out the venues in Sydney, it would require the geographical information of each venue, coordinates for best convinience in this project.
-            
-            - I would like to use web scrapping to gather a list of live music venues in Sydney with venue name and address
-              source: https://www.eventfinda.com.au/venues/sydney/live-music, Google API
-        
-            - After the names and address are retrived, I then will use GeoCoding to get the coordinates by using leaflet GeoCoding library
-  
-            - finally use leaflet to map out the venues on mapbox
-            
-            - it would be better if I can show veneues over a certain time period, I need to find an interactive element to scroll the years/data
-  
+![alt text](https://github.com/parkdadddy/Project-2-Live-Music-Venus-in-Sydney/blob/master/Images/Capture.PNG)
+![alt text](https://github.com/parkdadddy/Project-2-Live-Music-Venus-in-Sydney/blob/master/Images/Capture2.PNG)
 
 
